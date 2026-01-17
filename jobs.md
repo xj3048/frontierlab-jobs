@@ -1,27 +1,16 @@
 # AI Research Engineer Jobs
 
-**Update:** 1/259
-**Date:** 1/16/2026 21:23:02
-**Subject:** 🤖 AI Research Jobs - 92 positions (2 new!)
+**Update:** 2/259
+**Date:** 1/16/2026 21:23:51
+**Subject:** 🤖 AI Research Jobs - 92 positions
 **Total Positions:** 92
 
 ---
 
 🤖 AI Research Engineer Jobs Update
 
-*Date:* 2026-01-17 05:23:01
+*Date:* 2026-01-17 05:23:50
 *Total Positions:* 92
-*🆕 New Positions:* 2
-🆕 New Jobs (2) 🏢 DeepMind
-Research Scientist, Frontier, Zurich
-
-📍 Zurich, Switzerland
-🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7458419>
-🏢 X.ai
-Member of Technical Staff - Multimodal Tokenization
-
-📍 Palo Alto, CA
-🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5026860007>
 📋 All Research Engineer Positions (92) 🏢 OpenAI - 9 positions
 1. Research Engineer
 
@@ -117,7 +106,7 @@ Member of Technical Staff - Multimodal Tokenization
 
 📍 Location: Zurich, Switzerland
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7535238>
-13. Research Scientist, Frontier, Zurich 🆕
+13. Research Scientist, Frontier, Zurich
 
 📍 Location: Zurich, Switzerland
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7458419>
@@ -208,7 +197,7 @@ San Francisco, California, US
 
 📍 Location: Palo Alto, CA
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/4800103007>
-12. Member of Technical Staff - Multimodal Tokenization 🆕
+12. Member of Technical Staff - Multimodal Tokenization
 
 📍 Location: Palo Alto, CA
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5026860007>
