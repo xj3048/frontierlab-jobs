@@ -1,28 +1,23 @@
 # AI Research Engineer Jobs
 
-**Update:** 7/259
-**Date:** 1/19/2026 7:00:25
-**Subject:** 🤖 AI Research Jobs - 108 positions (2 removed)
-**Total Positions:** 108
+**Update:** 8/259
+**Date:** 1/20/2026 7:00:31
+**Subject:** 🤖 AI Research Jobs - 107 positions (1 removed)
+**Total Positions:** 107
 
 ---
 
 🤖 AI Research Engineer Jobs Update
 
-*Date:* 2026-01-19 15:00:21
-*Total Positions:* 108
-*❎ Removed Positions:* 2
-❎ Removed Jobs (2) 🏢 Anthropic
-Research Engineer / Research Scientist, Tokens
+*Date:* 2026-01-20 15:00:30
+*Total Positions:* 107
+*❎ Removed Positions:* 1
+❎ Removed Jobs (1) 🏢 DeepMind
+Research Scientist, Languages and Multimodality
 
-📍 New York City, NY; New York City, NY | Seattle, WA; San Francisco, CA
+📍 Bangalore, India
 This role no longer appears on the board.
-🏢 DeepMind
-Research Engineer, Google DeepMind
-
-📍 Zurich, Switzerland
-This role no longer appears on the board.
-📋 All Research Engineer Positions (108) 🏢 Anthropic - 17 positions
+📋 All Research Engineer Positions (107) 🏢 Anthropic - 17 positions
 1. [Expression of Interest] Research Scientist/Engineer, Alignment
 Finetuning
 
@@ -42,13 +37,13 @@ Finetuning
 🔗 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/4613568008>
 5. Research Engineer, Pre-training
 
+📍 Location: London, UK
+🔗 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/4681526008>
+6. Research Engineer, Pre-training
+
 📍 Location: Remote-Friendly (Travel-Required) | San Francisco, CA |
 Seattle, WA | New York City, NY
 🔗 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/4616971008>
-6. Research Engineer, Pre-training
-
-📍 Location: London, UK
-🔗 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/4681526008>
 7. Research Engineer/Research Scientist, Audio
 
 📍 Location: Remote-Friendly (Travel-Required) | San Francisco, CA |
@@ -141,7 +136,7 @@ Seattle, WA | New York City, NY
 📍 Location: San Francisco
 🔗 Apply Now
 <https://jobs.ashbyhq.com/openai/3f7e0545-a6b4-4108-82ca-653d16262934>
-🏢 DeepMind - 22 positions
+🏢 DeepMind - 21 positions
 1. Code Research Engineer, Horizons - Mountain View
 
 📍 Location: Mountain View, California, US
@@ -198,37 +193,33 @@ Seattle, WA | New York City, NY
 
 📍 Location: New York City, New York, US; San Francisco, California, US
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7312594>
-15. Research Scientist, Languages and Multimodality
-
-📍 Location: Bangalore, India
-🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7089682>
-16. Research Scientist, Model Collaborativity
+15. Research Scientist, Model Collaborativity
 
 📍 Location: Mountain View, California, US; New York City, New York, US;
 San Francisco, California, US; Seattle, Washington, US
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7176150>
-17. Research Scientist, Multimodal Generative AI, Google DeepMind
+16. Research Scientist, Multimodal Generative AI, Google DeepMind
 
 📍 Location: Singapore
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7135034>
-18. Research Scientist, Reasoning & AGI, Google DeepMind
+17. Research Scientist, Reasoning & AGI, Google DeepMind
 
 📍 Location: Singapore
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7135585>
-19. Research Scientist/Research Engineer, AI for Secure Code
+18. Research Scientist/Research Engineer, AI for Secure Code
 
 📍 Location: Mountain View, California, US; New York City, New York, US;
 San Francisco, California, US
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7392747>
-20. Research Scientist/Research Engineer, Multimodal Agents
+19. Research Scientist/Research Engineer, Multimodal Agents
 
 📍 Location: Mountain View, California, US
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7397383>
-21. Research Scientist, Robotics
+20. Research Scientist, Robotics
 
 📍 Location: Mountain View, California, US
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7102795>
-22. Research Scientist, Socioaffective Agents
+21. Research Scientist, Socioaffective Agents
 
 📍 Location: New York City, New York, US
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7363231>
@@ -251,12 +242,12 @@ San Francisco, California, US
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5013289007>
 5. Member of Technical Staff - Infrastructure Reliability
 
-📍 Location: Palo Alto, CA
-🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/4801451007>
-6. Member of Technical Staff - Infrastructure Reliability
-
 📍 Location: Dublin, IE
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/4982268007>
+6. Member of Technical Staff - Infrastructure Reliability
+
+📍 Location: Palo Alto, CA
+🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/4801451007>
 7. Member of Technical Staff - Macrohard
 
 📍 Location: Palo Alto, CA
