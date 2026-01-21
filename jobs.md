@@ -1,23 +1,28 @@
 # AI Research Engineer Jobs
 
-**Update:** 8/259
-**Date:** 1/20/2026 7:00:31
-**Subject:** 🤖 AI Research Jobs - 107 positions (1 removed)
-**Total Positions:** 107
+**Update:** 9/259
+**Date:** 1/21/2026 7:00:39
+**Subject:** 🤖 AI Research Jobs - 109 positions (2 new!)
+**Total Positions:** 109
 
 ---
 
 🤖 AI Research Engineer Jobs Update
 
-*Date:* 2026-01-20 15:00:30
-*Total Positions:* 107
-*❎ Removed Positions:* 1
-❎ Removed Jobs (1) 🏢 DeepMind
-Research Scientist, Languages and Multimodality
+*Date:* 2026-01-21 15:00:38
+*Total Positions:* 109
+*🆕 New Positions:* 2
+🆕 New Jobs (2) 🏢 DeepMind
+Research Engineer, Multimodal Reinforcement Learning
 
-📍 Bangalore, India
-This role no longer appears on the board.
-📋 All Research Engineer Positions (107) 🏢 Anthropic - 17 positions
+📍 Zurich, Switzerland
+🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7552677>
+🏢 X.ai
+Member of Technical Staff, Ads
+
+📍 Palo Alto, CA
+🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/4996796007>
+📋 All Research Engineer Positions (109) 🏢 Anthropic - 17 positions
 1. [Expression of Interest] Research Scientist/Engineer, Alignment
 Finetuning
 
@@ -37,13 +42,13 @@ Finetuning
 🔗 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/4613568008>
 5. Research Engineer, Pre-training
 
-📍 Location: London, UK
-🔗 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/4681526008>
-6. Research Engineer, Pre-training
-
 📍 Location: Remote-Friendly (Travel-Required) | San Francisco, CA |
 Seattle, WA | New York City, NY
 🔗 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/4616971008>
+6. Research Engineer, Pre-training
+
+📍 Location: London, UK
+🔗 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/4681526008>
 7. Research Engineer/Research Scientist, Audio
 
 📍 Location: Remote-Friendly (Travel-Required) | San Francisco, CA |
@@ -136,7 +141,7 @@ Seattle, WA | New York City, NY
 📍 Location: San Francisco
 🔗 Apply Now
 <https://jobs.ashbyhq.com/openai/3f7e0545-a6b4-4108-82ca-653d16262934>
-🏢 DeepMind - 21 positions
+🏢 DeepMind - 22 positions
 1. Code Research Engineer, Horizons - Mountain View
 
 📍 Location: Mountain View, California, US
@@ -151,12 +156,12 @@ Seattle, WA | New York City, NY
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7543224>
 4. Research Engineer, CBRN
 
-📍 Location: New York City, New York, US
-🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7339898>
-5. Research Engineer, CBRN
-
 📍 Location: Mountain View, California, US
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7341408>
+5. Research Engineer, CBRN
+
+📍 Location: New York City, New York, US
+🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7339898>
 6. Research Engineer, Developer Experience, Gemini Robotics
 
 📍 Location: Mountain View, California, US
@@ -169,170 +174,178 @@ Seattle, WA | New York City, NY
 
 📍 Location: Tokyo, Japan
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7257052>
-9. Research Engineer/Scientist, AI Control
+9. Research Engineer, Multimodal Reinforcement Learning 🆕
+
+📍 Location: Zurich, Switzerland
+🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7552677>
+10. Research Engineer/Scientist, AI Control
 
 📍 Location: Mountain View, California, US
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7373829>
-10. Research Scientist, AnthroKrishi
+11. Research Scientist, AnthroKrishi
 
 📍 Location: Bangalore, India
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7142337>
-11. Research Scientist, Biosphere Models
+12. Research Scientist, Biosphere Models
 
 📍 Location: Zurich, Switzerland
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7535238>
-12. Research Scientist, Frontier, Zurich
+13. Research Scientist, Frontier, Zurich
 
 📍 Location: Zurich, Switzerland
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7458419>
-13. Research Scientist, Gemini Information Tasks
+14. Research Scientist, Gemini Information Tasks
 
 📍 Location: New York City, New York, US
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7450900>
-14. Research Scientist, Generative Worlds
+15. Research Scientist, Generative Worlds
 
 📍 Location: New York City, New York, US; San Francisco, California, US
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7312594>
-15. Research Scientist, Model Collaborativity
+16. Research Scientist, Model Collaborativity
 
 📍 Location: Mountain View, California, US; New York City, New York, US;
 San Francisco, California, US; Seattle, Washington, US
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7176150>
-16. Research Scientist, Multimodal Generative AI, Google DeepMind
+17. Research Scientist, Multimodal Generative AI, Google DeepMind
 
 📍 Location: Singapore
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7135034>
-17. Research Scientist, Reasoning & AGI, Google DeepMind
+18. Research Scientist, Reasoning & AGI, Google DeepMind
 
 📍 Location: Singapore
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7135585>
-18. Research Scientist/Research Engineer, AI for Secure Code
+19. Research Scientist/Research Engineer, AI for Secure Code
 
 📍 Location: Mountain View, California, US; New York City, New York, US;
 San Francisco, California, US
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7392747>
-19. Research Scientist/Research Engineer, Multimodal Agents
+20. Research Scientist/Research Engineer, Multimodal Agents
 
 📍 Location: Mountain View, California, US
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7397383>
-20. Research Scientist, Robotics
+21. Research Scientist, Robotics
 
 📍 Location: Mountain View, California, US
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7102795>
-21. Research Scientist, Socioaffective Agents
+22. Research Scientist, Socioaffective Agents
 
 📍 Location: New York City, New York, US
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7363231>
-🏢 X.ai - 28 positions
-1. Member of Technical Staff - AI Experts
+🏢 X.ai - 29 positions
+1. Member of Technical Staff, Ads 🆕
+
+📍 Location: Palo Alto, CA
+🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/4996796007>
+2. Member of Technical Staff - AI Experts
 
 📍 Location: Palo Alto, CA
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/4800099007>
-2. Member of Technical Staff, Grok Imagine
+3. Member of Technical Staff, Grok Imagine
 
 📍 Location: Palo Alto, CA; San Francisco, CA
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/4676970007>
-3. Member of Technical Staff, Image Generation
+4. Member of Technical Staff, Image Generation
 
 📍 Location: Palo Alto, CA; San Francisco, CA; Seattle, WA
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/4681664007>
-4. Member of Technical Staff, Image Generation - Agent, RL
+5. Member of Technical Staff, Image Generation - Agent, RL
 
 📍 Location: Palo Alto, CA; Seattle, WA
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5013289007>
-5. Member of Technical Staff - Infrastructure Reliability
+6. Member of Technical Staff - Infrastructure Reliability
 
 📍 Location: Dublin, IE
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/4982268007>
-6. Member of Technical Staff - Infrastructure Reliability
+7. Member of Technical Staff - Infrastructure Reliability
 
 📍 Location: Palo Alto, CA
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/4801451007>
-7. Member of Technical Staff - Macrohard
+8. Member of Technical Staff - Macrohard
 
 📍 Location: Palo Alto, CA
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5020868007>
-8. Member of Technical Staff, Mid-training
+9. Member of Technical Staff, Mid-training
 
 📍 Location: Palo Alto, CA
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/4965893007>
-9. Member of Technical Staff - Multimodal (Audio)
+10. Member of Technical Staff - Multimodal (Audio)
 
 📍 Location: Palo Alto, CA; San Francisco, CA
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/4681633007>
-10. Member of Technical Staff - Multimodal Interactions Post-training
+11. Member of Technical Staff - Multimodal Interactions Post-training
 
 📍 Location: Palo Alto, CA; San Francisco, CA
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/4949014007>
-11. Member of Technical Staff - Multimodal Post-training
+12. Member of Technical Staff - Multimodal Post-training
 
 📍 Location: Palo Alto, CA
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/4800103007>
-12. Member of Technical Staff - Multimodal Tokenization
+13. Member of Technical Staff - Multimodal Tokenization
 
 📍 Location: Palo Alto, CA
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5026860007>
-13. Member of Technical Staff, Multimodal Understanding (Visual / Audio)
+14. Member of Technical Staff, Multimodal Understanding (Visual / Audio)
 
 📍 Location: Palo Alto, CA; San Francisco, CA
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/4378347007>
-14. Member of Technical Staff, Multimodal Understanding (Visual / Audio)
+15. Member of Technical Staff, Multimodal Understanding (Visual / Audio)
 
 📍 Location: New York, NY
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5013319007>
-15. Member of Technical Staff - Reasoning
+16. Member of Technical Staff - Reasoning
 
 📍 Location: Palo Alto, CA; San Francisco, CA
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/4528851007>
-16. Member of Technical Staff, Reasoning (Alignment)
+17. Member of Technical Staff, Reasoning (Alignment)
 
 📍 Location: Palo Alto, CA
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/4855263007>
-17. Member of Technical Staff - Reasoning Post-training
+18. Member of Technical Staff - Reasoning Post-training
 
 📍 Location: Palo Alto, CA
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/4799294007>
-18. Member of Technical Staff, RL Training Framework
+19. Member of Technical Staff, RL Training Framework
 
 📍 Location: Palo Alto, CA
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/4799185007>
-19. Member of Technical Staff - Search Post Training
+20. Member of Technical Staff - Search Post Training
 
 📍 Location: Palo Alto, CA
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/4800108007>
-20. Member of Technical Staff, Video Generation
+21. Member of Technical Staff, Video Generation
 
 📍 Location: Palo Alto, CA; San Francisco, CA; Seattle, WA
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/4720660007>
-21. Member of Technical Staff, Video Generation - Agent, RL
+22. Member of Technical Staff, Video Generation - Agent, RL
 
 📍 Location: Palo Alto, CA
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/4975129007>
-22. Member of Technical Staff, Video Generation - Audio
+23. Member of Technical Staff, Video Generation - Audio
 
 📍 Location: Palo Alto, CA
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5009870007>
-23. Member of Technical Staff, Vision (Enterprise)
+24. Member of Technical Staff, Vision (Enterprise)
 
 📍 Location: London, UK; Palo Alto, CA; San Francisco, CA
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/4720793007>
-24. Member of Technical Staff, Voice (Enterprise)
+25. Member of Technical Staff, Voice (Enterprise)
 
 📍 Location: London, UK; Palo Alto, CA; San Francisco, CA
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/4717376007>
-25. Member of Technical Staff, Web-scale Multimodal Modeling
+26. Member of Technical Staff, Web-scale Multimodal Modeling
 
 📍 Location: Palo Alto, CA
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/4969409007>
-26. Member of Technical Staff, World Model
+27. Member of Technical Staff, World Model
 
 📍 Location: Palo Alto, CA; Seattle, WA
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/4983662007>
-27. Member of Technical Staff, X Search
+28. Member of Technical Staff, X Search
 
 📍 Location: Palo Alto, CA
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/4870745007>
-28. [Omni] Member of Technical Staff, World Model
+29. [Omni] Member of Technical Staff, World Model
 
 📍 Location: Bay Area, CA
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/4983669007>
