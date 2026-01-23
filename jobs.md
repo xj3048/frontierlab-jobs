@@ -1,29 +1,23 @@
 # AI Research Engineer Jobs
 
-**Update:** 10/259
-**Date:** 1/22/2026 7:00:25
-**Subject:** 🤖 AI Research Jobs - 109 positions (1 new!) (1 removed)
-**Total Positions:** 109
+**Update:** 11/259
+**Date:** 1/23/2026 7:00:21
+**Subject:** 🤖 AI Research Jobs - 108 positions (1 removed)
+**Total Positions:** 108
 
 ---
 
 🤖 AI Research Engineer Jobs Update
 
-*Date:* 2026-01-22 15:00:24
-*Total Positions:* 109
-*🆕 New Positions:* 1
+*Date:* 2026-01-23 15:00:20
+*Total Positions:* 108
 *❎ Removed Positions:* 1
-🆕 New Jobs (1) 🏢 Anthropic
-Research Scientist, Societal Impacts
+❎ Removed Jobs (1) 🏢 DeepMind
+Research Scientist/Research Engineer, Multimodal Agents
 
-📍 San Francisco, CA
-🔗 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/5076616008>
-❎ Removed Jobs (1) 🏢 Thinking Machines
-Infrastructure Engineer, IT
-
-📍 San Francisco
+📍 Mountain View, California, US
 This role no longer appears on the board.
-📋 All Research Engineer Positions (109) 🏢 Anthropic - 18 positions
+📋 All Research Engineer Positions (108) 🏢 Anthropic - 18 positions
 1. [Expression of Interest] Research Scientist/Engineer, Alignment
 Finetuning
 
@@ -43,13 +37,13 @@ Finetuning
 🔗 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/4613568008>
 5. Research Engineer, Pre-training
 
+📍 Location: London, UK
+🔗 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/4681526008>
+6. Research Engineer, Pre-training
+
 📍 Location: Remote-Friendly (Travel-Required) | San Francisco, CA |
 Seattle, WA | New York City, NY
 🔗 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/4616971008>
-6. Research Engineer, Pre-training
-
-📍 Location: London, UK
-🔗 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/4681526008>
 7. Research Engineer/Research Scientist, Audio
 
 📍 Location: Remote-Friendly (Travel-Required) | San Francisco, CA |
@@ -84,7 +78,7 @@ Seattle, WA | New York City, NY
 
 📍 Location: San Francisco, CA
 🔗 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/4980427008>
-15. Research Scientist, Societal Impacts 🆕
+15. Research Scientist, Societal Impacts
 
 📍 Location: San Francisco, CA
 🔗 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/5076616008>
@@ -146,7 +140,7 @@ Seattle, WA | New York City, NY
 📍 Location: San Francisco
 🔗 Apply Now
 <https://jobs.ashbyhq.com/openai/3f7e0545-a6b4-4108-82ca-653d16262934>
-🏢 DeepMind - 22 positions
+🏢 DeepMind - 21 positions
 1. Code Research Engineer, Horizons - Mountain View
 
 📍 Location: Mountain View, California, US
@@ -225,15 +219,11 @@ San Francisco, California, US; Seattle, Washington, US
 📍 Location: Mountain View, California, US; New York City, New York, US;
 San Francisco, California, US
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7392747>
-20. Research Scientist/Research Engineer, Multimodal Agents
-
-📍 Location: Mountain View, California, US
-🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7397383>
-21. Research Scientist, Robotics
+20. Research Scientist, Robotics
 
 📍 Location: Mountain View, California, US
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7102795>
-22. Research Scientist, Socioaffective Agents
+21. Research Scientist, Socioaffective Agents
 
 📍 Location: New York City, New York, US
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7363231>
