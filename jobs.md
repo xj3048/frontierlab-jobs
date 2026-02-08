@@ -1,22 +1,16 @@
 # AI Research Engineer Jobs
 
-**Update:** 19/259
-**Date:** 2/7/2026 5:00:18
-**Subject:** 🤖 AI Research Jobs - 121 positions (1 removed)
+**Update:** 20/259
+**Date:** 2/8/2026 5:00:34
+**Subject:** 🤖 AI Research Jobs - 121 positions
 **Total Positions:** 121
 
 ---
 
 🤖 AI Research Engineer Jobs Update
 
-*Date:* 2026-02-07 13:00:17
+*Date:* 2026-02-08 13:00:34
 *Total Positions:* 121
-*❎ Removed Positions:* 1
-❎ Removed Jobs (1) 🏢 DeepMind
-Research Engineer - ACE
-
-📍 Mountain View, California, US
-This role no longer appears on the board.
 📋 All Research Engineer Positions (121) 🏢 Anthropic - 22 positions
 1. [Expression of Interest] Research Scientist/Engineer, Alignment
 Finetuning
@@ -45,13 +39,13 @@ Finetuning
 🔗 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/4613568008>
 7. Research Engineer, Pre-training
 
+📍 Location: London, UK
+🔗 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/4681526008>
+8. Research Engineer, Pre-training
+
 📍 Location: Remote-Friendly (Travel-Required) | San Francisco, CA |
 Seattle, WA | New York City, NY
 🔗 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/4616971008>
-8. Research Engineer, Pre-training
-
-📍 Location: London, UK
-🔗 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/4681526008>
 9. Research Engineer/Research Scientist, Audio
 
 📍 Location: San Francisco, CA
