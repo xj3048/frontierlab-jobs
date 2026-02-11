@@ -1,23 +1,31 @@
 # AI Research Engineer Jobs
 
-**Update:** 22/259
-**Date:** 2/10/2026 5:00:18
-**Subject:** 🤖 AI Research Jobs - 121 positions (1 removed)
-**Total Positions:** 121
+**Update:** 23/259
+**Date:** 2/11/2026 5:00:36
+**Subject:** 🤖 AI Research Jobs - 124 positions (3 new!)
+**Total Positions:** 124
 
 ---
 
 🤖 AI Research Engineer Jobs Update
 
-*Date:* 2026-02-10 13:00:18
-*Total Positions:* 121
-*❎ Removed Positions:* 1
-❎ Removed Jobs (1) 🏢 DeepMind
-Research Scientist, Reasoning & AGI, Google DeepMind
+*Date:* 2026-02-11 13:00:35
+*Total Positions:* 124
+*🆕 New Positions:* 3
+🆕 New Jobs (3) 🏢 DeepMind
+Research Engineer, GenMedia
 
-📍 Singapore
-This role no longer appears on the board.
-📋 All Research Engineer Positions (121) 🏢 Anthropic - 22 positions
+📍 Mountain View, California, US; New York City, New York, US
+🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7579778>
+Research Engineer, Language
+
+📍 London, UK
+🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7391165>
+Research Engineer, Project Agera
+
+📍 Mountain View, California, US
+🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7595090>
+📋 All Research Engineer Positions (124) 🏢 Anthropic - 22 positions
 1. [Expression of Interest] Research Scientist/Engineer, Alignment
 Finetuning
 
@@ -160,7 +168,7 @@ Seattle, WA | New York City, NY
 📍 Location: San Francisco
 🔗 Apply Now
 <https://jobs.ashbyhq.com/openai/3f7e0545-a6b4-4108-82ca-653d16262934>
-🏢 DeepMind - 20 positions
+🏢 DeepMind - 23 positions
 1. Machine Learning and Material Science Research Scientist
 
 📍 Location: London, UK
@@ -181,64 +189,76 @@ Seattle, WA | New York City, NY
 
 📍 Location: Mountain View, California, US
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7263484>
-6. Research Engineer, Multimodal Reinforcement Learning
+6. Research Engineer, GenMedia 🆕
+
+📍 Location: Mountain View, California, US; New York City, New York, US
+🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7579778>
+7. Research Engineer, Language 🆕
+
+📍 Location: London, UK
+🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7391165>
+8. Research Engineer, Multimodal Reinforcement Learning
 
 📍 Location: Zurich, Switzerland
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7552677>
-7. Research Scientist, AnthroKrishi
+9. Research Engineer, Project Agera 🆕
+
+📍 Location: Mountain View, California, US
+🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7595090>
+10. Research Scientist, AnthroKrishi
 
 📍 Location: Bangalore, India
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7142337>
-8. Research Scientist, Biosphere Models
+11. Research Scientist, Biosphere Models
 
 📍 Location: Zurich, Switzerland
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7535238>
-9. Research Scientist, Frontier, Zurich
+12. Research Scientist, Frontier, Zurich
 
 📍 Location: Zurich, Switzerland
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7458419>
-10. Research Scientist, Gemini i18n
+13. Research Scientist, Gemini i18n
 
 📍 Location: Mountain View, California, US
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7526986>
-11. Research Scientist, Gemini Information Tasks
+14. Research Scientist, Gemini Information Tasks
 
 📍 Location: New York City, New York, US
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7450900>
-12. Research Scientist, Gemini Personal Intelligence
+15. Research Scientist, Gemini Personal Intelligence
 
 📍 Location: Mountain View, California, US
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7477025>
-13. Research Scientist, Generative Worlds
+16. Research Scientist, Generative Worlds
 
 📍 Location: New York City, New York, US; San Francisco, California, US
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7312594>
-14. Research Scientist, Information Quality
+17. Research Scientist, Information Quality
 
 📍 Location: Mountain View, California, US; San Francisco, California, US
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7408812>
-15. Research Scientist, Multimodal Generative AI, Google DeepMind
+18. Research Scientist, Multimodal Generative AI, Google DeepMind
 
 📍 Location: Singapore
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7135034>
-16. Research Scientist/Research Engineer, AI for Secure Code
+19. Research Scientist/Research Engineer, AI for Secure Code
 
 📍 Location: Mountain View, California, US; New York City, New York, US;
 San Francisco, California, US
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7392747>
-17. Research Scientist, Robotics
+20. Research Scientist, Robotics
 
 📍 Location: Mountain View, California, US
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7102795>
-18. Research Scientist, Socioaffective Agents
+21. Research Scientist, Socioaffective Agents
 
 📍 Location: New York City, New York, US
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7363231>
-19. Research Scientist, Sound Team
+22. Research Scientist, Sound Team
 
 📍 Location: Mountain View, California, US
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7579636>
-20. Semiconductor Material Science Research Scientist
+23. Semiconductor Material Science Research Scientist
 
 📍 Location: London, UK
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7353266>
@@ -305,12 +325,12 @@ San Francisco, California, US
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5026860007>
 16. Member of Technical Staff, Multimodal Understanding (Visual / Audio)
 
-📍 Location: Palo Alto, CA; San Francisco, CA
-🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/4378347007>
-17. Member of Technical Staff, Multimodal Understanding (Visual / Audio)
-
 📍 Location: New York, NY
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5013319007>
+17. Member of Technical Staff, Multimodal Understanding (Visual / Audio)
+
+📍 Location: Palo Alto, CA; San Francisco, CA
+🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/4378347007>
 18. Member of Technical Staff - Reasoning
 
 📍 Location: Palo Alto, CA; San Francisco, CA
