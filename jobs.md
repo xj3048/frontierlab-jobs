@@ -1,23 +1,17 @@
 # AI Research Engineer Jobs
 
-**Update:** 24/259
-**Date:** 2/12/2026 5:00:22
-**Subject:** 🤖 AI Research Jobs - 124 positions (1 removed)
-**Total Positions:** 124
+**Update:** 25/259
+**Date:** 2/13/2026 5:00:43
+**Subject:** 🤖 AI Research Jobs - 123 positions
+**Total Positions:** 123
 
 ---
 
 🤖 AI Research Engineer Jobs Update
 
-*Date:* 2026-02-12 13:00:20
-*Total Positions:* 124
-*❎ Removed Positions:* 1
-❎ Removed Jobs (1) 🏢 OpenAI
-Research Engineer, Monetization AI/ML (SF)
-
-📍 San Francisco
-This role no longer appears on the board.
-📋 All Research Engineer Positions (124) 🏢 Anthropic - 23 positions
+*Date:* 2026-02-13 13:00:43
+*Total Positions:* 123
+📋 All Research Engineer Positions (123) 🏢 Anthropic - 22 positions
 1. [Expression of Interest] Research Scientist/Engineer, Alignment
 Finetuning
 
@@ -52,64 +46,60 @@ Finetuning
 📍 Location: Remote-Friendly (Travel-Required) | San Francisco, CA |
 Seattle, WA | New York City, NY
 🔗 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/4616971008>
-9. Research Engineer, Pre-training
-
-📍 Location: London, UK
-🔗 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/4681526008>
-10. Research Engineer/Research Scientist, Audio
+9. Research Engineer/Research Scientist, Audio
 
 📍 Location: San Francisco, CA
 🔗 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/5074815008>
-11. Research Engineer / Research Scientist, Pre-training
+10. Research Engineer / Research Scientist, Pre-training
 
 📍 Location: Zürich, CH
 🔗 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/4799425008>
-12. Research Engineer / Research Scientist, Vision
+11. Research Engineer / Research Scientist, Vision
 
 📍 Location: New York City, NY; San Francisco, CA; Seattle, WA
 🔗 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/5074217008>
-13. Research Engineer, Reward Models Training
+12. Research Engineer, Reward Models Training
 
 📍 Location: San Francisco, CA | New York City, NY | Seattle, WA
 🔗 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/4613599008>
-14. Research Engineer / Scientist, Alignment Science
+13. Research Engineer / Scientist, Alignment Science
 
 📍 Location: San Francisco, CA
 🔗 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/4631822008>
-15. Research Engineer / Scientist, Alignment Science, London
+14. Research Engineer / Scientist, Alignment Science, London
 
 📍 Location: London, UK
 🔗 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/4610158008>
-16. Research Engineer / Scientist, Societal Impacts
+15. Research Engineer / Scientist, Societal Impacts
 
 📍 Location: San Francisco, CA
 🔗 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/5076606008>
-17. Research Engineer, Universes
+16. Research Engineer, Universes
 
 📍 Location: Remote-Friendly (Travel-Required) | San Francisco, CA |
 Seattle, WA | New York City, NY
 🔗 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/5061517008>
-18. Research Scientist, Frontier Red Team (Emerging Risks)
+17. Research Scientist, Frontier Red Team (Emerging Risks)
 
 📍 Location: San Francisco, CA
 🔗 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/5103788008>
-19. Research Scientist, Interpretability
+18. Research Scientist, Interpretability
 
 📍 Location: San Francisco, CA
 🔗 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/4980427008>
-20. Research Scientist, Societal Impacts
+19. Research Scientist, Societal Impacts
 
 📍 Location: San Francisco, CA
 🔗 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/5076616008>
-21. Senior Research Scientist, Reward Models
+20. Senior Research Scientist, Reward Models
 
 📍 Location: Remote-Friendly (Travel Required) | San Francisco, CA
 🔗 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/5024835008>
-22. Staff Machine Learning Engineer, Virtual Collaborator
+21. Staff Machine Learning Engineer, Virtual Collaborator
 
 📍 Location: New York City, NY; San Francisco, CA; Seattle, WA
 🔗 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/4946308008>
-23. Staff Research Engineer, Discovery Team
+22. Staff Research Engineer, Discovery Team
 
 📍 Location: San Francisco, CA
 🔗 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/4593216008>
@@ -280,12 +270,12 @@ San Francisco, California, US
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5013289007>
 7. Member of Technical Staff - Infrastructure Reliability
 
-📍 Location: Dublin, IE
-🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/4982268007>
-8. Member of Technical Staff - Infrastructure Reliability
-
 📍 Location: Palo Alto, CA
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/4801451007>
+8. Member of Technical Staff - Infrastructure Reliability
+
+📍 Location: Dublin, IE
+🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/4982268007>
 9. Member of Technical Staff, Interpretability
 
 📍 Location: Palo Alto, CA
@@ -316,12 +306,12 @@ San Francisco, California, US
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5026860007>
 16. Member of Technical Staff, Multimodal Understanding (Visual / Audio)
 
-📍 Location: Palo Alto, CA; San Francisco, CA
-🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/4378347007>
-17. Member of Technical Staff, Multimodal Understanding (Visual / Audio)
-
 📍 Location: New York, NY
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5013319007>
+17. Member of Technical Staff, Multimodal Understanding (Visual / Audio)
+
+📍 Location: Palo Alto, CA; San Francisco, CA
+🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/4378347007>
 18. Member of Technical Staff - Reasoning
 
 📍 Location: Palo Alto, CA; San Francisco, CA
