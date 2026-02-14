@@ -1,17 +1,23 @@
 # AI Research Engineer Jobs
 
-**Update:** 25/259
-**Date:** 2/13/2026 5:00:43
-**Subject:** 🤖 AI Research Jobs - 123 positions
-**Total Positions:** 123
+**Update:** 26/259
+**Date:** 2/14/2026 5:00:29
+**Subject:** 🤖 AI Research Jobs - 124 positions (1 new!)
+**Total Positions:** 124
 
 ---
 
 🤖 AI Research Engineer Jobs Update
 
-*Date:* 2026-02-13 13:00:43
-*Total Positions:* 123
-📋 All Research Engineer Positions (123) 🏢 Anthropic - 22 positions
+*Date:* 2026-02-14 13:00:29
+*Total Positions:* 124
+*🆕 New Positions:* 1
+🆕 New Jobs (1) 🏢 DeepMind
+Science & Frontier AI Research - Writer / Communicator
+
+📍 London, UK
+🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7614597>
+📋 All Research Engineer Positions (124) 🏢 Anthropic - 22 positions
 1. [Expression of Interest] Research Scientist/Engineer, Alignment
 Finetuning
 
@@ -149,7 +155,7 @@ Seattle, WA | New York City, NY
 📍 Location: San Francisco
 🔗 Apply Now
 <https://jobs.ashbyhq.com/openai/3f7e0545-a6b4-4108-82ca-653d16262934>
-🏢 DeepMind - 23 positions
+🏢 DeepMind - 24 positions
 1. Machine Learning and Material Science Research Scientist
 
 📍 Location: London, UK
@@ -239,7 +245,11 @@ San Francisco, California, US
 
 📍 Location: Mountain View, California, US
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7579636>
-23. Semiconductor Material Science Research Scientist
+23. Science & Frontier AI Research - Writer / Communicator 🆕
+
+📍 Location: London, UK
+🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7614597>
+24. Semiconductor Material Science Research Scientist
 
 📍 Location: London, UK
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7353266>
@@ -270,12 +280,12 @@ San Francisco, California, US
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5013289007>
 7. Member of Technical Staff - Infrastructure Reliability
 
-📍 Location: Palo Alto, CA
-🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/4801451007>
-8. Member of Technical Staff - Infrastructure Reliability
-
 📍 Location: Dublin, IE
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/4982268007>
+8. Member of Technical Staff - Infrastructure Reliability
+
+📍 Location: Palo Alto, CA
+🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/4801451007>
 9. Member of Technical Staff, Interpretability
 
 📍 Location: Palo Alto, CA
@@ -306,12 +316,12 @@ San Francisco, California, US
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5026860007>
 16. Member of Technical Staff, Multimodal Understanding (Visual / Audio)
 
-📍 Location: New York, NY
-🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5013319007>
-17. Member of Technical Staff, Multimodal Understanding (Visual / Audio)
-
 📍 Location: Palo Alto, CA; San Francisco, CA
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/4378347007>
+17. Member of Technical Staff, Multimodal Understanding (Visual / Audio)
+
+📍 Location: New York, NY
+🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5013319007>
 18. Member of Technical Staff - Reasoning
 
 📍 Location: Palo Alto, CA; San Francisco, CA
