@@ -1,22 +1,16 @@
 # AI Research Engineer Jobs
 
-**Update:** 26/259
-**Date:** 2/14/2026 5:00:29
-**Subject:** 🤖 AI Research Jobs - 124 positions (1 new!)
+**Update:** 27/259
+**Date:** 2/15/2026 5:00:35
+**Subject:** 🤖 AI Research Jobs - 124 positions
 **Total Positions:** 124
 
 ---
 
 🤖 AI Research Engineer Jobs Update
 
-*Date:* 2026-02-14 13:00:29
+*Date:* 2026-02-15 13:00:35
 *Total Positions:* 124
-*🆕 New Positions:* 1
-🆕 New Jobs (1) 🏢 DeepMind
-Science & Frontier AI Research - Writer / Communicator
-
-📍 London, UK
-🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7614597>
 📋 All Research Engineer Positions (124) 🏢 Anthropic - 22 positions
 1. [Expression of Interest] Research Scientist/Engineer, Alignment
 Finetuning
@@ -245,7 +239,7 @@ San Francisco, California, US
 
 📍 Location: Mountain View, California, US
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7579636>
-23. Science & Frontier AI Research - Writer / Communicator 🆕
+23. Science & Frontier AI Research - Writer / Communicator
 
 📍 Location: London, UK
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7614597>
