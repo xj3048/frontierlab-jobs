@@ -1,27 +1,25 @@
 # AI Research Engineer Jobs
 
-**Update:** 31/259
-**Date:** 2/19/2026 5:00:56
-**Subject:** 🤖 AI Research Jobs - 120 positions (3 removed)
+**Update:** 32/259
+**Date:** 2/20/2026 5:01:01
+**Subject:** 🤖 AI Research Jobs - 120 positions (1 new!) (1 removed)
 **Total Positions:** 120
 
 ---
 
 🤖 AI Research Engineer Jobs Update
 
-*Date:* 2026-02-19 13:00:55
+*Date:* 2026-02-20 13:01:00
 *Total Positions:* 120
-*❎ Removed Positions:* 3
-❎ Removed Jobs (3) 🏢 DeepMind
-Research Engineer, ML Pathways
+*🆕 New Positions:* 1
+*❎ Removed Positions:* 1
+🆕 New Jobs (1) 🏢 DeepMind
+Research Scientist, Autonomous Agents
 
-📍 New York City, New York, US
-This role no longer appears on the board.
-Research Engineer, Multimodal Reinforcement Learning
-
-📍 Zurich, Switzerland
-This role no longer appears on the board.
-Research Engineer, Project Agera
+📍 London, UK
+🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7627676>
+❎ Removed Jobs (1) 🏢 DeepMind
+Research Scientist, Gemini i18n
 
 📍 Mountain View, California, US
 This role no longer appears on the board.
@@ -197,14 +195,14 @@ Seattle, WA | New York City, NY
 
 📍 Location: Bangalore, India
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7142337>
-8. Research Scientist, Biosphere Models
+8. Research Scientist, Autonomous Agents 🆕
+
+📍 Location: London, UK
+🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7627676>
+9. Research Scientist, Biosphere Models
 
 📍 Location: Zurich, Switzerland
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7535238>
-9. Research Scientist, Gemini i18n
-
-📍 Location: Mountain View, California, US
-🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7526986>
 10. Research Scientist, Gemini Information Tasks
 
 📍 Location: New York City, New York, US
@@ -309,12 +307,12 @@ San Francisco, California, US
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5026860007>
 16. Member of Technical Staff, Multimodal Understanding (Visual / Audio)
 
-📍 Location: New York, NY
-🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5013319007>
-17. Member of Technical Staff, Multimodal Understanding (Visual / Audio)
-
 📍 Location: Palo Alto, CA; San Francisco, CA
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/4378347007>
+17. Member of Technical Staff, Multimodal Understanding (Visual / Audio)
+
+📍 Location: New York, NY
+🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5013319007>
 18. Member of Technical Staff - Reasoning
 
 📍 Location: Palo Alto, CA; San Francisco, CA
@@ -349,11 +347,11 @@ San Francisco, California, US
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5009870007>
 26. Member of Technical Staff, Vision (Enterprise)
 
-📍 Location: London, UK; Palo Alto, CA; San Francisco, CA
+📍 Location: Palo Alto, CA; San Francisco, CA
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/4720793007>
 27. Member of Technical Staff, Voice (Enterprise)
 
-📍 Location: London, UK; Palo Alto, CA; San Francisco, CA
+📍 Location: Palo Alto, CA; San Francisco, CA
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/4717376007>
 28. Member of Technical Staff, Web-scale Multimodal Modeling
 
