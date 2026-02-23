@@ -1,22 +1,16 @@
 # AI Research Engineer Jobs
 
-**Update:** 34/259
-**Date:** 2/22/2026 5:00:35
-**Subject:** 🤖 AI Research Jobs - 120 positions (1 new!)
+**Update:** 35/259
+**Date:** 2/23/2026 5:00:29
+**Subject:** 🤖 AI Research Jobs - 120 positions
 **Total Positions:** 120
 
 ---
 
 🤖 AI Research Engineer Jobs Update
 
-*Date:* 2026-02-22 13:00:34
+*Date:* 2026-02-23 13:00:28
 *Total Positions:* 120
-*🆕 New Positions:* 1
-🆕 New Jobs (1) 🏢 DeepMind
-Research Scientist, AQUA
-
-📍 Bangalore, India
-🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7640947>
 📋 All Research Engineer Positions (120) 🏢 Anthropic - 23 positions
 1. [Expression of Interest] Research Scientist/Engineer, Alignment
 Finetuning
@@ -193,7 +187,7 @@ Seattle, WA | New York City, NY
 
 📍 Location: Bangalore, India
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7142337>
-8. Research Scientist, AQUA 🆕
+8. Research Scientist, AQUA
 
 📍 Location: Bangalore, India
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7640947>
