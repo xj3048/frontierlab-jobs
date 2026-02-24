@@ -1,17 +1,23 @@
 # AI Research Engineer Jobs
 
-**Update:** 35/259
-**Date:** 2/23/2026 5:00:29
-**Subject:** 🤖 AI Research Jobs - 120 positions
-**Total Positions:** 120
+**Update:** 36/259
+**Date:** 2/24/2026 5:00:38
+**Subject:** 🤖 AI Research Jobs - 119 positions (1 removed)
+**Total Positions:** 119
 
 ---
 
 🤖 AI Research Engineer Jobs Update
 
-*Date:* 2026-02-23 13:00:28
-*Total Positions:* 120
-📋 All Research Engineer Positions (120) 🏢 Anthropic - 23 positions
+*Date:* 2026-02-24 13:00:37
+*Total Positions:* 119
+*❎ Removed Positions:* 1
+❎ Removed Jobs (1) 🏢 X.ai
+Member of Technical Staff, Reasoning (Alignment)
+
+📍 Palo Alto, CA
+This role no longer appears on the board.
+📋 All Research Engineer Positions (119) 🏢 Anthropic - 23 positions
 1. [Expression of Interest] Research Scientist/Engineer, Alignment
 Finetuning
 
@@ -232,7 +238,7 @@ San Francisco, California, US
 
 📍 Location: London, UK
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7614597>
-🏢 X.ai - 31 positions
+🏢 X.ai - 30 positions
 1. Member of Technical Staff
 
 📍 Location: Memphis, TN
@@ -259,12 +265,12 @@ San Francisco, California, US
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5013289007>
 7. Member of Technical Staff - Infrastructure Reliability
 
-📍 Location: Dublin, IE
-🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/4982268007>
-8. Member of Technical Staff - Infrastructure Reliability
-
 📍 Location: Palo Alto, CA
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/4801451007>
+8. Member of Technical Staff - Infrastructure Reliability
+
+📍 Location: Dublin, IE
+🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/4982268007>
 9. Member of Technical Staff, Interpretability
 
 📍 Location: Palo Alto, CA
@@ -295,65 +301,61 @@ San Francisco, California, US
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5026860007>
 16. Member of Technical Staff, Multimodal Understanding (Visual / Audio)
 
-📍 Location: Palo Alto, CA; San Francisco, CA
-🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/4378347007>
-17. Member of Technical Staff, Multimodal Understanding (Visual / Audio)
-
 📍 Location: New York, NY
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5013319007>
+17. Member of Technical Staff, Multimodal Understanding (Visual / Audio)
+
+📍 Location: Palo Alto, CA; San Francisco, CA
+🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/4378347007>
 18. Member of Technical Staff - Reasoning
 
 📍 Location: Palo Alto, CA; San Francisco, CA
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/4528851007>
-19. Member of Technical Staff, Reasoning (Alignment)
-
-📍 Location: Palo Alto, CA
-🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/4855263007>
-20. Member of Technical Staff - Reasoning Post-training
+19. Member of Technical Staff - Reasoning Post-training
 
 📍 Location: Palo Alto, CA
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/4799294007>
-21. Member of Technical Staff, RL Training Framework
+20. Member of Technical Staff, RL Training Framework
 
 📍 Location: Palo Alto, CA
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/4799185007>
-22. Member of Technical Staff - Search Post Training
+21. Member of Technical Staff - Search Post Training
 
 📍 Location: Palo Alto, CA
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/4800108007>
-23. Member of Technical Staff, Video Generation
+22. Member of Technical Staff, Video Generation
 
 📍 Location: Palo Alto, CA; San Francisco, CA; Seattle, WA
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/4720660007>
-24. Member of Technical Staff, Video Generation - Agent, RL
+23. Member of Technical Staff, Video Generation - Agent, RL
 
 📍 Location: Palo Alto, CA
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/4975129007>
-25. Member of Technical Staff, Video Generation - Audio
+24. Member of Technical Staff, Video Generation - Audio
 
 📍 Location: Palo Alto, CA
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5009870007>
-26. Member of Technical Staff, Vision (Enterprise)
+25. Member of Technical Staff, Vision (Enterprise)
 
 📍 Location: Palo Alto, CA; San Francisco, CA
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/4720793007>
-27. Member of Technical Staff, Voice (Enterprise)
+26. Member of Technical Staff, Voice (Enterprise)
 
 📍 Location: Palo Alto, CA; San Francisco, CA
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/4717376007>
-28. Member of Technical Staff, Web-scale Multimodal Modeling
+27. Member of Technical Staff, Web-scale Multimodal Modeling
 
 📍 Location: Palo Alto, CA
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/4969409007>
-29. Member of Technical Staff, World Model
+28. Member of Technical Staff, World Model
 
 📍 Location: Palo Alto, CA; Seattle, WA
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/4983662007>
-30. Member of Technical Staff, X Search
+29. Member of Technical Staff, X Search
 
 📍 Location: Palo Alto, CA
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/4870745007>
-31. [Omni] Member of Technical Staff, World Model
+30. [Omni] Member of Technical Staff, World Model
 
 📍 Location: Bay Area, CA
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/4983669007>
