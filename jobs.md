@@ -1,23 +1,23 @@
 # AI Research Engineer Jobs
 
-**Update:** 41/259
-**Date:** 3/1/2026 5:00:31
-**Subject:** 🤖 AI Research Jobs - 98 positions (1 new!)
-**Total Positions:** 98
+**Update:** 42/259
+**Date:** 3/2/2026 5:00:36
+**Subject:** 🤖 AI Research Jobs - 97 positions (1 removed)
+**Total Positions:** 97
 
 ---
 
 🤖 AI Research Engineer Jobs Update
 
-*Date:* 2026-03-01 13:00:30
-*Total Positions:* 98
-*🆕 New Positions:* 1
-🆕 New Jobs (1) 🏢 Anthropic
-Research Engineer / Research Scientist, Tokens
+*Date:* 2026-03-02 13:00:35
+*Total Positions:* 97
+*❎ Removed Positions:* 1
+❎ Removed Jobs (1) 🏢 DeepMind
+Science & Frontier AI Research - Writer / Communicator
 
-📍 New York City, NY; New York City, NY | Seattle, WA; San Francisco, CA
-🔗 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/4951814008>
-📋 All Research Engineer Positions (98) 🏢 Anthropic - 24 positions
+📍 London, UK
+This role no longer appears on the board.
+📋 All Research Engineer Positions (97) 🏢 Anthropic - 24 positions
 1. [Expression of Interest] Research Scientist/Engineer, Alignment
 Finetuning
 
@@ -52,7 +52,7 @@ Seattle, WA | New York City, NY
 
 📍 Location: New York City, NY; San Francisco, CA; Seattle, WA
 🔗 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/4946308008>
-9. Research Engineer / Research Scientist, Tokens 🆕
+9. Research Engineer / Research Scientist, Tokens
 
 📍 Location: New York City, NY; New York City, NY | Seattle, WA; San
 Francisco, CA
@@ -174,7 +174,7 @@ Seattle, WA | New York City, NY
 📍 Location: San Francisco
 🔗 Apply Now
 <https://jobs.ashbyhq.com/openai/7f9eb43b-423e-43e4-9f42-d14b8ba0f234>
-🏢 DeepMind - 19 positions
+🏢 DeepMind - 18 positions
 1. Research Engineer, Applied Robotics
 
 📍 Location: Mountain View, California, US
@@ -248,10 +248,6 @@ San Francisco, California, US
 
 📍 Location: Mountain View, California, US
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7102795>
-19. Science & Frontier AI Research - Writer / Communicator
-
-📍 Location: London, UK
-🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7614597>
 🏢 X.ai - 7 positions
 1. Member of Technical Staff
 
