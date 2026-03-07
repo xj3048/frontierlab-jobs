@@ -1,43 +1,28 @@
 # AI Research Engineer Jobs
 
-**Update:** 46/259
-**Date:** 3/6/2026 5:00:33
-**Subject:** 🤖 AI Research Jobs - 103 positions (2 new!) (3 removed)
+**Update:** 47/259
+**Date:** 3/7/2026 5:00:35
+**Subject:** 🤖 AI Research Jobs - 103 positions (1 new!) (1 removed)
 **Total Positions:** 103
 
 ---
 
 🤖 AI Research Engineer Jobs Update
 
-*Date:* 2026-03-06 13:00:32
+*Date:* 2026-03-07 13:00:34
 *Total Positions:* 103
-*🆕 New Positions:* 2
-*❎ Removed Positions:* 3
-🆕 New Jobs (2) 🏢 Anthropic
-Research Engineer, Agents
+*🆕 New Positions:* 1
+*❎ Removed Positions:* 1
+🆕 New Jobs (1) 🏢 OpenAI
+Research Engineer / Machine Learning Engineer - Applied Voice
 
-📍 Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA |
-New York City, NY
-🔗 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/4017544008>
-🏢 Thinking Machines
-Executive Business Partner
-
-📍 New York, New York
+📍 San Francisco
 🔗 Apply Now
-<https://job-boards.greenhouse.io/thinkingmachines/jobs/5142474008>
-❎ Removed Jobs (3) 🏢 Anthropic
-Research Engineer / Hardware Lead (Frontier Red Team)
+<https://jobs.ashbyhq.com/openai/46cd47bc-d4de-4826-aa2e-8b2e0da3c409>
+❎ Removed Jobs (1) 🏢 OpenAI
+Research Engineer / Machine Learning Engineer - B2B Applications
 
-📍 San Francisco, CA
-This role no longer appears on the board.
-🏢 DeepMind
-Research Scientist, Autonomous Agents — Reinforcement Learning
-
-📍 London, UK
-This role no longer appears on the board.
-Research Scientist, Autonomous Agents — Reward Modelling
-
-📍 London, UK
+📍 San Francisco
 This role no longer appears on the board.
 📋 All Research Engineer Positions (103) 🏢 Anthropic - 24 positions
 1. Research Engineer / Research Scientist, Tokens
@@ -74,7 +59,7 @@ Finetuning
 
 📍 Location: San Francisco, CA
 🔗 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/5067100008>
-9. Research Engineer, Agents 🆕
+9. Research Engineer, Agents
 
 📍 Location: Remote-Friendly (Travel-Required) | San Francisco, CA |
 Seattle, WA | New York City, NY
@@ -162,7 +147,7 @@ Seattle, WA | New York City, NY
 📍 Location: San Francisco
 🔗 Apply Now
 <https://jobs.ashbyhq.com/openai/793964ae-d40b-45e3-9798-84f4b6da48c5>
-5. Research Engineer / Machine Learning Engineer - B2B Applications
+5. Research Engineer / Machine Learning Engineer - Applied Voice 🆕
 
 📍 Location: San Francisco
 🔗 Apply Now
@@ -387,7 +372,7 @@ San Francisco, California, US
 📍 Location: San Francisco
 🔗 Apply Now
 <https://job-boards.greenhouse.io/thinkingmachines/jobs/5107976008>
-3. Executive Business Partner 🆕
+3. Executive Business Partner
 
 📍 Location: New York, New York
 🔗 Apply Now
