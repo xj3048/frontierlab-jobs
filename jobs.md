@@ -1,29 +1,16 @@
 # AI Research Engineer Jobs
 
-**Update:** 47/259
-**Date:** 3/7/2026 5:00:35
-**Subject:** 🤖 AI Research Jobs - 103 positions (1 new!) (1 removed)
+**Update:** 48/259
+**Date:** 3/8/2026 6:00:33
+**Subject:** 🤖 AI Research Jobs - 103 positions
 **Total Positions:** 103
 
 ---
 
 🤖 AI Research Engineer Jobs Update
 
-*Date:* 2026-03-07 13:00:34
+*Date:* 2026-03-08 13:00:31
 *Total Positions:* 103
-*🆕 New Positions:* 1
-*❎ Removed Positions:* 1
-🆕 New Jobs (1) 🏢 OpenAI
-Research Engineer / Machine Learning Engineer - Applied Voice
-
-📍 San Francisco
-🔗 Apply Now
-<https://jobs.ashbyhq.com/openai/46cd47bc-d4de-4826-aa2e-8b2e0da3c409>
-❎ Removed Jobs (1) 🏢 OpenAI
-Research Engineer / Machine Learning Engineer - B2B Applications
-
-📍 San Francisco
-This role no longer appears on the board.
 📋 All Research Engineer Positions (103) 🏢 Anthropic - 24 positions
 1. Research Engineer / Research Scientist, Tokens
 
@@ -147,7 +134,7 @@ Seattle, WA | New York City, NY
 📍 Location: San Francisco
 🔗 Apply Now
 <https://jobs.ashbyhq.com/openai/793964ae-d40b-45e3-9798-84f4b6da48c5>
-5. Research Engineer / Machine Learning Engineer - Applied Voice 🆕
+5. Research Engineer / Machine Learning Engineer - Applied Voice
 
 📍 Location: San Francisco
 🔗 Apply Now
