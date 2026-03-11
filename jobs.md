@@ -1,73 +1,41 @@
 # AI Research Engineer Jobs
 
-**Update:** 50/259
-**Date:** 3/10/2026 6:00:42
-**Subject:** 🤖 AI Research Jobs - 109 positions (10 new!) (3 removed)
+**Update:** 51/259
+**Date:** 3/11/2026 6:00:20
+**Subject:** 🤖 AI Research Jobs - 109 positions (2 new!) (2 removed)
 **Total Positions:** 109
 
 ---
 
 🤖 AI Research Engineer Jobs Update
 
-*Date:* 2026-03-10 13:00:41
+*Date:* 2026-03-11 13:00:19
 *Total Positions:* 109
-*🆕 New Positions:* 10
-*❎ Removed Positions:* 3
-🆕 New Jobs (10) 🏢 X.ai
-Member of Technical Staff - Ads
+*🆕 New Positions:* 2
+*❎ Removed Positions:* 2
+🆕 New Jobs (2) 🏢 Anthropic
+Research Engineer, Economic Research
 
-📍 Palo Alto, CA
-🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/4996796007>
-Member of Technical Staff - Grok Chat Model
+📍 San Francisco, CA
+🔗 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/5071132008>
+🏢 OpenAI
+Research Engineer, SLAM & Multi-View Geometry
 
-📍 Palo Alto, CA
-🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5051983007>
-Member of Technical Staff - Media
+📍 San Francisco
+🔗 Apply Now
+<https://jobs.ashbyhq.com/openai/d9e942a7-a84e-4fb2-8fea-b976a1abaa68>
+❎ Removed Jobs (2) 🏢 Anthropic
+Research Engineer, Pre-training
 
-📍 Palo Alto, CA; Seattle, WA
-🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/4805874007>
-Member of Technical Staff - Mid-training
-
-📍 Palo Alto, CA
-🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/4965893007>
-Member of Technical Staff - Observability
-
-📍 Palo Alto, CA
-🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/4803905007>
-Member of Technical Staff - Real-Time Storage
-
-📍 Palo Alto, CA
-🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/4805886007>
-Member of Technical Staff - RL Infrastructure
-
-📍 Palo Alto, CA
-🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/4715499007>
-Member of Technical Staff - RL Training Framework
-
-📍 Palo Alto, CA
-🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/4799185007>
-Member of Technical Staff - Sandbox Service
-
-📍 London, UK
-🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5007872007>
-Member of Technical Staff - X Money
-
-📍 Tokyo, JP
-🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5007310007>
-❎ Removed Jobs (3) 🏢 X.ai
-Member of Technical Staff, Ads
-
-📍 Palo Alto, CA
+📍 Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA |
+New York City, NY
 This role no longer appears on the board.
-Member of Technical Staff, Mid-training
+🏢 OpenAI
+Research Scientist, Mathematical Sciences
 
-📍 Palo Alto, CA
+📍 San Francisco
 This role no longer appears on the board.
-Member of Technical Staff, RL Training Framework
-
-📍 Palo Alto, CA
-This role no longer appears on the board.
-📋 All Research Engineer Positions (109) 🏢 Anthropic - 24 positions
+📋 All Research Engineer Positions (109) 🏢 Anthropic - 25 positions
 1. Research Engineer / Research Scientist, Tokens
 
 📍 Location: New York City, NY; New York City, NY | Seattle, WA; San
@@ -127,7 +95,7 @@ Seattle, WA | New York City, NY
 
 📍 Location: San Francisco, CA | New York City, NY
 🔗 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/4613568008>
-15. Research Engineer, Pre-training
+15. Research Engineer, Pretraining
 
 📍 Location: Remote-Friendly (Travel-Required) | San Francisco, CA |
 Seattle, WA | New York City, NY
@@ -169,6 +137,10 @@ Seattle, WA | New York City, NY
 
 📍 Location: San Francisco, CA
 🔗 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/4593216008>
+25. Research Engineer, Economic Research 🆕
+
+📍 Location: San Francisco, CA
+🔗 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/5071132008>
 🏢 OpenAI - 11 positions
 1. Research Engineer
 
@@ -210,16 +182,16 @@ Seattle, WA | New York City, NY
 📍 Location: San Francisco
 🔗 Apply Now
 <https://jobs.ashbyhq.com/openai/7e198d81-34e0-48b6-b64e-a501a75f9d53>
-9. Research Scientist
+9. Research Engineer, SLAM & Multi-View Geometry 🆕
+
+📍 Location: San Francisco
+🔗 Apply Now
+<https://jobs.ashbyhq.com/openai/d9e942a7-a84e-4fb2-8fea-b976a1abaa68>
+10. Research Scientist
 
 📍 Location: San Francisco
 🔗 Apply Now
 <https://jobs.ashbyhq.com/openai/5f0c6579-0bfb-4a06-8a43-1dd371499e10>
-10. Research Scientist, Mathematical Sciences
-
-📍 Location: San Francisco
-🔗 Apply Now
-<https://jobs.ashbyhq.com/openai/3f7e0545-a6b4-4108-82ca-653d16262934>
 11. Senior Research Engineer/Scientist - On-Device Transformer Models
 
 📍 Location: San Francisco
@@ -315,60 +287,56 @@ San Francisco, California, US
 
 📍 Location: London, UK
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7614597>
-🏢 X.ai - 14 positions
+🏢 X.ai - 13 positions
 1. Member of Technical Staff
 
 📍 Location: Memphis, TN
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5044403007>
-2. Member of Technical Staff - Ads 🆕
+2. Member of Technical Staff - Ads
 
 📍 Location: Palo Alto, CA
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/4996796007>
-3. Member of Technical Staff - Grok Chat Model 🆕
+3. Member of Technical Staff - Grok Chat Model
 
 📍 Location: Palo Alto, CA
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5051983007>
 4. Member of Technical Staff - Infrastructure Reliability
 
-📍 Location: Dublin, IE
-🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/4982268007>
-5. Member of Technical Staff - Infrastructure Reliability
-
 📍 Location: Palo Alto, CA
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/4801451007>
-6. Member of Technical Staff - Media 🆕
+5. Member of Technical Staff - Media
 
 📍 Location: Palo Alto, CA; Seattle, WA
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/4805874007>
-7. Member of Technical Staff - Mid-training 🆕
+6. Member of Technical Staff - Mid-training
 
 📍 Location: Palo Alto, CA
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/4965893007>
-8. Member of Technical Staff - Observability 🆕
+7. Member of Technical Staff - Observability
 
 📍 Location: Palo Alto, CA
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/4803905007>
-9. Member of Technical Staff - Real-Time Storage 🆕
+8. Member of Technical Staff - Real-Time Storage
 
 📍 Location: Palo Alto, CA
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/4805886007>
-10. Member of Technical Staff - Reasoning
+9. Member of Technical Staff - Reasoning
 
 📍 Location: Palo Alto, CA
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/4528851007>
-11. Member of Technical Staff - RL Infrastructure 🆕
+10. Member of Technical Staff - RL Infrastructure
 
 📍 Location: Palo Alto, CA
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/4715499007>
-12. Member of Technical Staff - RL Training Framework 🆕
+11. Member of Technical Staff - RL Training Framework
 
 📍 Location: Palo Alto, CA
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/4799185007>
-13. Member of Technical Staff - Sandbox Service 🆕
+12. Member of Technical Staff - Sandbox Service
 
 📍 Location: London, UK
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5007872007>
-14. Member of Technical Staff - X Money 🆕
+13. Member of Technical Staff - X Money
 
 📍 Location: Tokyo, JP
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5007310007>
