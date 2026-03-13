@@ -1,45 +1,35 @@
 # AI Research Engineer Jobs
 
-**Update:** 52/259
-**Date:** 3/12/2026 6:00:43
-**Subject:** 🤖 AI Research Jobs - 113 positions (4 new!) (1 removed)
+**Update:** 53/259
+**Date:** 3/13/2026 6:00:21
+**Subject:** 🤖 AI Research Jobs - 113 positions (2 new!) (2 removed)
 **Total Positions:** 113
 
 ---
 
 🤖 AI Research Engineer Jobs Update
 
-*Date:* 2026-03-12 13:00:43
+*Date:* 2026-03-13 13:00:19
 *Total Positions:* 113
-*🆕 New Positions:* 4
-*❎ Removed Positions:* 1
-🆕 New Jobs (4) 🏢 Anthropic
-Transformative AI Research Economist, Economic Research
+*🆕 New Positions:* 2
+*❎ Removed Positions:* 2
+🆕 New Jobs (2) 🏢 DeepMind
+Research Scientist, Audio
 
-📍 San Francisco, CA
-🔗 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/5149802008>
-🏢 OpenAI
-Research Engineer/Scientist - Generative UI, Consumer Devices
+📍 New York City, New York, US
+🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7572463>
+Research Scientist, Gemini Diffusion
 
-📍 San Francisco
-🔗 Apply Now
-<https://jobs.ashbyhq.com/openai/8a99798d-eeb7-49b8-931c-2890a00837e8>
-🏢 DeepMind
+📍 London, UK
+🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7700399>
+❎ Removed Jobs (2) 🏢 DeepMind
 Code Research Engineer
 
 📍 Mountain View, California, US; New York City, New York, US
-🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7695151>
-🏢 Thinking Machines
-Technical Sourcer
+This role no longer appears on the board.
+Research Engineer, Response Quality/Hermes
 
-📍 San Francisco, California
-🔗 Apply Now
-<https://job-boards.greenhouse.io/thinkingmachines/jobs/5149860008>
-❎ Removed Jobs (1) 🏢 DeepMind
-Research Scientist/Research Engineer, AI for Secure Code
-
-📍 Mountain View, California, US; New York City, New York, US; San
-Francisco, California, US
+📍 Mountain View, California, US
 This role no longer appears on the board.
 📋 All Research Engineer Positions (113) 🏢 Anthropic - 26 positions
 1. Research Engineer / Research Scientist, Tokens
@@ -147,7 +137,7 @@ Seattle, WA | New York City, NY
 
 📍 Location: San Francisco, CA
 🔗 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/5071132008>
-26. Transformative AI Research Economist, Economic Research 🆕
+26. Transformative AI Research Economist, Economic Research
 
 📍 Location: San Francisco, CA
 🔗 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/5149802008>
@@ -192,7 +182,7 @@ Seattle, WA | New York City, NY
 📍 Location: San Francisco
 🔗 Apply Now
 <https://jobs.ashbyhq.com/openai/7e198d81-34e0-48b6-b64e-a501a75f9d53>
-9. Research Engineer/Scientist - Generative UI, Consumer Devices 🆕
+9. Research Engineer/Scientist - Generative UI, Consumer Devices
 
 📍 Location: San Francisco
 🔗 Apply Now
@@ -213,54 +203,54 @@ Seattle, WA | New York City, NY
 🔗 Apply Now
 <https://jobs.ashbyhq.com/openai/7f9eb43b-423e-43e4-9f42-d14b8ba0f234>
 🏢 DeepMind - 22 positions
-1. Code Research Engineer 🆕
-
-📍 Location: Mountain View, California, US; New York City, New York, US
-🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7695151>
-2. Research Engineer, Applied Robotics
+1. Research Engineer, Applied Robotics
 
 📍 Location: Mountain View, California, US
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7543224>
-3. Research Engineer, Developer Experience, Gemini Robotics
+2. Research Engineer, Developer Experience, Gemini Robotics
 
 📍 Location: Mountain View, California, US
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7411063>
-4. Research Engineer, Embodied Generalist Agent
+3. Research Engineer, Embodied Generalist Agent
 
 📍 Location: Tokyo, Japan
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7588263>
-5. Research Engineer, Gemini Post Training, Model Behavior
+4. Research Engineer, Gemini Post Training, Model Behavior
 
 📍 Location: Mountain View, California, US
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7263484>
-6. Research Engineer, GenMedia
+5. Research Engineer, GenMedia
 
 📍 Location: Mountain View, California, US
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7288535>
-7. Research Engineer, Multimodal Generative AI (Image/Video)
+6. Research Engineer, Multimodal Generative AI (Image/Video)
 
 📍 Location: Kirkland, Washington, US; Seattle, Washington, US
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7339604>
-8. Research Engineer, Multimodal Reinforcement Learning
+7. Research Engineer, Multimodal Reinforcement Learning
 
 📍 Location: Zurich, Switzerland
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7552677>
-9. Research Engineer, Response Quality/Hermes
-
-📍 Location: Mountain View, California, US
-🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7669124>
-10. Research Scientist, AI-powered Scientific Discovery
+8. Research Scientist, AI-powered Scientific Discovery
 
 📍 Location: Montreal, Canada
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7647558>
-11. Research Scientist, AnthroKrishi
+9. Research Scientist, AnthroKrishi
 
 📍 Location: Bangalore, India
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7142337>
-12. Research Scientist, AQUA
+10. Research Scientist, AQUA
 
 📍 Location: Bangalore, India
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7640947>
+11. Research Scientist, Audio 🆕
+
+📍 Location: New York City, New York, US
+🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7572463>
+12. Research Scientist, Gemini Diffusion 🆕
+
+📍 Location: London, UK
+🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7700399>
 13. Research Scientist, Gemini Information Tasks
 
 📍 Location: New York City, New York, US
@@ -336,12 +326,12 @@ Seattle, WA | New York City, NY
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/4805886007>
 9. Member of Technical Staff - Reasoning
 
-📍 Location: Palo Alto, CA
-🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/4528851007>
-10. Member of Technical Staff - Reasoning
-
 📍 Location: London, UK
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5073866007>
+10. Member of Technical Staff - Reasoning
+
+📍 Location: Palo Alto, CA
+🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/4528851007>
 11. Member of Technical Staff - RL Infrastructure
 
 📍 Location: Palo Alto, CA
@@ -550,7 +540,7 @@ Seattle, WA | New York City, NY
 📍 Location: San Francisco
 🔗 Apply Now
 <https://job-boards.greenhouse.io/thinkingmachines/jobs/5013918008>
-28. Technical Sourcer 🆕
+28. Technical Sourcer
 
 📍 Location: San Francisco, California
 🔗 Apply Now
