@@ -1,23 +1,23 @@
 # AI Research Engineer Jobs
 
-**Update:** 55/259
-**Date:** 3/15/2026 6:00:42
-**Subject:** 🤖 AI Research Jobs - 115 positions (1 new!)
-**Total Positions:** 115
+**Update:** 56/259
+**Date:** 3/16/2026 6:00:27
+**Subject:** 🤖 AI Research Jobs - 116 positions (1 new!)
+**Total Positions:** 116
 
 ---
 
 🤖 AI Research Engineer Jobs Update
 
-*Date:* 2026-03-15 13:00:41
-*Total Positions:* 115
+*Date:* 2026-03-16 13:00:26
+*Total Positions:* 116
 *🆕 New Positions:* 1
 🆕 New Jobs (1) 🏢 DeepMind
-Research Scientist, Reinforcement Learning
+Research Scientist, Multisensor Robotics & Dexterity
 
 📍 London, UK
-🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7716037>
-📋 All Research Engineer Positions (115) 🏢 Anthropic - 26 positions
+🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7672178>
+📋 All Research Engineer Positions (116) 🏢 Anthropic - 26 positions
 1. Research Engineer / Research Scientist, Tokens
 
 📍 Location: New York City, NY; New York City, NY | Seattle, WA; San
@@ -188,7 +188,7 @@ Seattle, WA | New York City, NY
 📍 Location: San Francisco
 🔗 Apply Now
 <https://jobs.ashbyhq.com/openai/7f9eb43b-423e-43e4-9f42-d14b8ba0f234>
-🏢 DeepMind - 24 positions
+🏢 DeepMind - 25 positions
 1. Research Engineer, AlphaEarth, Science
 
 📍 Location: London, UK; New York City, New York, US
@@ -261,27 +261,31 @@ Seattle, WA | New York City, NY
 
 📍 Location: Singapore
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7135034>
-19. Research Scientist, Post-AGI Research
+19. Research Scientist, Multisensor Robotics & Dexterity 🆕
+
+📍 Location: London, UK
+🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7672178>
+20. Research Scientist, Post-AGI Research
 
 📍 Location: London, UK
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7522441>
-20. Research Scientist, Reinforcement Learning 🆕
+21. Research Scientist, Reinforcement Learning
 
 📍 Location: London, UK
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7716037>
-21. Research Scientist, Robotics
+22. Research Scientist, Robotics
 
 📍 Location: Mountain View, California, US
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7102795>
-22. Research Scientist, Robotics
+23. Research Scientist, Robotics
 
 📍 Location: London, UK
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7647241>
-23. Research Scientist, Science of Post-Training and Reinforcement Learning
+24. Research Scientist, Science of Post-Training and Reinforcement Learning
 
 📍 Location: London, UK
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7636899>
-24. Science & Frontier AI Research - Writer / Communicator
+25. Science & Frontier AI Research - Writer / Communicator
 
 📍 Location: London, UK
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7614597>
