@@ -1,135 +1,160 @@
 # AI Research Engineer Jobs
 
-**Update:** 58/259
-**Date:** 3/18/2026 6:00:33
-**Subject:** 🤖 AI Research Jobs - 113 positions (1 new!) (2 removed)
-**Total Positions:** 113
+**Update:** 59/259
+**Date:** 3/19/2026 6:00:38
+**Subject:** 🤖 AI Research Jobs - 90 positions (5 new!) (28 removed)
+**Total Positions:** 90
 
 ---
 
 🤖 AI Research Engineer Jobs Update
 
-*Date:* 2026-03-18 13:00:32
-*Total Positions:* 113
-*🆕 New Positions:* 1
-*❎ Removed Positions:* 2
-🆕 New Jobs (1) 🏢 X.ai
-Member of Technical Staff - Multimodal
+*Date:* 2026-03-19 13:00:37
+*Total Positions:* 90
+*🆕 New Positions:* 5
+*❎ Removed Positions:* 28
+🆕 New Jobs (5) 🏢 DeepMind
+Research Engineer, Gemini AutoRater
+
+📍 Mountain View, California, US
+🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7689450>
+Research Scientist, Deep Learning
+
+📍 Mountain View, California, US; San Francisco, California, US
+🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7648705>
+🏢 X.ai
+Member of Technical Staff - Multimodal Understanding
 
 📍 Palo Alto, CA
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5082685007>
-❎ Removed Jobs (2) 🏢 Anthropic
-Research Engineer, Agents
+Member of Technical Staff – Web Foundations
+
+📍 Palo Alto, CA
+🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5063930007>
+🏢 Thinking Machines
+Recruiting Coordination and Operations Specialist
+
+📍 San Francisco
+🔗 Apply Now
+<https://job-boards.greenhouse.io/thinkingmachines/jobs/5156656008>
+❎ Removed Jobs (28) 🏢 Anthropic
+Research Engineer / Research Scientist, Tokens
+
+📍 New York City, NY; New York City, NY | Seattle, WA; San Francisco, CA
+This role no longer appears on the board.
+Research Engineer / Research Scientist, Pre-training
+
+📍 Zürich, CH
+This role no longer appears on the board.
+Research Engineer / Research Scientist, Vision
+
+📍 New York City, NY; San Francisco, CA; Seattle, WA
+This role no longer appears on the board.
+Research Engineer / Scientist, Alignment Science
+
+📍 San Francisco, CA
+This role no longer appears on the board.
+Research Engineer / Scientist, Alignment Science - London
+
+📍 London, UK
+This role no longer appears on the board.
+Research Engineer / Scientist, Societal Impacts
+
+📍 San Francisco, CA
+This role no longer appears on the board.
+Research Engineer, Frontier Red Team (Autonomy)
+
+📍 San Francisco, CA
+This role no longer appears on the board.
+Research Engineer, AI Observability
+
+📍 San Francisco, CA
+This role no longer appears on the board.
+Research Engineer, Discovery
+
+📍 San Francisco, CA
+This role no longer appears on the board.
+Research Engineer, Interpretability
+
+📍 San Francisco, CA
+This role no longer appears on the board.
+Research Engineer, Machine Learning (Reinforcement Learning)
+
+📍 London, UK
+This role no longer appears on the board.
+Research Engineer, Machine Learning (Reinforcement Learning)
+
+📍 San Francisco, CA | New York City, NY
+This role no longer appears on the board.
+Research Engineer, Pretraining
 
 📍 Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA |
 New York City, NY
 This role no longer appears on the board.
-🏢 DeepMind
-Research Scientist, Science of Post-Training and Reinforcement Learning
+Research Engineer, Pretraining
 
 📍 London, UK
 This role no longer appears on the board.
-📋 All Research Engineer Positions (113) 🏢 Anthropic - 24 positions
-1. Research Engineer / Research Scientist, Tokens
+Research Engineer, Universes
 
-📍 Location: New York City, NY; New York City, NY | Seattle, WA; San
-Francisco, CA
-🔗 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/4951814008>
-2. Research Engineer / Research Scientist, Pre-training
+📍 Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA |
+New York City, NY
+This role no longer appears on the board.
+Research Engineer, Virtual Collaborator (Cowork)
 
-📍 Location: Zürich, CH
-🔗 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/5135168008>
-3. Research Engineer / Research Scientist, Vision
+📍 New York City, NY; San Francisco, CA; Seattle, WA
+This role no longer appears on the board.
+Research Engineer/Research Scientist, Audio
 
-📍 Location: New York City, NY; San Francisco, CA; Seattle, WA
-🔗 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/5074217008>
-4. Research Engineer / Scientist, Alignment Science
+📍 San Francisco, CA
+This role no longer appears on the board.
+Research Scientist, Frontier Red Team (Emerging Risks)
 
-📍 Location: San Francisco, CA
-🔗 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/4631822008>
-5. Research Engineer / Scientist, Alignment Science - London
+📍 San Francisco, CA
+This role no longer appears on the board.
+Research Scientist, Interpretability
 
-📍 Location: London, UK
-🔗 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/4610158008>
-6. Research Engineer / Scientist, Societal Impacts
+📍 San Francisco, CA
+This role no longer appears on the board.
+Research Scientist, Societal Impacts
 
-📍 Location: San Francisco, CA
-🔗 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/5076606008>
-7. Research Engineer, Frontier Red Team (Autonomy)
+📍 San Francisco, CA
+This role no longer appears on the board.
+Senior Research Scientist, Reward Models
 
-📍 Location: San Francisco, CA
-🔗 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/5067100008>
-8. Research Engineer, AI Observability
+📍 Remote-Friendly (Travel Required) | San Francisco, CA
+This role no longer appears on the board.
+Staff Research Engineer, Discovery Team
 
-📍 Location: San Francisco, CA
-🔗 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/5125083008>
-9. Research Engineer, Discovery
+📍 San Francisco, CA
+This role no longer appears on the board.
+Research Engineer, Economic Research
 
-📍 Location: San Francisco, CA
-🔗 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/4669581008>
-10. Research Engineer, Interpretability
+📍 San Francisco, CA
+This role no longer appears on the board.
+Transformative AI Research Economist, Economic Research
 
-📍 Location: San Francisco, CA
-🔗 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/4980430008>
-11. Research Engineer, Machine Learning (Reinforcement Learning)
+📍 San Francisco, CA
+This role no longer appears on the board.
+🏢 DeepMind
+Research Engineer, Embodied Generalist Agent
 
-📍 Location: London, UK
-🔗 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/5115935008>
-12. Research Engineer, Machine Learning (Reinforcement Learning)
+📍 Tokyo, Japan
+This role no longer appears on the board.
+Research Scientist, AnthroKrishi
 
-📍 Location: San Francisco, CA | New York City, NY
-🔗 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/4613568008>
-13. Research Engineer, Pretraining
+📍 Bangalore, India
+This role no longer appears on the board.
+Research Scientist: Multilingual, Multicultural and Multimodal LLM
 
-📍 Location: Remote-Friendly (Travel-Required) | San Francisco, CA |
-Seattle, WA | New York City, NY
-🔗 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/4616971008>
-14. Research Engineer, Pretraining
+📍 Tokyo, Japan
+This role no longer appears on the board.
+🏢 X.ai
+Member of Technical Staff - Multimodal
 
-📍 Location: London, UK
-🔗 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/5119713008>
-15. Research Engineer, Universes
-
-📍 Location: Remote-Friendly (Travel-Required) | San Francisco, CA |
-Seattle, WA | New York City, NY
-🔗 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/5061517008>
-16. Research Engineer, Virtual Collaborator (Cowork)
-
-📍 Location: New York City, NY; San Francisco, CA; Seattle, WA
-🔗 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/4946308008>
-17. Research Engineer/Research Scientist, Audio
-
-📍 Location: San Francisco, CA
-🔗 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/5074815008>
-18. Research Scientist, Frontier Red Team (Emerging Risks)
-
-📍 Location: San Francisco, CA
-🔗 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/5103788008>
-19. Research Scientist, Interpretability
-
-📍 Location: San Francisco, CA
-🔗 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/4980427008>
-20. Research Scientist, Societal Impacts
-
-📍 Location: San Francisco, CA
-🔗 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/5076616008>
-21. Senior Research Scientist, Reward Models
-
-📍 Location: Remote-Friendly (Travel Required) | San Francisco, CA
-🔗 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/5024835008>
-22. Staff Research Engineer, Discovery Team
-
-📍 Location: San Francisco, CA
-🔗 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/4593216008>
-23. Research Engineer, Economic Research
-
-📍 Location: San Francisco, CA
-🔗 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/5071132008>
-24. Transformative AI Research Economist, Economic Research
-
-📍 Location: San Francisco, CA
-🔗 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/5149802008>
-🏢 OpenAI - 12 positions
+📍 Palo Alto, CA
+This role no longer appears on the board.
+📋 All Research Engineer Positions (90) 🏢 OpenAI - 12 positions
 1. Research Engineer
 
 📍 Location: San Francisco
@@ -190,7 +215,7 @@ Seattle, WA | New York City, NY
 📍 Location: San Francisco
 🔗 Apply Now
 <https://jobs.ashbyhq.com/openai/7f9eb43b-423e-43e4-9f42-d14b8ba0f234>
-🏢 DeepMind - 23 positions
+🏢 DeepMind - 22 positions
 1. Research Engineer, AlphaEarth, Science
 
 📍 Location: London, UK; New York City, New York, US
@@ -199,10 +224,10 @@ Seattle, WA | New York City, NY
 
 📍 Location: Mountain View, California, US
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7543224>
-3. Research Engineer, Embodied Generalist Agent
+3. Research Engineer, Gemini AutoRater 🆕
 
-📍 Location: Tokyo, Japan
-🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7588263>
+📍 Location: Mountain View, California, US
+🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7689450>
 4. Research Engineer, Gemini Post Training, Model Behavior
 
 📍 Location: Mountain View, California, US
@@ -223,18 +248,18 @@ Seattle, WA | New York City, NY
 
 📍 Location: Montreal, Canada
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7647558>
-9. Research Scientist, AnthroKrishi
-
-📍 Location: Bangalore, India
-🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7142337>
-10. Research Scientist, AQUA
+9. Research Scientist, AQUA
 
 📍 Location: Bangalore, India
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7640947>
-11. Research Scientist, Audio
+10. Research Scientist, Audio
 
 📍 Location: New York City, New York, US
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7572463>
+11. Research Scientist, Deep Learning 🆕
+
+📍 Location: Mountain View, California, US; San Francisco, California, US
+🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7648705>
 12. Research Scientist, Gemini Diffusion
 
 📍 Location: London, UK
@@ -251,39 +276,35 @@ Seattle, WA | New York City, NY
 
 📍 Location: New York City, New York, US; San Francisco, California, US
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7312594>
-16. Research Scientist: Multilingual, Multicultural and Multimodal LLM
-
-📍 Location: Tokyo, Japan
-🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7672015>
-17. Research Scientist, Multimodal Generative AI, Google DeepMind
+16. Research Scientist, Multimodal Generative AI, Google DeepMind
 
 📍 Location: Singapore
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7135034>
-18. Research Scientist, Multisensor Robotics & Dexterity
+17. Research Scientist, Multisensor Robotics & Dexterity
 
 📍 Location: London, UK
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7672178>
-19. Research Scientist, Post-AGI Research
+18. Research Scientist, Post-AGI Research
 
 📍 Location: London, UK
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7522441>
-20. Research Scientist, Reinforcement Learning
+19. Research Scientist, Reinforcement Learning
 
 📍 Location: London, UK
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7716037>
-21. Research Scientist, Robotics
+20. Research Scientist, Robotics
 
 📍 Location: Mountain View, California, US
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7102795>
-22. Research Scientist, Robotics
+21. Research Scientist, Robotics
 
 📍 Location: London, UK
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7647241>
-23. Science & Frontier AI Research - Writer / Communicator
+22. Science & Frontier AI Research - Writer / Communicator
 
 📍 Location: London, UK
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7614597>
-🏢 X.ai - 16 positions
+🏢 X.ai - 17 positions
 1. Member of Technical Staff
 
 📍 Location: Memphis, TN
@@ -308,7 +329,7 @@ Seattle, WA | New York City, NY
 
 📍 Location: Palo Alto, CA
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/4965893007>
-7. Member of Technical Staff - Multimodal 🆕
+7. Member of Technical Staff - Multimodal Understanding 🆕
 
 📍 Location: Palo Alto, CA
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5082685007>
@@ -322,12 +343,12 @@ Seattle, WA | New York City, NY
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/4805886007>
 10. Member of Technical Staff - Reasoning
 
-📍 Location: London, UK
-🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5073866007>
-11. Member of Technical Staff - Reasoning
-
 📍 Location: Palo Alto, CA
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/4528851007>
+11. Member of Technical Staff - Reasoning
+
+📍 Location: London, UK
+🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5073866007>
 12. Member of Technical Staff - RL Infrastructure
 
 📍 Location: Palo Alto, CA
@@ -344,7 +365,11 @@ Seattle, WA | New York City, NY
 
 📍 Location: Palo Alto, CA
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5051966007>
-16. Member of Technical Staff - X Money
+16. Member of Technical Staff – Web Foundations 🆕
+
+📍 Location: Palo Alto, CA
+🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5063930007>
+17. Member of Technical Staff - X Money
 
 📍 Location: Tokyo, JP
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5007310007>
@@ -404,7 +429,7 @@ Seattle, WA | New York City, NY
 📍 Location: San Jose
 🔗 Apply Now
 <https://job.toutiao.com/en/position/detail/7377116071532874010>
-🏢 Thinking Machines - 27 positions
+🏢 Thinking Machines - 28 positions
 1. DGC, Product & Commercial
 
 📍 Location: San Francisco
@@ -425,117 +450,122 @@ Seattle, WA | New York City, NY
 📍 Location: San Francisco
 🔗 Apply Now
 <https://job-boards.greenhouse.io/thinkingmachines/jobs/5015964008>
-5. Research, Audio Expertise
+5. Recruiting Coordination and Operations Specialist 🆕
+
+📍 Location: San Francisco
+🔗 Apply Now
+<https://job-boards.greenhouse.io/thinkingmachines/jobs/5156656008>
+6. Research, Audio Expertise
 
 📍 Location: San Francisco
 🔗 Apply Now
 <https://job-boards.greenhouse.io/thinkingmachines/jobs/5002212008>
-6. Research Engineer, Infrastructure, Inference
+7. Research Engineer, Infrastructure, Inference
 
 📍 Location: San Francisco
 🔗 Apply Now
 <https://job-boards.greenhouse.io/thinkingmachines/jobs/5013924008>
-7. Research Engineer, Infrastructure, Kernels
+8. Research Engineer, Infrastructure, Kernels
 
 📍 Location: San Francisco
 🔗 Apply Now
 <https://job-boards.greenhouse.io/thinkingmachines/jobs/5013934008>
-8. Research Engineer, Infrastructure, Numerics
+9. Research Engineer, Infrastructure, Numerics
 
 📍 Location: San Francisco
 🔗 Apply Now
 <https://job-boards.greenhouse.io/thinkingmachines/jobs/5013937008>
-9. Research Engineer, Infrastructure, RL Systems
+10. Research Engineer, Infrastructure, RL Systems
 
 📍 Location: San Francisco
 🔗 Apply Now
 <https://job-boards.greenhouse.io/thinkingmachines/jobs/5013930008>
-10. Research Engineer, Infrastructure, Tinker
+11. Research Engineer, Infrastructure, Tinker
 
 📍 Location: San Francisco
 🔗 Apply Now
 <https://job-boards.greenhouse.io/thinkingmachines/jobs/5013938008>
-11. Research Engineer, Infrastructure, Training Systems
+12. Research Engineer, Infrastructure, Training Systems
 
 📍 Location: San Francisco
 🔗 Apply Now
 <https://job-boards.greenhouse.io/thinkingmachines/jobs/5013932008>
-12. Research Infrastructure Engineer, Research Acceleration
+13. Research Infrastructure Engineer, Research Acceleration
 
 📍 Location: San Francisco
 🔗 Apply Now
 <https://job-boards.greenhouse.io/thinkingmachines/jobs/5106415008>
-13. Research, Post-Training
+14. Research, Post-Training
 
 📍 Location: San Francisco
 🔗 Apply Now
 <https://job-boards.greenhouse.io/thinkingmachines/jobs/4991302008>
-14. Research, Post-Training Data
+15. Research, Post-Training Data
 
 📍 Location: San Francisco
 🔗 Apply Now
 <https://job-boards.greenhouse.io/thinkingmachines/jobs/5002056008>
-15. Research, Pre-Training Data
+16. Research, Pre-Training Data
 
 📍 Location: San Francisco
 🔗 Apply Now
 <https://job-boards.greenhouse.io/thinkingmachines/jobs/5002134008>
-16. Research, Pre-Training Science
+17. Research, Pre-Training Science
 
 📍 Location: San Francisco
 🔗 Apply Now
 <https://job-boards.greenhouse.io/thinkingmachines/jobs/5002136008>
-17. Research Product Manager
+18. Research Product Manager
 
 📍 Location: San Francisco
 🔗 Apply Now
 <https://job-boards.greenhouse.io/thinkingmachines/jobs/5014120008>
-18. Research, Vision Expertise
+19. Research, Vision Expertise
 
 📍 Location: San Francisco
 🔗 Apply Now
 <https://job-boards.greenhouse.io/thinkingmachines/jobs/5002288008>
-19. Software Engineer, Data Infrastructure
+20. Software Engineer, Data Infrastructure
 
 📍 Location: San Francisco
 🔗 Apply Now
 <https://job-boards.greenhouse.io/thinkingmachines/jobs/5013919008>
-20. Software Engineer, Developer Productivity, AI Tools
+21. Software Engineer, Developer Productivity, AI Tools
 
 📍 Location: San Francisco
 🔗 Apply Now
 <https://job-boards.greenhouse.io/thinkingmachines/jobs/5111543008>
-21. Software Engineer, Frontend
+22. Software Engineer, Frontend
 
 📍 Location: San Francisco
 🔗 Apply Now
 <https://job-boards.greenhouse.io/thinkingmachines/jobs/5013889008>
-22. Software Engineer, Full Stack
+23. Software Engineer, Full Stack
 
 📍 Location: San Francisco
 🔗 Apply Now
 <https://job-boards.greenhouse.io/thinkingmachines/jobs/5013911008>
-23. Software Engineer, Research Acceleration
+24. Software Engineer, Research Acceleration
 
 📍 Location: San Francisco
 🔗 Apply Now
 <https://job-boards.greenhouse.io/thinkingmachines/jobs/5106416008>
-24. Software Engineer, Security
+25. Software Engineer, Security
 
 📍 Location: San Francisco
 🔗 Apply Now
 <https://job-boards.greenhouse.io/thinkingmachines/jobs/5013916008>
-25. Software Engineer, Supercomputing
+26. Software Engineer, Supercomputing
 
 📍 Location: San Francisco
 🔗 Apply Now
 <https://job-boards.greenhouse.io/thinkingmachines/jobs/5013914008>
-26. Software Engineer, Systems Generalist
+27. Software Engineer, Systems Generalist
 
 📍 Location: San Francisco
 🔗 Apply Now
 <https://job-boards.greenhouse.io/thinkingmachines/jobs/5013918008>
-27. Technical Sourcer
+28. Technical Sourcer
 
 📍 Location: San Francisco, California
 🔗 Apply Now
