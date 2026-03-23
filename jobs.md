@@ -1,22 +1,16 @@
 # AI Research Engineer Jobs
 
-**Update:** 62/259
-**Date:** 3/22/2026 6:00:23
-**Subject:** 🤖 AI Research Jobs - 114 positions (1 new!)
+**Update:** 63/259
+**Date:** 3/23/2026 6:00:52
+**Subject:** 🤖 AI Research Jobs - 114 positions
 **Total Positions:** 114
 
 ---
 
 🤖 AI Research Engineer Jobs Update
 
-*Date:* 2026-03-22 13:00:23
+*Date:* 2026-03-23 13:00:51
 *Total Positions:* 114
-*🆕 New Positions:* 1
-🆕 New Jobs (1) 🏢 X.ai
-Member of Technical Staff - Model Training
-
-📍 Austin, TX; London, UK; New York, NY; Palo Alto, CA; Seattle, WA
-🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5086324007>
 📋 All Research Engineer Positions (114) 🏢 Anthropic - 24 positions
 1. Research Engineer / Research Scientist, Tokens
 
@@ -285,7 +279,7 @@ Seattle, WA | New York City, NY
 
 📍 Location: Palo Alto, CA
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/4965893007>
-8. Member of Technical Staff - Model Training 🆕
+8. Member of Technical Staff - Model Training
 
 📍 Location: Austin, TX; London, UK; New York, NY; Palo Alto, CA; Seattle,
 WA
