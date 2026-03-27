@@ -1,34 +1,16 @@
 # AI Research Engineer Jobs
 
-**Update:** 66/259
-**Date:** 3/26/2026 6:00:24
-**Subject:** 🤖 AI Research Jobs - 116 positions (2 new!) (1 removed)
+**Update:** 67/259
+**Date:** 3/27/2026 6:00:27
+**Subject:** 🤖 AI Research Jobs - 116 positions
 **Total Positions:** 116
 
 ---
 
 🤖 AI Research Engineer Jobs Update
 
-*Date:* 2026-03-26 13:00:23
+*Date:* 2026-03-27 13:00:26
 *Total Positions:* 116
-*🆕 New Positions:* 2
-*❎ Removed Positions:* 1
-🆕 New Jobs (2) 🏢 Thinking Machines
-Data Partnerships
-
-📍 San Francisco
-🔗 Apply Now
-<https://job-boards.greenhouse.io/thinkingmachines/jobs/5166366008>
-Engineering Manager
-
-📍 San Francisco
-🔗 Apply Now
-<https://job-boards.greenhouse.io/thinkingmachines/jobs/5165725008>
-❎ Removed Jobs (1) 🏢 DeepMind
-Science & Frontier AI Research - Writer / Communicator
-
-📍 London, UK
-This role no longer appears on the board.
 📋 All Research Engineer Positions (116) 🏢 Anthropic - 26 positions
 1. Research Engineer / Research Scientist, Tokens
 
@@ -292,12 +274,12 @@ Seattle, WA | New York City, NY
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/4965893007>
 8. Member of Technical Staff - Model Training
 
-📍 Location: London, UK
-🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5086969007>
-9. Member of Technical Staff - Model Training
-
 📍 Location: Austin, TX; New York, NY; Palo Alto, CA; Seattle, WA
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5086324007>
+9. Member of Technical Staff - Model Training
+
+📍 Location: London, UK
+🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5086969007>
 10. Member of Technical Staff - Multimodal Understanding
 
 📍 Location: New York, NY; Palo Alto, CA
@@ -404,7 +386,7 @@ Seattle, WA | New York City, NY
 📍 Location: San Francisco, California
 🔗 Apply Now
 <https://job-boards.greenhouse.io/thinkingmachines/jobs/5164607008>
-2. Data Partnerships 🆕
+2. Data Partnerships
 
 📍 Location: San Francisco
 🔗 Apply Now
@@ -414,7 +396,7 @@ Seattle, WA | New York City, NY
 📍 Location: San Francisco
 🔗 Apply Now
 <https://job-boards.greenhouse.io/thinkingmachines/jobs/5164518008>
-4. Engineering Manager 🆕
+4. Engineering Manager
 
 📍 Location: San Francisco
 🔗 Apply Now
