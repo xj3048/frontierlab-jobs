@@ -1,27 +1,16 @@
 # AI Research Engineer Jobs
 
-**Update:** 68/259
-**Date:** 3/28/2026 6:00:43
-**Subject:** 🤖 AI Research Jobs - 114 positions (2 removed)
+**Update:** 69/259
+**Date:** 3/29/2026 6:00:29
+**Subject:** 🤖 AI Research Jobs - 114 positions
 **Total Positions:** 114
 
 ---
 
 🤖 AI Research Engineer Jobs Update
 
-*Date:* 2026-03-28 13:00:43
+*Date:* 2026-03-29 13:00:28
 *Total Positions:* 114
-*❎ Removed Positions:* 2
-❎ Removed Jobs (2) 🏢 DeepMind
-Research Engineer, GenMedia
-
-📍 Mountain View, California, US
-This role no longer appears on the board.
-🏢 Thinking Machines
-Software Engineer, Frontend
-
-📍 San Francisco
-This role no longer appears on the board.
 📋 All Research Engineer Positions (114) 🏢 Anthropic - 26 positions
 1. Research Engineer / Research Scientist, Tokens
 
