@@ -1,17 +1,23 @@
 # AI Research Engineer Jobs
 
-**Update:** 70/259
-**Date:** 3/30/2026 6:00:32
-**Subject:** 🤖 AI Research Jobs - 114 positions
-**Total Positions:** 114
+**Update:** 71/259
+**Date:** 3/31/2026 6:00:28
+**Subject:** 🤖 AI Research Jobs - 115 positions (1 new!)
+**Total Positions:** 115
 
 ---
 
 🤖 AI Research Engineer Jobs Update
 
-*Date:* 2026-03-30 13:00:31
-*Total Positions:* 114
-📋 All Research Engineer Positions (114) 🏢 Anthropic - 26 positions
+*Date:* 2026-03-31 13:00:27
+*Total Positions:* 115
+*🆕 New Positions:* 1
+🆕 New Jobs (1) 🏢 DeepMind
+Research Scientist, AnthroKrishi
+
+📍 Bangalore, India
+🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7142337>
+📋 All Research Engineer Positions (115) 🏢 Anthropic - 26 positions
 1. Research Engineer / Research Scientist, Tokens
 
 📍 Location: New York City, NY; New York City, NY | Seattle, WA; San
@@ -186,7 +192,7 @@ Seattle, WA | New York City, NY
 📍 Location: San Francisco
 🔗 Apply Now
 <https://jobs.ashbyhq.com/openai/7f9eb43b-423e-43e4-9f42-d14b8ba0f234>
-🏢 DeepMind - 13 positions
+🏢 DeepMind - 14 positions
 1. Research Engineer, Gemini Post Training, Model Behavior
 
 📍 Location: Mountain View, California, US
@@ -203,39 +209,43 @@ Seattle, WA | New York City, NY
 
 📍 Location: Montreal, Canada
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7647558>
-5. Research Scientist, AQUA
+5. Research Scientist, AnthroKrishi 🆕
+
+📍 Location: Bangalore, India
+🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7142337>
+6. Research Scientist, AQUA
 
 📍 Location: Bangalore, India
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7640947>
-6. Research Scientist, Audio
+7. Research Scientist, Audio
 
 📍 Location: New York City, New York, US
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7572463>
-7. Research Scientist, Gemini Diffusion
+8. Research Scientist, Gemini Diffusion
 
 📍 Location: London, UK
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7700399>
-8. Research Scientist, Gemini Information Tasks
+9. Research Scientist, Gemini Information Tasks
 
 📍 Location: New York City, New York, US
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7450900>
-9. Research Scientist, Gemini Personal Intelligence
+10. Research Scientist, Gemini Personal Intelligence
 
 📍 Location: Mountain View, California, US
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7477025>
-10. Research Scientist, Multimodal Generative AI, Google DeepMind
+11. Research Scientist, Multimodal Generative AI, Google DeepMind
 
 📍 Location: Singapore
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7135034>
-11. Research Scientist, Reinforcement Learning
+12. Research Scientist, Reinforcement Learning
 
 📍 Location: London, UK
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7716037>
-12. Research Scientist, Robotics
+13. Research Scientist, Robotics
 
 📍 Location: Mountain View, California, US
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7102795>
-13. Research Scientist, Robotics
+14. Research Scientist, Robotics
 
 📍 Location: London, UK
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7647241>
@@ -270,12 +280,12 @@ Seattle, WA | New York City, NY
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/4965893007>
 8. Member of Technical Staff - Model Training
 
-📍 Location: London, UK
-🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5086969007>
-9. Member of Technical Staff - Model Training
-
 📍 Location: Austin, TX; New York, NY; Palo Alto, CA; Seattle, WA
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5086324007>
+9. Member of Technical Staff - Model Training
+
+📍 Location: London, UK
+🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5086969007>
 10. Member of Technical Staff - Multimodal Understanding
 
 📍 Location: New York, NY; Palo Alto, CA
@@ -290,12 +300,12 @@ Seattle, WA | New York City, NY
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/4805886007>
 13. Member of Technical Staff - Reasoning
 
-📍 Location: Palo Alto, CA
-🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/4528851007>
-14. Member of Technical Staff - Reasoning
-
 📍 Location: London, UK
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5073866007>
+14. Member of Technical Staff - Reasoning
+
+📍 Location: Palo Alto, CA
+🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/4528851007>
 15. Member of Technical Staff - RL Infrastructure
 
 📍 Location: Palo Alto, CA
