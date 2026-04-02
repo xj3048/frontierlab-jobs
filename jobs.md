@@ -1,37 +1,17 @@
 # AI Research Engineer Jobs
 
-**Update:** 72/259
-**Date:** 4/1/2026 6:00:25
-**Subject:** 🤖 AI Research Jobs - 117 positions (3 new!) (1 removed)
-**Total Positions:** 117
+**Update:** 73/259
+**Date:** 4/2/2026 6:00:22
+**Subject:** 🤖 AI Research Jobs - 116 positions
+**Total Positions:** 116
 
 ---
 
 🤖 AI Research Engineer Jobs Update
 
-*Date:* 2026-04-01 13:00:25
-*Total Positions:* 117
-*🆕 New Positions:* 3
-*❎ Removed Positions:* 1
-🆕 New Jobs (3) 🏢 DeepMind
-Research Engineer, Applied AI
-
-📍 Singapore
-🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7219900>
-Research Scientist, Response Quality/Hermes
-
-📍 Mountain View, California, US
-🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7669124>
-Staff Research Engineer, Applied AI
-
-📍 Mountain View, California, US
-🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7561938>
-❎ Removed Jobs (1) 🏢 X.ai
-Member of Technical Staff - RL Training Framework
-
-📍 Palo Alto, CA
-This role no longer appears on the board.
-📋 All Research Engineer Positions (117) 🏢 Anthropic - 26 positions
+*Date:* 2026-04-02 13:00:21
+*Total Positions:* 116
+📋 All Research Engineer Positions (116) 🏢 Anthropic - 26 positions
 1. Research Engineer / Research Scientist, Tokens
 
 📍 Location: New York City, NY; New York City, NY | Seattle, WA; San
@@ -207,7 +187,7 @@ Seattle, WA | New York City, NY
 🔗 Apply Now
 <https://jobs.ashbyhq.com/openai/7f9eb43b-423e-43e4-9f42-d14b8ba0f234>
 🏢 DeepMind - 17 positions
-1. Research Engineer, Applied AI 🆕
+1. Research Engineer, Applied AI
 
 📍 Location: Singapore
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7219900>
@@ -259,7 +239,7 @@ Seattle, WA | New York City, NY
 
 📍 Location: London, UK
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7716037>
-14. Research Scientist, Response Quality/Hermes 🆕
+14. Research Scientist, Response Quality/Hermes
 
 📍 Location: Mountain View, California, US
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7669124>
@@ -271,11 +251,11 @@ Seattle, WA | New York City, NY
 
 📍 Location: London, UK
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7647241>
-17. Staff Research Engineer, Applied AI 🆕
+17. Staff Research Engineer, Applied AI
 
 📍 Location: Mountain View, California, US
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7561938>
-🏢 X.ai - 19 positions
+🏢 X.ai - 18 positions
 1. Member of Technical Staff
 
 📍 Location: Memphis, TN
@@ -306,12 +286,12 @@ Seattle, WA | New York City, NY
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/4965893007>
 8. Member of Technical Staff - Model Training
 
-📍 Location: Austin, TX; New York, NY; Palo Alto, CA; Seattle, WA
-🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5086324007>
-9. Member of Technical Staff - Model Training
-
 📍 Location: London, UK
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5086969007>
+9. Member of Technical Staff - Model Training
+
+📍 Location: Austin, TX; New York, NY; Palo Alto, CA; Seattle, WA
+🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5086324007>
 10. Member of Technical Staff - Multimodal Understanding
 
 📍 Location: New York, NY; Palo Alto, CA
@@ -328,27 +308,23 @@ Seattle, WA | New York City, NY
 
 📍 Location: London, UK
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5073866007>
-14. Member of Technical Staff - Reasoning
-
-📍 Location: Palo Alto, CA
-🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/4528851007>
-15. Member of Technical Staff - RL Infrastructure
+14. Member of Technical Staff - RL Infrastructure
 
 📍 Location: Palo Alto, CA
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/4715499007>
-16. Member of Technical Staff - Sandbox Service
+15. Member of Technical Staff - Sandbox Service
 
 📍 Location: London, UK
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5007872007>
-17. Member of Technical Staff - Voice Model
+16. Member of Technical Staff - Voice Model
 
 📍 Location: Palo Alto, CA
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5051966007>
-18. Member of Technical Staff – Web Foundations
+17. Member of Technical Staff – Web Foundations
 
 📍 Location: Palo Alto, CA
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5063930007>
-19. Member of Technical Staff - X Money
+18. Member of Technical Staff - X Money
 
 📍 Location: Tokyo, JP
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5007310007>
