@@ -1,33 +1,16 @@
 # AI Research Engineer Jobs
 
-**Update:** 75/259
-**Date:** 4/4/2026 6:00:38
-**Subject:** 🤖 AI Research Jobs - 115 positions (1 new!) (2 removed)
+**Update:** 76/259
+**Date:** 4/5/2026 6:00:37
+**Subject:** 🤖 AI Research Jobs - 115 positions
 **Total Positions:** 115
 
 ---
 
 🤖 AI Research Engineer Jobs Update
 
-*Date:* 2026-04-04 13:00:37
+*Date:* 2026-04-05 13:00:36
 *Total Positions:* 115
-*🆕 New Positions:* 1
-*❎ Removed Positions:* 2
-🆕 New Jobs (1) 🏢 X.ai
-Member of Technical Staff - Grok Main Model
-
-📍 Palo Alto, CA
-🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5051983007>
-❎ Removed Jobs (2) 🏢 X.ai
-Member of Technical Staff - Grok Chat Model
-
-📍 Palo Alto, CA
-This role no longer appears on the board.
-🏢 Thinking Machines
-Research, Pre-Training Data
-
-📍 San Francisco
-This role no longer appears on the board.
 📋 All Research Engineer Positions (115) 🏢 Anthropic - 26 positions
 1. Research Engineer / Research Scientist, Tokens
 
@@ -281,7 +264,7 @@ Seattle, WA | New York City, NY
 
 📍 Location: Palo Alto, CA
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/4996796007>
-3. Member of Technical Staff - Grok Main Model 🆕
+3. Member of Technical Staff - Grok Main Model
 
 📍 Location: Palo Alto, CA
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5051983007>
