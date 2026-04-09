@@ -1,112 +1,30 @@
 # AI Research Engineer Jobs
 
-**Update:** 79/259
-**Date:** 4/8/2026 6:00:21
-**Subject:** 🤖 AI Research Jobs - 109 positions (7 new!) (14 removed)
-**Total Positions:** 109
+**Update:** 80/259
+**Date:** 4/9/2026 6:00:20
+**Subject:** 🤖 AI Research Jobs - 108 positions (1 new!) (1 removed)
+**Total Positions:** 108
 
 ---
 
 🤖 AI Research Engineer Jobs Update
 
-*Date:* 2026-04-08 13:00:19
-*Total Positions:* 109
-*🆕 New Positions:* 7
-*❎ Removed Positions:* 14
-🆕 New Jobs (7) 🏢 DeepMind
-Research Engineer, Information Quality
+*Date:* 2026-04-09 13:00:20
+*Total Positions:* 108
+*🆕 New Positions:* 1
+*❎ Removed Positions:* 1
+🆕 New Jobs (1) 🏢 Anthropic
+Research Engineer/Research Scientist, Pre-training
 
-📍 Mountain View, California, US
-🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7171371>
-Research Scientist, Generative Modelling for Materials and Chemistry
-
-📍 London, UK
-🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7705247>
-🏢 ByteDance Seed
-Research Scientist in Large Language Model(Seed-LLM)
-
-📍 San Jose
-🔗 Apply Now
-<https://job.toutiao.com/en/position/detail/7233349076828490043>
-Research Scientist, Vision Foundation Model
-
-📍 San Jose
-🔗 Apply Now
-<https://job.toutiao.com/en/position/detail/7362026100950321459>
-Research Scientist, Foundation Model, Speech Understanding
-
-📍 San Jose
-🔗 Apply Now
-<https://job.toutiao.com/en/position/detail/7302173991929497882>
-Research Scientist - Seed Multimodal Interaction and World Model
-
-📍 San Jose
-🔗 Apply Now
-<https://job.toutiao.com/en/position/detail/7533299082606332168>
-Research Engineer – Agent Training Infrastructure (Seed Infra)
-
-📍 Seattle
-🔗 Apply Now
-<https://job.toutiao.com/en/position/detail/7610960133552654597>
-❎ Removed Jobs (14) 🏢 DeepMind
-Research Engineer, Gemini Post Training, Model Behavior
+📍 Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA |
+New York City, NY
+🔗 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/4616971008>
+❎ Removed Jobs (1) 🏢 DeepMind
+Research Scientist
 
 📍 Mountain View, California, US
 This role no longer appears on the board.
-Research Engineer, Multimodal Reinforcement Learning
-
-📍 Zurich, Switzerland
-This role no longer appears on the board.
-Research Scientist, Response Quality/Hermes
-
-📍 Mountain View, California, US
-This role no longer appears on the board.
-🏢 ByteDance Seed
-Research Scientist in Large Language Model
-
-📍 San Jose
-This role no longer appears on the board.
-Research Scientist, Reinforcement Learning
-
-📍 San Jose
-This role no longer appears on the board.
-Research Scientist, Multimodal Foundation Model
-
-📍 Singapore
-This role no longer appears on the board.
-Research Scientist- Foundation Model, Video Generation
-
-📍 San Jose
-This role no longer appears on the board.
-Research Scientist, Multimodality
-
-📍 San Jose
-This role no longer appears on the board.
-Research Scientist, Foundation Model, Music Intelligence
-
-📍 San Jose
-This role no longer appears on the board.
-Research Scientist/Engineer - Multimodal Interaction & World Model
-
-📍 Singapore
-This role no longer appears on the board.
-Research Scientist- Foundation Model, Vision and Language
-
-📍 San Jose
-This role no longer appears on the board.
-Research Scientist, Multimodal Interaction & World Model - 2025 Start
-
-📍 Singapore
-This role no longer appears on the board.
-Research Scientist in Foundation Models for Science
-
-📍 San Jose
-This role no longer appears on the board.
-Research Scientist, Applied Machine LearningSeattle /
-
-📍 San Jose
-This role no longer appears on the board.
-📋 All Research Engineer Positions (109) 🏢 Anthropic - 26 positions
+📋 All Research Engineer Positions (108) 🏢 Anthropic - 26 positions
 1. Research Engineer / Research Scientist, Tokens
 
 📍 Location: New York City, NY; New York City, NY | Seattle, WA; San
@@ -167,26 +85,26 @@ Seattle, WA | New York City, NY
 🔗 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/5160330008>
 15. Research Engineer, Pretraining
 
-📍 Location: Remote-Friendly (Travel-Required) | San Francisco, CA |
-Seattle, WA | New York City, NY
-🔗 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/4616971008>
-16. Research Engineer, Pretraining
-
 📍 Location: London, UK
 🔗 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/5119713008>
-17. Research Engineer, Universes
+16. Research Engineer, Universes
 
 📍 Location: Remote-Friendly (Travel-Required) | San Francisco, CA |
 Seattle, WA | New York City, NY
 🔗 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/5061517008>
-18. Research Engineer, Virtual Collaborator (Cowork)
+17. Research Engineer, Virtual Collaborator (Cowork)
 
 📍 Location: New York City, NY; San Francisco, CA; Seattle, WA
 🔗 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/4946308008>
-19. Research Engineer/Research Scientist, Audio
+18. Research Engineer/Research Scientist, Audio
 
 📍 Location: San Francisco, CA
 🔗 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/5074815008>
+19. Research Engineer/Research Scientist, Pre-training 🆕
+
+📍 Location: Remote-Friendly (Travel-Required) | San Francisco, CA |
+Seattle, WA | New York City, NY
+🔗 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/4616971008>
 20. Research Scientist, Frontier Red Team (Emerging Risks)
 
 📍 Location: San Francisco, CA
@@ -281,12 +199,12 @@ Seattle, WA | New York City, NY
 📍 Location: San Francisco
 🔗 Apply Now
 <https://jobs.ashbyhq.com/openai/7f9eb43b-423e-43e4-9f42-d14b8ba0f234>
-🏢 DeepMind - 17 positions
+🏢 DeepMind - 16 positions
 1. Research Engineer, Applied AI
 
 📍 Location: Singapore
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7219900>
-2. Research Engineer, Information Quality 🆕
+2. Research Engineer, Information Quality
 
 📍 Location: Mountain View, California, US
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7171371>
@@ -294,59 +212,55 @@ Seattle, WA | New York City, NY
 
 📍 Location: Kirkland, Washington, US; Seattle, Washington, US
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7339604>
-4. Research Scientist
-
-📍 Location: Mountain View, California, US
-🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7655786>
-5. Research Scientist, AI-powered Scientific Discovery
+4. Research Scientist, AI-powered Scientific Discovery
 
 📍 Location: Montreal, Canada
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7647558>
-6. Research Scientist, AnthroKrishi
+5. Research Scientist, AnthroKrishi
 
 📍 Location: Bangalore, India
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7142337>
-7. Research Scientist, AQUA
+6. Research Scientist, AQUA
 
 📍 Location: Bangalore, India
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7640947>
-8. Research Scientist, Audio
+7. Research Scientist, Audio
 
 📍 Location: New York City, New York, US
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7572463>
-9. Research Scientist, Gemini Diffusion
+8. Research Scientist, Gemini Diffusion
 
 📍 Location: London, UK
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7700399>
-10. Research Scientist, Gemini Information Tasks
+9. Research Scientist, Gemini Information Tasks
 
 📍 Location: Mountain View, California, US
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7669124>
-11. Research Scientist, Gemini Information Tasks
+10. Research Scientist, Gemini Information Tasks
 
 📍 Location: New York City, New York, US
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7450900>
-12. Research Scientist, Gemini Personal Intelligence
+11. Research Scientist, Gemini Personal Intelligence
 
 📍 Location: Mountain View, California, US
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7477025>
-13. Research Scientist, Generative Modelling for Materials and Chemistry 🆕
+12. Research Scientist, Generative Modelling for Materials and Chemistry
 
 📍 Location: London, UK
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7705247>
-14. Research Scientist, Multimodal Generative AI, Google DeepMind
+13. Research Scientist, Multimodal Generative AI, Google DeepMind
 
 📍 Location: Singapore
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7135034>
-15. Research Scientist, Reinforcement Learning
+14. Research Scientist, Reinforcement Learning
 
 📍 Location: London, UK
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7716037>
-16. Research Scientist, Robotics
+15. Research Scientist, Robotics
 
 📍 Location: Mountain View, California, US
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7102795>
-17. Staff Research Engineer, Applied AI
+16. Staff Research Engineer, Applied AI
 
 📍 Location: Mountain View, California, US
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7561938>
@@ -381,12 +295,12 @@ Seattle, WA | New York City, NY
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/4965893007>
 8. Member of Technical Staff - Model Training
 
-📍 Location: Austin, TX; New York, NY; Palo Alto, CA; Seattle, WA
-🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5086324007>
-9. Member of Technical Staff - Model Training
-
 📍 Location: London, UK
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5086969007>
+9. Member of Technical Staff - Model Training
+
+📍 Location: Austin, TX; New York, NY; Palo Alto, CA; Seattle, WA
+🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5086324007>
 10. Member of Technical Staff - Multimodal Understanding
 
 📍 Location: New York, NY; Palo Alto, CA
@@ -424,27 +338,27 @@ Seattle, WA | New York City, NY
 📍 Location: Tokyo, JP
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5007310007>
 🏢 ByteDance Seed - 5 positions
-1. Research Scientist in Large Language Model(Seed-LLM) 🆕
+1. Research Scientist in Large Language Model(Seed-LLM)
 
 📍 Location: San Jose
 🔗 Apply Now
 <https://job.toutiao.com/en/position/detail/7233349076828490043>
-2. Research Scientist, Vision Foundation Model 🆕
+2. Research Scientist, Vision Foundation Model
 
 📍 Location: San Jose
 🔗 Apply Now
 <https://job.toutiao.com/en/position/detail/7362026100950321459>
-3. Research Scientist, Foundation Model, Speech Understanding 🆕
+3. Research Scientist, Foundation Model, Speech Understanding
 
 📍 Location: San Jose
 🔗 Apply Now
 <https://job.toutiao.com/en/position/detail/7302173991929497882>
-4. Research Scientist - Seed Multimodal Interaction and World Model 🆕
+4. Research Scientist - Seed Multimodal Interaction and World Model
 
 📍 Location: San Jose
 🔗 Apply Now
 <https://job.toutiao.com/en/position/detail/7533299082606332168>
-5. Research Engineer – Agent Training Infrastructure (Seed Infra) 🆕
+5. Research Engineer – Agent Training Infrastructure (Seed Infra)
 
 📍 Location: Seattle
 🔗 Apply Now
