@@ -1,17 +1,23 @@
 # AI Research Engineer Jobs
 
-**Update:** 81/259
-**Date:** 4/10/2026 6:00:40
-**Subject:** 🤖 AI Research Jobs - 108 positions
-**Total Positions:** 108
+**Update:** 82/259
+**Date:** 4/11/2026 6:00:20
+**Subject:** 🤖 AI Research Jobs - 109 positions (1 new!)
+**Total Positions:** 109
 
 ---
 
 🤖 AI Research Engineer Jobs Update
 
-*Date:* 2026-04-10 13:00:40
-*Total Positions:* 108
-📋 All Research Engineer Positions (108) 🏢 Anthropic - 26 positions
+*Date:* 2026-04-11 13:00:19
+*Total Positions:* 109
+*🆕 New Positions:* 1
+🆕 New Jobs (1) 🏢 DeepMind
+Research Scientist, Information Quality
+
+📍 Mountain View, California, US; San Francisco, California, US
+🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7408812>
+📋 All Research Engineer Positions (109) 🏢 Anthropic - 26 positions
 1. Research Engineer / Research Scientist, Tokens
 
 📍 Location: New York City, NY; New York City, NY | Seattle, WA; San
@@ -186,7 +192,7 @@ Seattle, WA | New York City, NY
 📍 Location: San Francisco
 🔗 Apply Now
 <https://jobs.ashbyhq.com/openai/7f9eb43b-423e-43e4-9f42-d14b8ba0f234>
-🏢 DeepMind - 16 positions
+🏢 DeepMind - 17 positions
 1. Research Engineer, Applied AI
 
 📍 Location: Singapore
@@ -235,19 +241,23 @@ Seattle, WA | New York City, NY
 
 📍 Location: London, UK
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7705247>
-13. Research Scientist, Multimodal Generative AI, Google DeepMind
+13. Research Scientist, Information Quality 🆕
+
+📍 Location: Mountain View, California, US; San Francisco, California, US
+🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7408812>
+14. Research Scientist, Multimodal Generative AI, Google DeepMind
 
 📍 Location: Singapore
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7135034>
-14. Research Scientist, Reinforcement Learning
+15. Research Scientist, Reinforcement Learning
 
 📍 Location: London, UK
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7716037>
-15. Research Scientist, Robotics
+16. Research Scientist, Robotics
 
 📍 Location: Mountain View, California, US
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7102795>
-16. Staff Research Engineer, Applied AI
+17. Staff Research Engineer, Applied AI
 
 📍 Location: Mountain View, California, US
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7561938>
