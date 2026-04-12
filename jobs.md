@@ -1,22 +1,16 @@
 # AI Research Engineer Jobs
 
-**Update:** 82/259
-**Date:** 4/11/2026 6:00:20
-**Subject:** 🤖 AI Research Jobs - 109 positions (1 new!)
+**Update:** 83/259
+**Date:** 4/12/2026 6:00:22
+**Subject:** 🤖 AI Research Jobs - 109 positions
 **Total Positions:** 109
 
 ---
 
 🤖 AI Research Engineer Jobs Update
 
-*Date:* 2026-04-11 13:00:19
+*Date:* 2026-04-12 13:00:21
 *Total Positions:* 109
-*🆕 New Positions:* 1
-🆕 New Jobs (1) 🏢 DeepMind
-Research Scientist, Information Quality
-
-📍 Mountain View, California, US; San Francisco, California, US
-🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7408812>
 📋 All Research Engineer Positions (109) 🏢 Anthropic - 26 positions
 1. Research Engineer / Research Scientist, Tokens
 
@@ -241,7 +235,7 @@ Seattle, WA | New York City, NY
 
 📍 Location: London, UK
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7705247>
-13. Research Scientist, Information Quality 🆕
+13. Research Scientist, Information Quality
 
 📍 Location: Mountain View, California, US; San Francisco, California, US
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7408812>
