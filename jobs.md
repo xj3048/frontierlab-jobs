@@ -1,7 +1,7 @@
 # AI Research Engineer Jobs
 
-**Update:** 83/259
-**Date:** 4/12/2026 6:00:22
+**Update:** 84/259
+**Date:** 4/13/2026 6:00:41
 **Subject:** 🤖 AI Research Jobs - 109 positions
 **Total Positions:** 109
 
@@ -9,7 +9,7 @@
 
 🤖 AI Research Engineer Jobs Update
 
-*Date:* 2026-04-12 13:00:21
+*Date:* 2026-04-13 13:00:39
 *Total Positions:* 109
 📋 All Research Engineer Positions (109) 🏢 Anthropic - 26 positions
 1. Research Engineer / Research Scientist, Tokens
