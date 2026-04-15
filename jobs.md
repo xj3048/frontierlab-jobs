@@ -1,17 +1,23 @@
 # AI Research Engineer Jobs
 
-**Update:** 85/259
-**Date:** 4/14/2026 6:00:20
-**Subject:** 🤖 AI Research Jobs - 109 positions
-**Total Positions:** 109
+**Update:** 86/259
+**Date:** 4/15/2026 6:00:30
+**Subject:** 🤖 AI Research Jobs - 112 positions (1 new!)
+**Total Positions:** 112
 
 ---
 
 🤖 AI Research Engineer Jobs Update
 
-*Date:* 2026-04-14 13:00:19
-*Total Positions:* 109
-📋 All Research Engineer Positions (109) 🏢 Anthropic - 26 positions
+*Date:* 2026-04-15 13:00:28
+*Total Positions:* 112
+*🆕 New Positions:* 1
+🆕 New Jobs (1) 🏢 X.ai
+Member of Technical Staff - X Money, Fraud and Payments
+
+📍 New York, NY; Palo Alto, CA
+🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/4758524007>
+📋 All Research Engineer Positions (112) 🏢 Anthropic - 26 positions
 1. Research Engineer / Research Scientist, Tokens
 
 📍 Location: New York City, NY; New York City, NY | Seattle, WA; San
@@ -255,7 +261,7 @@ Seattle, WA | New York City, NY
 
 📍 Location: Mountain View, California, US
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7561938>
-🏢 X.ai - 18 positions
+🏢 X.ai - 21 positions
 1. Member of Technical Staff
 
 📍 Location: Memphis, TN
@@ -326,8 +332,20 @@ Seattle, WA | New York City, NY
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5063930007>
 18. Member of Technical Staff - X Money
 
+📍 Location: New York, NY; Palo Alto, CA
+🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5107958007>
+19. Member of Technical Staff - X Money
+
+📍 Location: London, UK
+🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5108231007>
+20. Member of Technical Staff - X Money
+
 📍 Location: Tokyo, JP
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5007310007>
+21. Member of Technical Staff - X Money, Fraud and Payments 🆕
+
+📍 Location: New York, NY; Palo Alto, CA
+🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/4758524007>
 🏢 ByteDance Seed - 5 positions
 1. Research Scientist in Large Language Model(Seed-LLM)
 
