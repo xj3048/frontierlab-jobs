@@ -1,23 +1,37 @@
 # AI Research Engineer Jobs
 
-**Update:** 86/259
-**Date:** 4/15/2026 6:00:30
-**Subject:** 🤖 AI Research Jobs - 112 positions (1 new!)
-**Total Positions:** 112
+**Update:** 87/259
+**Date:** 4/16/2026 6:00:29
+**Subject:** 🤖 AI Research Jobs - 110 positions (1 new!) (3 removed)
+**Total Positions:** 110
 
 ---
 
 🤖 AI Research Engineer Jobs Update
 
-*Date:* 2026-04-15 13:00:28
-*Total Positions:* 112
+*Date:* 2026-04-16 13:00:29
+*Total Positions:* 110
 *🆕 New Positions:* 1
+*❎ Removed Positions:* 3
 🆕 New Jobs (1) 🏢 X.ai
-Member of Technical Staff - X Money, Fraud and Payments
+Member of Technical Staff - Pre-Training
+
+📍 Palo Alto, CA
+🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/4378344007>
+❎ Removed Jobs (3) 🏢 X.ai
+Member of Technical Staff - Grok Main Model
+
+📍 Palo Alto, CA
+This role no longer appears on the board.
+Member of Technical Staff - Multimodal Understanding
 
 📍 New York, NY; Palo Alto, CA
-🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/4758524007>
-📋 All Research Engineer Positions (112) 🏢 Anthropic - 26 positions
+This role no longer appears on the board.
+Member of Technical Staff - Voice Model
+
+📍 Palo Alto, CA
+This role no longer appears on the board.
+📋 All Research Engineer Positions (110) 🏢 Anthropic - 26 positions
 1. Research Engineer / Research Scientist, Tokens
 
 📍 Location: New York City, NY; New York City, NY | Seattle, WA; San
@@ -227,12 +241,12 @@ Seattle, WA | New York City, NY
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7700399>
 9. Research Scientist, Gemini Information Tasks
 
-📍 Location: New York City, New York, US
-🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7450900>
-10. Research Scientist, Gemini Information Tasks
-
 📍 Location: Mountain View, California, US
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7669124>
+10. Research Scientist, Gemini Information Tasks
+
+📍 Location: New York City, New York, US
+🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7450900>
 11. Research Scientist, Gemini Personal Intelligence
 
 📍 Location: Mountain View, California, US
@@ -261,7 +275,7 @@ Seattle, WA | New York City, NY
 
 📍 Location: Mountain View, California, US
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7561938>
-🏢 X.ai - 21 positions
+🏢 X.ai - 19 positions
 1. Member of Technical Staff
 
 📍 Location: Memphis, TN
@@ -270,79 +284,71 @@ Seattle, WA | New York City, NY
 
 📍 Location: Palo Alto, CA
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/4996796007>
-3. Member of Technical Staff - Grok Main Model
-
-📍 Location: Palo Alto, CA
-🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5051983007>
-4. Member of Technical Staff - Imagine Model
+3. Member of Technical Staff - Imagine Model
 
 📍 Location: Palo Alto, CA; Seattle, WA
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5051985007>
-5. Member of Technical Staff - Infrastructure Reliability
+4. Member of Technical Staff - Infrastructure Reliability
 
 📍 Location: Palo Alto, CA
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/4801451007>
-6. Member of Technical Staff - Media
+5. Member of Technical Staff - Media
 
 📍 Location: Palo Alto, CA; Seattle, WA
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/4805874007>
-7. Member of Technical Staff - Mid-training
+6. Member of Technical Staff - Mid-training
 
 📍 Location: Palo Alto, CA
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/4965893007>
-8. Member of Technical Staff - Model Training
+7. Member of Technical Staff - Model Training
 
 📍 Location: London, UK
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5086969007>
-9. Member of Technical Staff - Model Training
+8. Member of Technical Staff - Model Training
 
 📍 Location: Austin, TX; New York, NY; Palo Alto, CA; Seattle, WA
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5086324007>
-10. Member of Technical Staff - Multimodal Understanding
-
-📍 Location: New York, NY; Palo Alto, CA
-🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5082685007>
-11. Member of Technical Staff - Observability
+9. Member of Technical Staff - Observability
 
 📍 Location: Palo Alto, CA
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/4803905007>
-12. Member of Technical Staff - Real-Time Storage
+10. Member of Technical Staff - Pre-Training 🆕
+
+📍 Location: Palo Alto, CA
+🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/4378344007>
+11. Member of Technical Staff - Real-Time Storage
 
 📍 Location: Palo Alto, CA
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/4805886007>
-13. Member of Technical Staff - Reasoning
+12. Member of Technical Staff - Reasoning
 
 📍 Location: London, UK
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5073866007>
-14. Member of Technical Staff - RL Infrastructure
+13. Member of Technical Staff - RL Infrastructure
 
 📍 Location: Palo Alto, CA
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/4715499007>
-15. Member of Technical Staff - Sandbox Service
+14. Member of Technical Staff - Sandbox Service
 
 📍 Location: London, UK
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5007872007>
-16. Member of Technical Staff - Voice Model
-
-📍 Location: Palo Alto, CA
-🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5051966007>
-17. Member of Technical Staff – Web Foundations
+15. Member of Technical Staff – Web Foundations
 
 📍 Location: Palo Alto, CA
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5063930007>
-18. Member of Technical Staff - X Money
+16. Member of Technical Staff - X Money
 
 📍 Location: New York, NY; Palo Alto, CA
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5107958007>
-19. Member of Technical Staff - X Money
+17. Member of Technical Staff - X Money
 
 📍 Location: London, UK
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5108231007>
-20. Member of Technical Staff - X Money
+18. Member of Technical Staff - X Money
 
 📍 Location: Tokyo, JP
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5007310007>
-21. Member of Technical Staff - X Money, Fraud and Payments 🆕
+19. Member of Technical Staff - X Money, Fraud and Payments
 
 📍 Location: New York, NY; Palo Alto, CA
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/4758524007>
