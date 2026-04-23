@@ -1,45 +1,16 @@
 # AI Research Engineer Jobs
 
-**Update:** 93/259
-**Date:** 4/22/2026 6:00:36
-**Subject:** 🤖 AI Research Jobs - 105 positions (2 new!) (3 removed)
+**Update:** 94/259
+**Date:** 4/23/2026 6:00:39
+**Subject:** 🤖 AI Research Jobs - 105 positions
 **Total Positions:** 105
 
 ---
 
 🤖 AI Research Engineer Jobs Update
 
-*Date:* 2026-04-22 13:00:36
+*Date:* 2026-04-23 13:00:38
 *Total Positions:* 105
-*🆕 New Positions:* 2
-*❎ Removed Positions:* 3
-🆕 New Jobs (2) 🏢 OpenAI
-Machine Learning Engineer, API Multicloud
-
-📍 San Francisco
-🔗 Apply Now
-<https://jobs.ashbyhq.com/openai/5acf4854-1d42-40ca-bff8-4f6f04cdce68>
-Research Engineer, 3D & Multi-View Geometry
-
-📍 San Francisco
-🔗 Apply Now
-<https://jobs.ashbyhq.com/openai/d9e942a7-a84e-4fb2-8fea-b976a1abaa68>
-❎ Removed Jobs (3) 🏢 Anthropic
-Research Engineer, Agents
-
-📍 Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA |
-New York City, NY
-This role no longer appears on the board.
-🏢 OpenAI
-Research Engineer, SLAM & Multi-View Geometry
-
-📍 San Francisco
-This role no longer appears on the board.
-🏢 DeepMind
-Research Scientist, Audio
-
-📍 New York City, New York, US
-This role no longer appears on the board.
 📋 All Research Engineer Positions (105) 🏢 Anthropic - 25 positions
 1. Research Engineer / Research Scientist, Tokens
 
@@ -145,7 +116,7 @@ Seattle, WA | New York City, NY
 📍 Location: San Francisco, CA
 🔗 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/5149802008>
 🏢 OpenAI - 13 positions
-1. Machine Learning Engineer, API Multicloud 🆕
+1. Machine Learning Engineer, API Multicloud
 
 📍 Location: San Francisco
 🔗 Apply Now
@@ -155,7 +126,7 @@ Seattle, WA | New York City, NY
 📍 Location: San Francisco
 🔗 Apply Now
 <https://jobs.ashbyhq.com/openai/240d459b-696d-43eb-8497-fab3e56ecd9b>
-3. Research Engineer, 3D & Multi-View Geometry 🆕
+3. Research Engineer, 3D & Multi-View Geometry
 
 📍 Location: San Francisco
 🔗 Apply Now
