@@ -1,38 +1,25 @@
 # AI Research Engineer Jobs
 
-**Update:** 95/259
-**Date:** 4/24/2026 6:00:32
-**Subject:** 🤖 AI Research Jobs - 108 positions (4 new!) (1 removed)
+**Update:** 96/259
+**Date:** 4/25/2026 6:00:25
+**Subject:** 🤖 AI Research Jobs - 108 positions (1 new!) (1 removed)
 **Total Positions:** 108
 
 ---
 
 🤖 AI Research Engineer Jobs Update
 
-*Date:* 2026-04-24 13:00:30
+*Date:* 2026-04-25 13:00:24
 *Total Positions:* 108
-*🆕 New Positions:* 4
+*🆕 New Positions:* 1
 *❎ Removed Positions:* 1
-🆕 New Jobs (4) 🏢 Anthropic
-Research Engineer, Machine Learning (RL Velocity)
-
-📍 London, UK
-🔗 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/5198074008>
-Research Engineer, Machine Learning (RL Velocity)
-
-📍 Remote-Friendly (Travel-Required) | San Francisco, CA | New York City, NY
-🔗 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/5198108008>
-Research Engineer, RL Infrastructure and Reliability (Knowledge Work)
-
-📍 San Francisco, CA
-🔗 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/5197337008>
-🏢 X.ai
-Member of Technical Staff - Voice Model
+🆕 New Jobs (1) 🏢 X.ai
+Member of Technical Staff – Web Engineering
 
 📍 Palo Alto, CA
-🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5051966007>
+🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5063930007>
 ❎ Removed Jobs (1) 🏢 X.ai
-Member of Technical Staff - Infrastructure Reliability
+Member of Technical Staff – Web Foundations
 
 📍 Palo Alto, CA
 This role no longer appears on the board.
@@ -90,11 +77,11 @@ Francisco, CA
 
 📍 Location: San Francisco, CA | New York City, NY
 🔗 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/4613568008>
-14. Research Engineer, Machine Learning (RL Velocity) 🆕
+14. Research Engineer, Machine Learning (RL Velocity)
 
 📍 Location: London, UK
 🔗 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/5198074008>
-15. Research Engineer, Machine Learning (RL Velocity) 🆕
+15. Research Engineer, Machine Learning (RL Velocity)
 
 📍 Location: Remote-Friendly (Travel-Required) | San Francisco, CA | New
 York City, NY
@@ -107,7 +94,7 @@ York City, NY
 
 📍 Location: London, UK
 🔗 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/5119713008>
-18. Research Engineer, RL Infrastructure and Reliability (Knowledge Work) 🆕
+18. Research Engineer, RL Infrastructure and Reliability (Knowledge Work)
 
 📍 Location: San Francisco, CA
 🔗 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/5197337008>
@@ -329,26 +316,26 @@ Seattle, WA | New York City, NY
 
 📍 Location: London, UK
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5007872007>
-14. Member of Technical Staff - Voice Model 🆕
+14. Member of Technical Staff - Voice Model
 
 📍 Location: Palo Alto, CA
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5051966007>
-15. Member of Technical Staff – Web Foundations
+15. Member of Technical Staff – Web Engineering 🆕
 
 📍 Location: Palo Alto, CA
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5063930007>
 16. Member of Technical Staff - X Money
 
+📍 Location: Tokyo, JP
+🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5007310007>
+17. Member of Technical Staff - X Money
+
 📍 Location: London, UK
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5108231007>
-17. Member of Technical Staff - X Money
+18. Member of Technical Staff - X Money
 
 📍 Location: New York, NY; Palo Alto, CA
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5107958007>
-18. Member of Technical Staff - X Money
-
-📍 Location: Tokyo, JP
-🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5007310007>
 19. Member of Technical Staff - X Money, Fraud and Payments
 
 📍 Location: New York, NY; Palo Alto, CA
