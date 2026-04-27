@@ -1,7 +1,7 @@
 # AI Research Engineer Jobs
 
-**Update:** 97/259
-**Date:** 4/26/2026 6:00:21
+**Update:** 98/259
+**Date:** 4/27/2026 6:00:21
 **Subject:** 🤖 AI Research Jobs - 108 positions
 **Total Positions:** 108
 
@@ -9,7 +9,7 @@
 
 🤖 AI Research Engineer Jobs Update
 
-*Date:* 2026-04-26 13:00:21
+*Date:* 2026-04-27 13:00:20
 *Total Positions:* 108
 📋 All Research Engineer Positions (108) 🏢 Anthropic - 28 positions
 1. Research Engineer / Research Scientist, Tokens
@@ -221,12 +221,12 @@ Seattle, WA | New York City, NY
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7700399>
 7. Research Scientist, Gemini Information Tasks
 
-📍 Location: Mountain View, California, US
-🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7669124>
-8. Research Scientist, Gemini Information Tasks
-
 📍 Location: New York City, New York, US
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7450900>
+8. Research Scientist, Gemini Information Tasks
+
+📍 Location: Mountain View, California, US
+🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7669124>
 9. Research Scientist, Gemini Personal Intelligence
 
 📍 Location: Mountain View, California, US
