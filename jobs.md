@@ -1,45 +1,29 @@
 # AI Research Engineer Jobs
 
-**Update:** 99/259
-**Date:** 4/28/2026 6:00:23
-**Subject:** 🤖 AI Research Jobs - 112 positions (4 new!) (1 removed)
-**Total Positions:** 112
+**Update:** 100/259
+**Date:** 4/29/2026 6:00:23
+**Subject:** 🤖 AI Research Jobs - 114 positions (2 new!)
+**Total Positions:** 114
 
 ---
 
 🤖 AI Research Engineer Jobs Update
 
-*Date:* 2026-04-28 13:00:20
-*Total Positions:* 112
-*🆕 New Positions:* 4
-*❎ Removed Positions:* 1
-🆕 New Jobs (4) 🏢 Thinking Machines
-Forward Deployed Engineer, Tinker
+*Date:* 2026-04-29 13:00:22
+*Total Positions:* 114
+*🆕 New Positions:* 2
+🆕 New Jobs (2) 🏢 X.ai
+Member of Technical Staff - Post-Training and RL
+
+📍 Palo Alto, CA
+🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5114737007>
+🏢 Thinking Machines
+Site Reliability Engineer (SRE)
 
 📍 San Francisco
 🔗 Apply Now
-<https://job-boards.greenhouse.io/thinkingmachines/jobs/5202369008>
-GTM Strategy & Operations, Tinker
-
-📍 San Francisco, California
-🔗 Apply Now
-<https://job-boards.greenhouse.io/thinkingmachines/jobs/5202370008>
-Software Engineer, Full Stack, Tinker
-
-📍 San Francisco
-🔗 Apply Now
-<https://job-boards.greenhouse.io/thinkingmachines/jobs/5202367008>
-Software Engineer, Platform, Tinker
-
-📍 San Francisco
-🔗 Apply Now
-<https://job-boards.greenhouse.io/thinkingmachines/jobs/5202360008>
-❎ Removed Jobs (1) 🏢 OpenAI
-Research Scientist / Research Engineer — Early Career Cohort
-
-📍 San Francisco
-This role no longer appears on the board.
-📋 All Research Engineer Positions (112) 🏢 Anthropic - 28 positions
+<https://job-boards.greenhouse.io/thinkingmachines/jobs/5203789008>
+📋 All Research Engineer Positions (114) 🏢 Anthropic - 28 positions
 1. Research Engineer / Research Scientist, Tokens
 
 📍 Location: New York City, NY; New York City, NY | Seattle, WA; San
@@ -244,12 +228,12 @@ Seattle, WA | New York City, NY
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7700399>
 7. Research Scientist, Gemini Information Tasks
 
-📍 Location: New York City, New York, US
-🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7450900>
-8. Research Scientist, Gemini Information Tasks
-
 📍 Location: Mountain View, California, US
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7669124>
+8. Research Scientist, Gemini Information Tasks
+
+📍 Location: New York City, New York, US
+🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7450900>
 9. Research Scientist, Gemini Personal Intelligence
 
 📍 Location: Mountain View, California, US
@@ -274,7 +258,7 @@ Seattle, WA | New York City, NY
 
 📍 Location: Mountain View, California, US
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7561938>
-🏢 X.ai - 20 positions
+🏢 X.ai - 21 positions
 1. Member of Technical Staff
 
 📍 Location: Memphis, TN
@@ -311,47 +295,51 @@ Seattle, WA | New York City, NY
 
 📍 Location: Palo Alto, CA
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/4803905007>
-10. Member of Technical Staff - Pre-Training
+10. Member of Technical Staff - Post-Training and RL 🆕
+
+📍 Location: Palo Alto, CA
+🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5114737007>
+11. Member of Technical Staff - Pre-Training
 
 📍 Location: Palo Alto, CA
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/4378344007>
-11. Member of Technical Staff - Real-Time Storage
+12. Member of Technical Staff - Real-Time Storage
 
 📍 Location: Palo Alto, CA
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/4805886007>
-12. Member of Technical Staff - Reasoning
+13. Member of Technical Staff - Reasoning
 
 📍 Location: London, UK
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5073866007>
-13. Member of Technical Staff - RL Infrastructure
+14. Member of Technical Staff - RL Infrastructure
 
 📍 Location: Palo Alto, CA
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/4715499007>
-14. Member of Technical Staff - Sandbox Service
+15. Member of Technical Staff - Sandbox Service
 
 📍 Location: London, UK
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5007872007>
-15. Member of Technical Staff - Voice Model
+16. Member of Technical Staff - Voice Model
 
 📍 Location: Palo Alto, CA
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5051966007>
-16. Member of Technical Staff – Web Engineering
+17. Member of Technical Staff – Web Engineering
 
 📍 Location: Palo Alto, CA
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5063930007>
-17. Member of Technical Staff - X Money
-
-📍 Location: New York, NY; Palo Alto, CA
-🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5107958007>
 18. Member of Technical Staff - X Money
-
-📍 Location: Tokyo, JP
-🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5007310007>
-19. Member of Technical Staff - X Money
 
 📍 Location: London, UK
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5108231007>
-20. Member of Technical Staff - X Money, Fraud and Payments
+19. Member of Technical Staff - X Money
+
+📍 Location: Tokyo, JP
+🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5007310007>
+20. Member of Technical Staff - X Money
+
+📍 Location: New York, NY; Palo Alto, CA
+🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5107958007>
+21. Member of Technical Staff - X Money, Fraud and Payments
 
 📍 Location: New York, NY; Palo Alto, CA
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/4758524007>
@@ -381,7 +369,7 @@ Seattle, WA | New York City, NY
 📍 Location: Seattle
 🔗 Apply Now
 <https://job.toutiao.com/en/position/detail/7610960133552654597>
-🏢 Thinking Machines - 33 positions
+🏢 Thinking Machines - 34 positions
 1. Compensation Partner
 
 📍 Location: San Francisco, California
@@ -407,12 +395,12 @@ Seattle, WA | New York City, NY
 📍 Location: San Francisco, CA
 🔗 Apply Now
 <https://job-boards.greenhouse.io/thinkingmachines/jobs/5159119008>
-6. Forward Deployed Engineer, Tinker 🆕
+6. Forward Deployed Engineer, Tinker
 
 📍 Location: San Francisco
 🔗 Apply Now
 <https://job-boards.greenhouse.io/thinkingmachines/jobs/5202369008>
-7. GTM Strategy & Operations, Tinker 🆕
+7. GTM Strategy & Operations, Tinker
 
 📍 Location: San Francisco, California
 🔗 Apply Now
@@ -497,52 +485,57 @@ Seattle, WA | New York City, NY
 📍 Location: San Francisco
 🔗 Apply Now
 <https://job-boards.greenhouse.io/thinkingmachines/jobs/5002288008>
-24. Software Engineer, Data Infrastructure
+24. Site Reliability Engineer (SRE) 🆕
+
+📍 Location: San Francisco
+🔗 Apply Now
+<https://job-boards.greenhouse.io/thinkingmachines/jobs/5203789008>
+25. Software Engineer, Data Infrastructure
 
 📍 Location: San Francisco
 🔗 Apply Now
 <https://job-boards.greenhouse.io/thinkingmachines/jobs/5013919008>
-25. Software Engineer, Developer Productivity, AI Tools
+26. Software Engineer, Developer Productivity, AI Tools
 
 📍 Location: San Francisco
 🔗 Apply Now
 <https://job-boards.greenhouse.io/thinkingmachines/jobs/5111543008>
-26. Software Engineer, Full Stack
+27. Software Engineer, Full Stack
 
 📍 Location: San Francisco
 🔗 Apply Now
 <https://job-boards.greenhouse.io/thinkingmachines/jobs/5013911008>
-27. Software Engineer, Full Stack, Tinker 🆕
+28. Software Engineer, Full Stack, Tinker
 
-📍 Location: San Francisco
+📍 Location: San Francisco, California
 🔗 Apply Now
-<https://job-boards.greenhouse.io/thinkingmachines/jobs/5202367008>
-28. Software Engineer, Platform, Tinker 🆕
+<https://job-boards.greenhouse.io/thinkingmachines/jobs/5203385008>
+29. Software Engineer, Platform, Tinker
 
 📍 Location: San Francisco
 🔗 Apply Now
 <https://job-boards.greenhouse.io/thinkingmachines/jobs/5202360008>
-29. Software Engineer, Research Acceleration
+30. Software Engineer, Research Acceleration
 
 📍 Location: San Francisco
 🔗 Apply Now
 <https://job-boards.greenhouse.io/thinkingmachines/jobs/5106416008>
-30. Software Engineer, Security
+31. Software Engineer, Security
 
 📍 Location: San Francisco
 🔗 Apply Now
 <https://job-boards.greenhouse.io/thinkingmachines/jobs/5013916008>
-31. Software Engineer, Supercomputing
+32. Software Engineer, Supercomputing
 
 📍 Location: San Francisco
 🔗 Apply Now
 <https://job-boards.greenhouse.io/thinkingmachines/jobs/5013914008>
-32. Software Engineer, Systems Generalist
+33. Software Engineer, Systems Generalist
 
 📍 Location: San Francisco
 🔗 Apply Now
 <https://job-boards.greenhouse.io/thinkingmachines/jobs/5013918008>
-33. Technical Sourcer
+34. Technical Sourcer
 
 📍 Location: San Francisco, California
 🔗 Apply Now
