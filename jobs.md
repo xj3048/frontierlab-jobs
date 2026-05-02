@@ -1,34 +1,16 @@
 # AI Research Engineer Jobs
 
-**Update:** 102/259
-**Date:** 5/1/2026 6:00:35
-**Subject:** 🤖 AI Research Jobs - 116 positions (2 new!) (1 removed)
+**Update:** 103/259
+**Date:** 5/2/2026 6:00:35
+**Subject:** 🤖 AI Research Jobs - 116 positions
 **Total Positions:** 116
 
 ---
 
 🤖 AI Research Engineer Jobs Update
 
-*Date:* 2026-05-01 13:00:34
+*Date:* 2026-05-02 13:00:34
 *Total Positions:* 116
-*🆕 New Positions:* 2
-*❎ Removed Positions:* 1
-🆕 New Jobs (2) 🏢 Anthropic
-Research Engineer, Search and Knowledge Post-Training
-
-📍 Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA |
-New York City, NY
-🔗 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/5206456008>
-🏢 X.ai
-Member of Technical Staff - X Search
-
-📍 Palo Alto, CA
-🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5125621007>
-❎ Removed Jobs (1) 🏢 Thinking Machines
-Research Engineer, Infrastructure, Tinker
-
-📍 San Francisco
-This role no longer appears on the board.
 📋 All Research Engineer Positions (116) 🏢 Anthropic - 29 positions
 1. Research Engineer / Research Scientist, Tokens
 
@@ -104,7 +86,7 @@ York City, NY
 
 📍 Location: San Francisco, CA
 🔗 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/5197337008>
-19. Research Engineer, Search and Knowledge Post-Training 🆕
+19. Research Engineer, Search and Knowledge Post-Training
 
 📍 Location: Remote-Friendly (Travel-Required) | San Francisco, CA |
 Seattle, WA | New York City, NY
@@ -239,12 +221,12 @@ Seattle, WA | New York City, NY
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7700399>
 7. Research Scientist, Gemini Information Tasks
 
-📍 Location: New York City, New York, US
-🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7450900>
-8. Research Scientist, Gemini Information Tasks
-
 📍 Location: Mountain View, California, US
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7669124>
+8. Research Scientist, Gemini Information Tasks
+
+📍 Location: New York City, New York, US
+🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7450900>
 9. Research Scientist, Gemini Personal Intelligence
 
 📍 Location: Mountain View, California, US
@@ -354,7 +336,7 @@ Seattle, WA | New York City, NY
 
 📍 Location: New York, NY; Palo Alto, CA
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/4758524007>
-22. Member of Technical Staff - X Search 🆕
+22. Member of Technical Staff - X Search
 
 📍 Location: Palo Alto, CA
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5125621007>
