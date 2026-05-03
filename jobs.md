@@ -1,17 +1,23 @@
 # AI Research Engineer Jobs
 
-**Update:** 103/259
-**Date:** 5/2/2026 6:00:35
-**Subject:** 🤖 AI Research Jobs - 116 positions
-**Total Positions:** 116
+**Update:** 104/259
+**Date:** 5/3/2026 6:00:37
+**Subject:** 🤖 AI Research Jobs - 115 positions (1 removed)
+**Total Positions:** 115
 
 ---
 
 🤖 AI Research Engineer Jobs Update
 
-*Date:* 2026-05-02 13:00:34
-*Total Positions:* 116
-📋 All Research Engineer Positions (116) 🏢 Anthropic - 29 positions
+*Date:* 2026-05-03 13:00:37
+*Total Positions:* 115
+*❎ Removed Positions:* 1
+❎ Removed Jobs (1) 🏢 DeepMind
+Research Scientist, Multimodal Generative AI, Google DeepMind
+
+📍 Singapore
+This role no longer appears on the board.
+📋 All Research Engineer Positions (115) 🏢 Anthropic - 29 positions
 1. Research Engineer / Research Scientist, Tokens
 
 📍 Location: New York City, NY; New York City, NY | Seattle, WA; San
@@ -194,7 +200,7 @@ Seattle, WA | New York City, NY
 📍 Location: San Francisco
 🔗 Apply Now
 <https://jobs.ashbyhq.com/openai/7f9eb43b-423e-43e4-9f42-d14b8ba0f234>
-🏢 DeepMind - 14 positions
+🏢 DeepMind - 13 positions
 1. Research Engineer, Applied AI
 
 📍 Location: Singapore
@@ -235,19 +241,15 @@ Seattle, WA | New York City, NY
 
 📍 Location: Mountain View, California, US; San Francisco, California, US
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7408812>
-11. Research Scientist, Multimodal Generative AI, Google DeepMind
-
-📍 Location: Singapore
-🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7135034>
-12. Research Scientist, Reinforcement Learning
+11. Research Scientist, Reinforcement Learning
 
 📍 Location: London, UK
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7716037>
-13. Research Scientist, Robotics
+12. Research Scientist, Robotics
 
 📍 Location: Mountain View, California, US
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7102795>
-14. Staff Research Engineer, Applied AI
+13. Staff Research Engineer, Applied AI
 
 📍 Location: Mountain View, California, US
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7561938>
