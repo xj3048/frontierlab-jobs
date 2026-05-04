@@ -1,22 +1,16 @@
 # AI Research Engineer Jobs
 
-**Update:** 104/259
-**Date:** 5/3/2026 6:00:37
-**Subject:** 🤖 AI Research Jobs - 115 positions (1 removed)
+**Update:** 105/259
+**Date:** 5/4/2026 6:00:40
+**Subject:** 🤖 AI Research Jobs - 115 positions
 **Total Positions:** 115
 
 ---
 
 🤖 AI Research Engineer Jobs Update
 
-*Date:* 2026-05-03 13:00:37
+*Date:* 2026-05-04 13:00:38
 *Total Positions:* 115
-*❎ Removed Positions:* 1
-❎ Removed Jobs (1) 🏢 DeepMind
-Research Scientist, Multimodal Generative AI, Google DeepMind
-
-📍 Singapore
-This role no longer appears on the board.
 📋 All Research Engineer Positions (115) 🏢 Anthropic - 29 positions
 1. Research Engineer / Research Scientist, Tokens
 
