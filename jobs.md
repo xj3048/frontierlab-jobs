@@ -1,17 +1,24 @@
 # AI Research Engineer Jobs
 
-**Update:** 105/259
-**Date:** 5/4/2026 6:00:40
-**Subject:** 🤖 AI Research Jobs - 115 positions
-**Total Positions:** 115
+**Update:** 106/259
+**Date:** 5/5/2026 6:00:21
+**Subject:** 🤖 AI Research Jobs - 116 positions (1 new!)
+**Total Positions:** 116
 
 ---
 
 🤖 AI Research Engineer Jobs Update
 
-*Date:* 2026-05-04 13:00:38
-*Total Positions:* 115
-📋 All Research Engineer Positions (115) 🏢 Anthropic - 29 positions
+*Date:* 2026-05-05 13:00:20
+*Total Positions:* 116
+*🆕 New Positions:* 1
+🆕 New Jobs (1) 🏢 OpenAI
+Research Scientist, Learning & Cognitive Outcomes
+
+📍 London, UK
+🔗 Apply Now
+<https://jobs.ashbyhq.com/openai/05bea751-62ab-43d9-a5bb-77f385920af0>
+📋 All Research Engineer Positions (116) 🏢 Anthropic - 29 positions
 1. Research Engineer / Research Scientist, Tokens
 
 📍 Location: New York City, NY; New York City, NY | Seattle, WA; San
@@ -133,7 +140,7 @@ Seattle, WA | New York City, NY
 
 📍 Location: San Francisco, CA
 🔗 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/5149802008>
-🏢 OpenAI - 12 positions
+🏢 OpenAI - 13 positions
 1. Machine Learning Engineer, API Multicloud
 
 📍 Location: San Francisco
@@ -189,7 +196,12 @@ Seattle, WA | New York City, NY
 📍 Location: San Francisco
 🔗 Apply Now
 <https://jobs.ashbyhq.com/openai/5f0c6579-0bfb-4a06-8a43-1dd371499e10>
-12. Senior Research Engineer/Scientist - On-Device Transformer Models
+12. Research Scientist, Learning & Cognitive Outcomes 🆕
+
+📍 Location: London, UK
+🔗 Apply Now
+<https://jobs.ashbyhq.com/openai/05bea751-62ab-43d9-a5bb-77f385920af0>
+13. Senior Research Engineer/Scientist - On-Device Transformer Models
 
 📍 Location: San Francisco
 🔗 Apply Now
@@ -221,12 +233,12 @@ Seattle, WA | New York City, NY
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7700399>
 7. Research Scientist, Gemini Information Tasks
 
-📍 Location: Mountain View, California, US
-🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7669124>
-8. Research Scientist, Gemini Information Tasks
-
 📍 Location: New York City, New York, US
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7450900>
+8. Research Scientist, Gemini Information Tasks
+
+📍 Location: Mountain View, California, US
+🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7669124>
 9. Research Scientist, Gemini Personal Intelligence
 
 📍 Location: Mountain View, California, US
@@ -318,16 +330,16 @@ Seattle, WA | New York City, NY
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5063930007>
 18. Member of Technical Staff - X Money
 
-📍 Location: Tokyo, JP
-🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5007310007>
-19. Member of Technical Staff - X Money
-
 📍 Location: London, UK
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5108231007>
-20. Member of Technical Staff - X Money
+19. Member of Technical Staff - X Money
 
 📍 Location: New York, NY; Palo Alto, CA
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5107958007>
+20. Member of Technical Staff - X Money
+
+📍 Location: Tokyo, JP
+🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5007310007>
 21. Member of Technical Staff - X Money, Fraud and Payments
 
 📍 Location: New York, NY; Palo Alto, CA
