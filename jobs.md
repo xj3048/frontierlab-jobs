@@ -1,41 +1,27 @@
 # AI Research Engineer Jobs
 
-**Update:** 108/259
-**Date:** 5/7/2026 6:00:20
-**Subject:** 🤖 AI Research Jobs - 112 positions (2 new!) (3 removed)
+**Update:** 109/259
+**Date:** 5/8/2026 6:00:33
+**Subject:** 🤖 AI Research Jobs - 112 positions (1 new!) (1 removed)
 **Total Positions:** 112
 
 ---
 
 🤖 AI Research Engineer Jobs Update
 
-*Date:* 2026-05-07 13:00:20
+*Date:* 2026-05-08 13:00:33
 *Total Positions:* 112
-*🆕 New Positions:* 2
-*❎ Removed Positions:* 3
-🆕 New Jobs (2) 🏢 Anthropic
-Research Engineer, Knowledge Team
+*🆕 New Positions:* 1
+*❎ Removed Positions:* 1
+🆕 New Jobs (1) 🏢 DeepMind
+Research Engineer, Multimodal Reasoning For Information Literacy
 
-📍 Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA |
-New York City, NY
-🔗 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/4017331008>
-Research Engineer, RL Infrastructure (Knowledge Work)
+📍 Mountain View, California, US
+🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7171371>
+❎ Removed Jobs (1) 🏢 DeepMind
+Research Engineer, Information Quality
 
-📍 San Francisco, CA
-🔗 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/5197337008>
-❎ Removed Jobs (3) 🏢 Anthropic
-Research Engineer / Research Scientist, Vision
-
-📍 New York City, NY; San Francisco, CA; Seattle, WA
-This role no longer appears on the board.
-Research Engineer, RL Infrastructure and Reliability (Knowledge Work)
-
-📍 San Francisco, CA
-This role no longer appears on the board.
-Research Engineer, Search and Knowledge Post-Training
-
-📍 Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA |
-New York City, NY
+📍 Mountain View, California, US
 This role no longer appears on the board.
 📋 All Research Engineer Positions (112) 🏢 Anthropic - 28 positions
 1. Research Engineer / Research Scientist, Tokens
@@ -79,7 +65,7 @@ Francisco, CA
 
 📍 Location: San Francisco, CA
 🔗 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/4980430008>
-11. Research Engineer, Knowledge Team 🆕
+11. Research Engineer, Knowledge Team
 
 📍 Location: Remote-Friendly (Travel-Required) | San Francisco, CA |
 Seattle, WA | New York City, NY
@@ -109,7 +95,7 @@ York City, NY
 
 📍 Location: London, UK
 🔗 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/5119713008>
-18. Research Engineer, RL Infrastructure (Knowledge Work) 🆕
+18. Research Engineer, RL Infrastructure (Knowledge Work)
 
 📍 Location: San Francisco, CA
 🔗 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/5197337008>
@@ -221,14 +207,14 @@ Seattle, WA | New York City, NY
 
 📍 Location: Singapore
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7219900>
-2. Research Engineer, Information Quality
-
-📍 Location: Mountain View, California, US
-🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7171371>
-3. Research Engineer, Multimodal Generative AI (Image/Video)
+2. Research Engineer, Multimodal Generative AI (Image/Video)
 
 📍 Location: Kirkland, Washington, US; Seattle, Washington, US
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7339604>
+3. Research Engineer, Multimodal Reasoning For Information Literacy 🆕
+
+📍 Location: Mountain View, California, US
+🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7171371>
 4. Research Scientist, AI-powered Scientific Discovery
 
 📍 Location: Montreal, Canada
@@ -243,12 +229,12 @@ Seattle, WA | New York City, NY
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7700399>
 7. Research Scientist, Gemini Information Tasks
 
-📍 Location: New York City, New York, US
-🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7450900>
-8. Research Scientist, Gemini Information Tasks
-
 📍 Location: Mountain View, California, US
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7669124>
+8. Research Scientist, Gemini Information Tasks
+
+📍 Location: New York City, New York, US
+🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7450900>
 9. Research Scientist, Gemini Personal Intelligence
 
 📍 Location: Mountain View, California, US
