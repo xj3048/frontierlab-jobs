@@ -1,17 +1,23 @@
 # AI Research Engineer Jobs
 
-**Update:** 113/259
-**Date:** 5/12/2026 6:00:41
-**Subject:** 🤖 AI Research Jobs - 113 positions
-**Total Positions:** 113
+**Update:** 114/259
+**Date:** 5/13/2026 6:00:22
+**Subject:** 🤖 AI Research Jobs - 112 positions (1 removed)
+**Total Positions:** 112
 
 ---
 
 🤖 AI Research Engineer Jobs Update
 
-*Date:* 2026-05-12 13:00:41
-*Total Positions:* 113
-📋 All Research Engineer Positions (113) 🏢 Anthropic - 28 positions
+*Date:* 2026-05-13 13:00:20
+*Total Positions:* 112
+*❎ Removed Positions:* 1
+❎ Removed Jobs (1) 🏢 ByteDance Seed
+Research Engineer – Agent Training Infrastructure (Seed Infra)
+
+📍 Seattle
+This role no longer appears on the board.
+📋 All Research Engineer Positions (112) 🏢 Anthropic - 28 positions
 1. Research Engineer / Research Scientist, Tokens
 
 📍 Location: New York City, NY; New York City, NY | Seattle, WA; San
@@ -217,12 +223,12 @@ Seattle, WA | New York City, NY
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7700399>
 7. Research Scientist, Gemini Information Tasks
 
-📍 Location: Mountain View, California, US
-🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7669124>
-8. Research Scientist, Gemini Information Tasks
-
 📍 Location: New York City, New York, US
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7450900>
+8. Research Scientist, Gemini Information Tasks
+
+📍 Location: Mountain View, California, US
+🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7669124>
 9. Research Scientist, Gemini Personal Intelligence
 
 📍 Location: Mountain View, California, US
@@ -318,12 +324,12 @@ Seattle, WA | New York City, NY
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5063930007>
 19. Member of Technical Staff - X Money
 
-📍 Location: London, UK
-🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5108231007>
-20. Member of Technical Staff - X Money
-
 📍 Location: New York, NY; Palo Alto, CA
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5107958007>
+20. Member of Technical Staff - X Money
+
+📍 Location: London, UK
+🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5108231007>
 21. Member of Technical Staff - X Money
 
 📍 Location: Tokyo, JP
@@ -336,7 +342,7 @@ Seattle, WA | New York City, NY
 
 📍 Location: Palo Alto, CA
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5125621007>
-🏢 ByteDance Seed - 5 positions
+🏢 ByteDance Seed - 4 positions
 1. Research Scientist in Large Language Model(Seed-LLM)
 
 📍 Location: San Jose
@@ -357,11 +363,6 @@ Seattle, WA | New York City, NY
 📍 Location: San Jose
 🔗 Apply Now
 <https://job.toutiao.com/en/position/detail/7533299082606332168>
-5. Research Engineer – Agent Training Infrastructure (Seed Infra)
-
-📍 Location: Seattle
-🔗 Apply Now
-<https://job.toutiao.com/en/position/detail/7610960133552654597>
 🏢 Thinking Machines - 32 positions
 1. Compensation Partner
 
