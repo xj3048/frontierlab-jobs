@@ -1,38 +1,27 @@
 # AI Research Engineer Jobs
 
-**Update:** 122/259
-**Date:** 5/21/2026 6:00:32
-**Subject:** 🤖 AI Research Jobs - 110 positions (2 new!) (2 removed)
+**Update:** 123/259
+**Date:** 5/22/2026 6:00:40
+**Subject:** 🤖 AI Research Jobs - 110 positions (1 new!) (1 removed)
 **Total Positions:** 110
 
 ---
 
 🤖 AI Research Engineer Jobs Update
 
-*Date:* 2026-05-21 13:00:32
+*Date:* 2026-05-22 13:00:40
 *Total Positions:* 110
-*🆕 New Positions:* 2
-*❎ Removed Positions:* 2
-🆕 New Jobs (2) 🏢 DeepMind
-Science & Frontier AI Research - Writer / Communicator
+*🆕 New Positions:* 1
+*❎ Removed Positions:* 1
+🆕 New Jobs (1) 🏢 DeepMind
+Research Scientist: Multilingual, Multicultural and Multimodal LLM
 
-📍 London, UK
-🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7614597>
-🏢 ByteDance Seed
-Research Scientist, Foundation Model, Speech Understanding
+📍 Tokyo, Japan
+🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7672015>
+❎ Removed Jobs (1) 🏢 DeepMind
+Research Scientist, AI-powered Scientific Discovery
 
-📍 San Jose
-🔗 Apply Now
-<https://job.toutiao.com/en/position/detail/7302173991929497882>
-❎ Removed Jobs (2) 🏢 Anthropic
-Research Engineer, Economic Research
-
-📍 San Francisco, CA
-This role no longer appears on the board.
-🏢 X.ai
-Member of Technical Staff - X Money, Fraud and Payments
-
-📍 New York, NY; Palo Alto, CA
+📍 Montreal, Canada
 This role no longer appears on the board.
 📋 All Research Engineer Positions (110) 🏢 Anthropic - 27 positions
 1. Research Engineer / Research Scientist, Tokens
@@ -217,34 +206,34 @@ Seattle, WA | New York City, NY
 
 📍 Location: Mountain View, California, US
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7171371>
-4. Research Scientist, AI-powered Scientific Discovery
-
-📍 Location: Montreal, Canada
-🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7647558>
-5. Research Scientist, AQUA
+4. Research Scientist, AQUA
 
 📍 Location: Bangalore, India
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7640947>
-6. Research Scientist, Gemini Diffusion
+5. Research Scientist, Gemini Diffusion
 
 📍 Location: London, UK
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7700399>
+6. Research Scientist, Gemini Information Tasks
+
+📍 Location: New York City, New York, US
+🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7450900>
 7. Research Scientist, Gemini Information Tasks
 
 📍 Location: Mountain View, California, US
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7669124>
-8. Research Scientist, Gemini Information Tasks
-
-📍 Location: New York City, New York, US
-🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7450900>
-9. Research Scientist, Gemini Personal Intelligence
+8. Research Scientist, Gemini Personal Intelligence
 
 📍 Location: Mountain View, California, US
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7477025>
-10. Research Scientist, Information Quality
+9. Research Scientist, Information Quality
 
 📍 Location: Mountain View, California, US; San Francisco, California, US
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7408812>
+10. Research Scientist: Multilingual, Multicultural and Multimodal LLM 🆕
+
+📍 Location: Tokyo, Japan
+🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7672015>
 11. Research Scientist, Reinforcement Learning
 
 📍 Location: London, UK
@@ -253,7 +242,7 @@ Seattle, WA | New York City, NY
 
 📍 Location: Mountain View, California, US
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7102795>
-13. Science & Frontier AI Research - Writer / Communicator 🆕
+13. Science & Frontier AI Research - Writer / Communicator
 
 📍 Location: London, UK
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7614597>
@@ -288,12 +277,12 @@ Seattle, WA | New York City, NY
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/4965893007>
 7. Member of Technical Staff - Model Training
 
-📍 Location: Austin, TX; New York, NY; Palo Alto, CA; Seattle, WA
-🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5086324007>
-8. Member of Technical Staff - Model Training
-
 📍 Location: London, UK
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5086969007>
+8. Member of Technical Staff - Model Training
+
+📍 Location: Austin, TX; New York, NY; Palo Alto, CA; Seattle, WA
+🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5086324007>
 9. Member of Technical Staff - Multimodal Understanding
 
 📍 Location: Palo Alto, CA
@@ -361,7 +350,7 @@ Seattle, WA | New York City, NY
 📍 Location: San Jose
 🔗 Apply Now
 <https://job.toutiao.com/en/position/detail/7362026100950321459>
-3. Research Scientist, Foundation Model, Speech Understanding 🆕
+3. Research Scientist, Foundation Model, Speech Understanding
 
 📍 Location: San Jose
 🔗 Apply Now
