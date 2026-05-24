@@ -1,22 +1,16 @@
 # AI Research Engineer Jobs
 
-**Update:** 124/259
-**Date:** 5/23/2026 6:00:16
-**Subject:** 🤖 AI Research Jobs - 109 positions (1 removed)
+**Update:** 125/259
+**Date:** 5/24/2026 6:00:29
+**Subject:** 🤖 AI Research Jobs - 109 positions
 **Total Positions:** 109
 
 ---
 
 🤖 AI Research Engineer Jobs Update
 
-*Date:* 2026-05-23 13:00:15
+*Date:* 2026-05-24 13:00:29
 *Total Positions:* 109
-*❎ Removed Positions:* 1
-❎ Removed Jobs (1) 🏢 OpenAI
-Machine Learning Engineer, API Multicloud
-
-📍 San Francisco
-This role no longer appears on the board.
 📋 All Research Engineer Positions (109) 🏢 Anthropic - 27 positions
 1. Research Engineer / Research Scientist, Tokens
 
