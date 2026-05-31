@@ -1,26 +1,16 @@
 # AI Research Engineer Jobs
 
-**Update:** 131/259
-**Date:** 5/30/2026 6:00:47
-**Subject:** 🤖 AI Research Jobs - 102 positions (2 removed)
+**Update:** 132/259
+**Date:** 5/31/2026 6:00:47
+**Subject:** 🤖 AI Research Jobs - 102 positions
 **Total Positions:** 102
 
 ---
 
 🤖 AI Research Engineer Jobs Update
 
-*Date:* 2026-05-30 13:00:46
+*Date:* 2026-05-31 13:00:47
 *Total Positions:* 102
-*❎ Removed Positions:* 2
-❎ Removed Jobs (2) 🏢 Anthropic
-Research Engineer, Frontier Red Team (Autonomy)
-
-📍 San Francisco, CA
-This role no longer appears on the board.
-Research Scientist, Frontier Red Team (Emerging Risks)
-
-📍 San Francisco, CA
-This role no longer appears on the board.
 📋 All Research Engineer Positions (102) 🏢 Anthropic - 24 positions
 1. Research Engineer / Research Scientist, Tokens
 
