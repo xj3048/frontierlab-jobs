@@ -1,16 +1,22 @@
 # AI Research Engineer Jobs
 
-**Update:** 132/259
-**Date:** 5/31/2026 6:00:47
-**Subject:** 🤖 AI Research Jobs - 102 positions
+**Update:** 133/259
+**Date:** 6/1/2026 6:00:49
+**Subject:** 🤖 AI Research Jobs - 102 positions (1 removed)
 **Total Positions:** 102
 
 ---
 
 🤖 AI Research Engineer Jobs Update
 
-*Date:* 2026-05-31 13:00:47
+*Date:* 2026-06-01 13:00:48
 *Total Positions:* 102
+*❎ Removed Positions:* 1
+❎ Removed Jobs (1) 🏢 DeepMind
+Research Engineer, Applied AI
+
+📍 Singapore
+This role no longer appears on the board.
 📋 All Research Engineer Positions (102) 🏢 Anthropic - 24 positions
 1. Research Engineer / Research Scientist, Tokens
 
@@ -160,54 +166,54 @@ Seattle, WA | New York City, NY
 🔗 Apply Now
 <https://jobs.ashbyhq.com/openai/7f9eb43b-423e-43e4-9f42-d14b8ba0f234>
 🏢 DeepMind - 12 positions
-1. Research Engineer, Applied AI
-
-📍 Location: Singapore
-🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7219900>
-2. Research Engineer, Materials Science
+1. Research Engineer, Materials Science
 
 📍 Location: Mountain View, California, US
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7339890>
-3. Research Engineer, Multimodal Generative AI (Image/Video)
+2. Research Engineer, Multimodal Generative AI (Image/Video)
 
 📍 Location: Kirkland, Washington, US; Seattle, Washington, US
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7339604>
-4. Research Engineer, Multimodal Reasoning For Information Literacy
+3. Research Engineer, Multimodal Reasoning For Information Literacy
 
 📍 Location: Mountain View, California, US
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7171371>
-5. Research Scientist, AQUA
+4. Research Scientist, AQUA
 
 📍 Location: Bangalore, India
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7640947>
-6. Research Scientist, Gemini Information Tasks
+5. Research Scientist, Gemini Information Tasks
 
 📍 Location: New York City, New York, US
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7450900>
-7. Research Scientist, Gemini Personal Intelligence
+6. Research Scientist, Gemini Personal Intelligence
 
 📍 Location: Mountain View, California, US
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7477025>
-8. Research Scientist, Information Quality
+7. Research Scientist, Information Quality
 
 📍 Location: Mountain View, California, US; San Francisco, California, US
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7408812>
-9. Research Scientist: Multilingual, Multicultural and Multimodal LLM
+8. Research Scientist: Multilingual, Multicultural and Multimodal LLM
 
 📍 Location: Tokyo, Japan
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7672015>
-10. Research Scientist, Reinforcement Learning
+9. Research Scientist, Reinforcement Learning
 
 📍 Location: London, UK
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7716037>
-11. Science & Frontier AI Research - Writer / Communicator
+10. Science & Frontier AI Research - Writer / Communicator
 
 📍 Location: London, UK
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7614597>
-12. Staff Research Engineer, Applied AI
+11. Staff Research Engineer, Applied AI
 
 📍 Location: Mountain View, California, US
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7561938>
+12. Staff Research Engineer, Applied AI
+
+📍 Location: Singapore
+🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7219900>
 🏢 X.ai - 22 positions
 1. Member of Technical Staff
 
@@ -235,12 +241,12 @@ Seattle, WA | New York City, NY
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/4965893007>
 7. Member of Technical Staff - Model Training
 
-📍 Location: Austin, TX; New York, NY; Palo Alto, CA; Seattle, WA
-🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5086324007>
-8. Member of Technical Staff - Model Training
-
 📍 Location: London, UK
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5086969007>
+8. Member of Technical Staff - Model Training
+
+📍 Location: Austin, TX; New York, NY; Palo Alto, CA; Seattle, WA
+🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5086324007>
 9. Member of Technical Staff - Multimodal Understanding
 
 📍 Location: Palo Alto, CA
