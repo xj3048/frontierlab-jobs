@@ -1,22 +1,22 @@
 # AI Research Engineer Jobs
 
-**Update:** 133/259
-**Date:** 6/1/2026 6:00:49
-**Subject:** 🤖 AI Research Jobs - 102 positions (1 removed)
+**Update:** 134/259
+**Date:** 6/2/2026 6:00:28
+**Subject:** 🤖 AI Research Jobs - 102 positions (1 new!)
 **Total Positions:** 102
 
 ---
 
 🤖 AI Research Engineer Jobs Update
 
-*Date:* 2026-06-01 13:00:48
+*Date:* 2026-06-02 13:00:28
 *Total Positions:* 102
-*❎ Removed Positions:* 1
-❎ Removed Jobs (1) 🏢 DeepMind
-Research Engineer, Applied AI
+*🆕 New Positions:* 1
+🆕 New Jobs (1) 🏢 DeepMind
+Research Scientist, Material Intelligence
 
-📍 Singapore
-This role no longer appears on the board.
+📍 London, UK
+🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7353237>
 📋 All Research Engineer Positions (102) 🏢 Anthropic - 24 positions
 1. Research Engineer / Research Scientist, Tokens
 
@@ -194,22 +194,22 @@ Seattle, WA | New York City, NY
 
 📍 Location: Mountain View, California, US; San Francisco, California, US
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7408812>
-8. Research Scientist: Multilingual, Multicultural and Multimodal LLM
+8. Research Scientist, Material Intelligence 🆕
+
+📍 Location: London, UK
+🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7353237>
+9. Research Scientist: Multilingual, Multicultural and Multimodal LLM
 
 📍 Location: Tokyo, Japan
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7672015>
-9. Research Scientist, Reinforcement Learning
+10. Research Scientist, Reinforcement Learning
 
 📍 Location: London, UK
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7716037>
-10. Science & Frontier AI Research - Writer / Communicator
+11. Science & Frontier AI Research - Writer / Communicator
 
 📍 Location: London, UK
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7614597>
-11. Staff Research Engineer, Applied AI
-
-📍 Location: Mountain View, California, US
-🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7561938>
 12. Staff Research Engineer, Applied AI
 
 📍 Location: Singapore
@@ -289,12 +289,12 @@ Seattle, WA | New York City, NY
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5063930007>
 19. Member of Technical Staff - X Money
 
-📍 Location: London, UK
-🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5108231007>
-20. Member of Technical Staff - X Money
-
 📍 Location: Tokyo, JP
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5007310007>
+20. Member of Technical Staff - X Money
+
+📍 Location: London, UK
+🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5108231007>
 21. Member of Technical Staff - X Money
 
 📍 Location: New York, NY; Palo Alto, CA
