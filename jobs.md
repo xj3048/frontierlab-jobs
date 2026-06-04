@@ -1,42 +1,16 @@
 # AI Research Engineer Jobs
 
-**Update:** 135/259
-**Date:** 6/3/2026 6:00:23
-**Subject:** 🤖 AI Research Jobs - 99 positions (1 new!) (4 removed)
+**Update:** 136/259
+**Date:** 6/4/2026 6:00:24
+**Subject:** 🤖 AI Research Jobs - 99 positions
 **Total Positions:** 99
 
 ---
 
 🤖 AI Research Engineer Jobs Update
 
-*Date:* 2026-06-03 13:00:22
+*Date:* 2026-06-04 13:00:23
 *Total Positions:* 99
-*🆕 New Positions:* 1
-*❎ Removed Positions:* 4
-🆕 New Jobs (1) 🏢 Anthropic
-Research Scientist, Life Sciences
-
-📍 San Francisco, CA
-🔗 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/5239733008>
-❎ Removed Jobs (4) 🏢 DeepMind
-Research Scientist, Information Quality
-
-📍 Mountain View, California, US; San Francisco, California, US
-This role no longer appears on the board.
-Science & Frontier AI Research - Writer / Communicator
-
-📍 London, UK
-This role no longer appears on the board.
-🏢 X.ai
-Member of Technical Staff
-
-📍 Memphis, TN
-This role no longer appears on the board.
-🏢 Thinking Machines
-Recruiting Coordination and Operations Specialist
-
-📍 San Francisco
-This role no longer appears on the board.
 📋 All Research Engineer Positions (99) 🏢 Anthropic - 25 positions
 1. Research Engineer / Research Scientist, Tokens
 
@@ -123,7 +97,7 @@ Seattle, WA | New York City, NY
 
 📍 Location: San Francisco, CA
 🔗 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/4980427008>
-21. Research Scientist, Life Sciences 🆕
+21. Research Scientist, Life Sciences
 
 📍 Location: San Francisco, CA
 🔗 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/5239733008>
@@ -301,16 +275,16 @@ Seattle, WA | New York City, NY
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5063930007>
 18. Member of Technical Staff - X Money
 
+📍 Location: New York, NY; Palo Alto, CA
+🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5107958007>
+19. Member of Technical Staff - X Money
+
 📍 Location: Tokyo, JP
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5007310007>
-19. Member of Technical Staff - X Money
+20. Member of Technical Staff - X Money
 
 📍 Location: London, UK
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5108231007>
-20. Member of Technical Staff - X Money
-
-📍 Location: New York, NY; Palo Alto, CA
-🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5107958007>
 21. Member of Technical Staff - X Search
 
 📍 Location: Palo Alto, CA
