@@ -1,34 +1,16 @@
 # AI Research Engineer Jobs
 
-**Update:** 138/259
-**Date:** 6/6/2026 6:00:26
-**Subject:** 🤖 AI Research Jobs - 99 positions (2 new!) (1 removed)
+**Update:** 139/259
+**Date:** 6/7/2026 6:00:59
+**Subject:** 🤖 AI Research Jobs - 99 positions
 **Total Positions:** 99
 
 ---
 
 🤖 AI Research Engineer Jobs Update
 
-*Date:* 2026-06-06 13:00:26
+*Date:* 2026-06-07 13:00:58
 *Total Positions:* 99
-*🆕 New Positions:* 2
-*❎ Removed Positions:* 1
-🆕 New Jobs (2) 🏢 OpenAI
-Research Engineer - Speech & Realtime Models
-
-📍 San Francisco
-🔗 Apply Now
-<https://jobs.ashbyhq.com/openai/46cd47bc-d4de-4826-aa2e-8b2e0da3c409>
-🏢 X.ai
-Member of Technical Staff
-
-📍 Memphis, TN
-🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5044403007>
-❎ Removed Jobs (1) 🏢 OpenAI
-Research Engineer / Machine Learning Engineer - Applied Voice
-
-📍 San Francisco
-This role no longer appears on the board.
 📋 All Research Engineer Positions (99) 🏢 Anthropic - 24 positions
 1. Research Engineer / Research Scientist, Tokens
 
@@ -162,7 +144,7 @@ Seattle, WA | New York City, NY
 📍 Location: San Francisco
 🔗 Apply Now
 <https://jobs.ashbyhq.com/openai/7e198d81-34e0-48b6-b64e-a501a75f9d53>
-7. Research Engineer - Speech & Realtime Models 🆕
+7. Research Engineer - Speech & Realtime Models
 
 📍 Location: San Francisco
 🔗 Apply Now
@@ -219,7 +201,7 @@ Seattle, WA | New York City, NY
 📍 Location: Singapore
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7219900>
 🏢 X.ai - 22 positions
-1. Member of Technical Staff 🆕
+1. Member of Technical Staff
 
 📍 Location: Memphis, TN
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5044403007>
