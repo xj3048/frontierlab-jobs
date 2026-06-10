@@ -1,24 +1,23 @@
 # AI Research Engineer Jobs
 
-**Update:** 141/259
-**Date:** 6/9/2026 6:00:36
-**Subject:** 🤖 AI Research Jobs - 100 positions (1 new!)
-**Total Positions:** 100
+**Update:** 142/259
+**Date:** 6/10/2026 6:00:27
+**Subject:** 🤖 AI Research Jobs - 99 positions (1 removed)
+**Total Positions:** 99
 
 ---
 
 🤖 AI Research Engineer Jobs Update
 
-*Date:* 2026-06-09 13:00:35
-*Total Positions:* 100
-*🆕 New Positions:* 1
-🆕 New Jobs (1) 🏢 Thinking Machines
-Associate General Counsel, Corporate & Commercial
+*Date:* 2026-06-10 13:00:26
+*Total Positions:* 99
+*❎ Removed Positions:* 1
+❎ Removed Jobs (1) 🏢 OpenAI
+Senior Research Engineer/Scientist - On-Device Transformer Models
 
 📍 San Francisco
-🔗 Apply Now
-<https://job-boards.greenhouse.io/thinkingmachines/jobs/5251340008>
-📋 All Research Engineer Positions (100) 🏢 Anthropic - 24 positions
+This role no longer appears on the board.
+📋 All Research Engineer Positions (99) 🏢 Anthropic - 24 positions
 1. Research Engineer / Research Scientist, Tokens
 
 📍 Location: New York City, NY; New York City, NY | Seattle, WA; San
@@ -120,7 +119,7 @@ Seattle, WA | New York City, NY
 
 📍 Location: San Francisco, CA
 🔗 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/5149802008>
-🏢 OpenAI - 9 positions
+🏢 OpenAI - 8 positions
 1. Research Engineer
 
 📍 Location: San Francisco
@@ -161,11 +160,6 @@ Seattle, WA | New York City, NY
 📍 Location: San Francisco
 🔗 Apply Now
 <https://jobs.ashbyhq.com/openai/5f0c6579-0bfb-4a06-8a43-1dd371499e10>
-9. Senior Research Engineer/Scientist - On-Device Transformer Models
-
-📍 Location: San Francisco
-🔗 Apply Now
-<https://jobs.ashbyhq.com/openai/7f9eb43b-423e-43e4-9f42-d14b8ba0f234>
 🏢 DeepMind - 10 positions
 1. Research Engineer, Materials Science
 
@@ -282,16 +276,16 @@ Seattle, WA | New York City, NY
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5063930007>
 19. Member of Technical Staff - X Money
 
-📍 Location: Tokyo, JP
-🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5007310007>
-20. Member of Technical Staff - X Money
-
 📍 Location: New York, NY; Palo Alto, CA
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5107958007>
-21. Member of Technical Staff - X Money
+20. Member of Technical Staff - X Money
 
 📍 Location: London, UK
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5108231007>
+21. Member of Technical Staff - X Money
+
+📍 Location: Tokyo, JP
+🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5007310007>
 22. Member of Technical Staff - X Search
 
 📍 Location: Palo Alto, CA
@@ -323,7 +317,7 @@ Seattle, WA | New York City, NY
 📍 Location: San Francisco
 🔗 Apply Now
 <https://job-boards.greenhouse.io/thinkingmachines/jobs/5225580008>
-2. Associate General Counsel, Corporate & Commercial 🆕
+2. Associate General Counsel, Corporate & Commercial
 
 📍 Location: San Francisco
 🔗 Apply Now
