@@ -1,23 +1,37 @@
 # AI Research Engineer Jobs
 
-**Update:** 142/259
-**Date:** 6/10/2026 6:00:27
-**Subject:** 🤖 AI Research Jobs - 99 positions (1 removed)
-**Total Positions:** 99
+**Update:** 143/259
+**Date:** 6/11/2026 6:00:43
+**Subject:** 🤖 AI Research Jobs - 97 positions (1 new!) (3 removed)
+**Total Positions:** 97
 
 ---
 
 🤖 AI Research Engineer Jobs Update
 
-*Date:* 2026-06-10 13:00:26
-*Total Positions:* 99
-*❎ Removed Positions:* 1
-❎ Removed Jobs (1) 🏢 OpenAI
-Senior Research Engineer/Scientist - On-Device Transformer Models
+*Date:* 2026-06-11 13:00:42
+*Total Positions:* 97
+*🆕 New Positions:* 1
+*❎ Removed Positions:* 3
+🆕 New Jobs (1) 🏢 Anthropic
+Research Engineer, Performance RL (Reinforcement Learning)
 
-📍 San Francisco
+📍 San Francisco, CA
+🔗 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/5160330008>
+❎ Removed Jobs (3) 🏢 Anthropic
+Research Engineer / Scientist, Societal Impacts
+
+📍 San Francisco, CA
 This role no longer appears on the board.
-📋 All Research Engineer Positions (99) 🏢 Anthropic - 24 positions
+Research Engineer, Performance RL
+
+📍 San Francisco, CA
+This role no longer appears on the board.
+Research Scientist, Societal Impacts
+
+📍 San Francisco, CA
+This role no longer appears on the board.
+📋 All Research Engineer Positions (97) 🏢 Anthropic - 22 positions
 1. Research Engineer / Research Scientist, Tokens
 
 📍 Location: New York City, NY; New York City, NY | Seattle, WA; San
@@ -35,87 +49,79 @@ Francisco, CA
 
 📍 Location: London, UK
 🔗 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/4610158008>
-5. Research Engineer / Scientist, Societal Impacts
-
-📍 Location: San Francisco, CA
-🔗 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/5076606008>
-6. Research Engineer, AI Observability
+5. Research Engineer, AI Observability
 
 📍 Location: San Francisco, CA
 🔗 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/5125083008>
-7. Research Engineer, Discovery
+6. Research Engineer, Discovery
 
 📍 Location: San Francisco, CA
 🔗 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/4669581008>
-8. Research Engineer, Interpretability
+7. Research Engineer, Interpretability
 
 📍 Location: San Francisco, CA
 🔗 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/4980430008>
-9. Research Engineer, Knowledge Foundations
+8. Research Engineer, Knowledge Foundations
 
 📍 Location: San Francisco, CA
 🔗 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/5197337008>
-10. Research Engineer, Knowledge Team
+9. Research Engineer, Knowledge Team
 
 📍 Location: Remote-Friendly (Travel-Required) | San Francisco, CA |
 Seattle, WA | New York City, NY
 🔗 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/4017331008>
-11. Research Engineer, Machine Learning (Reinforcement Learning)
+10. Research Engineer, Machine Learning (Reinforcement Learning)
 
 📍 Location: London, UK
 🔗 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/5115935008>
-12. Research Engineer, Machine Learning (Reinforcement Learning)
+11. Research Engineer, Machine Learning (Reinforcement Learning)
 
 📍 Location: San Francisco, CA | New York City, NY
 🔗 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/4613568008>
-13. Research Engineer, Machine Learning (RL Velocity)
+12. Research Engineer, Machine Learning (RL Velocity)
 
 📍 Location: London, UK
 🔗 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/5198074008>
-14. Research Engineer, Machine Learning (RL Velocity)
+13. Research Engineer, Machine Learning (RL Velocity)
 
 📍 Location: Remote-Friendly (Travel-Required) | San Francisco, CA | New
 York City, NY
 🔗 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/5198108008>
-15. Research Engineer, Performance RL
+14. Research Engineer, Performance RL (Reinforcement Learning) 🆕
 
 📍 Location: San Francisco, CA
 🔗 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/5160330008>
-16. Research Engineer, Pretraining
+15. Research Engineer, Pretraining
 
 📍 Location: London, UK
 🔗 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/5119713008>
-17. Research Engineer, Universes
+16. Research Engineer, Universes
 
 📍 Location: Remote-Friendly (Travel-Required) | San Francisco, CA |
 Seattle, WA | New York City, NY
 🔗 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/5061517008>
-18. Research Engineer/Research Scientist, Pre-training
+17. Research Engineer/Research Scientist, Pre-training
 
 📍 Location: Remote-Friendly (Travel-Required) | San Francisco, CA |
 Seattle, WA | New York City, NY
 🔗 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/4616971008>
-19. Research Scientist, Interpretability
+18. Research Scientist, Interpretability
 
 📍 Location: San Francisco, CA
 🔗 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/4980427008>
-20. Research Scientist, Life Sciences
+19. Research Scientist, Life Sciences
 
 📍 Location: San Francisco, CA
 🔗 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/5239733008>
-21. Research Scientist, Societal Impacts
-
-📍 Location: San Francisco, CA
-🔗 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/5076616008>
-22. Senior Research Scientist, Reward Models
+20. Senior Research Scientist, Reward Models
 
 📍 Location: Remote-Friendly (Travel Required) | San Francisco, CA
 🔗 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/5024835008>
-23. Staff Research Engineer, Discovery Team
+21. Staff Research Engineer, Discovery Team
 
 📍 Location: San Francisco, CA
 🔗 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/4593216008>
-24. Transformative AI Research Economist, Economic Research
+22. Transformative AI Research Economist, Economic Research
 
 📍 Location: San Francisco, CA
 🔗 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/5149802008>
