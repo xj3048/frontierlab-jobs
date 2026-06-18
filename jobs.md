@@ -1,44 +1,16 @@
 # AI Research Engineer Jobs
 
-**Update:** 149/259
-**Date:** 6/17/2026 6:00:40
-**Subject:** 🤖 AI Research Jobs - 95 positions (2 new!) (3 removed)
+**Update:** 150/259
+**Date:** 6/18/2026 6:00:39
+**Subject:** 🤖 AI Research Jobs - 95 positions
 **Total Positions:** 95
 
 ---
 
 🤖 AI Research Engineer Jobs Update
 
-*Date:* 2026-06-17 13:00:39
+*Date:* 2026-06-18 13:00:38
 *Total Positions:* 95
-*🆕 New Positions:* 2
-*❎ Removed Positions:* 3
-🆕 New Jobs (2) 🏢 Anthropic
-Research Engineer/Research Scientist, Audio
-
-📍 San Francisco, CA
-🔗 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/5074815008>
-🏢 Thinking Machines
-Research Infrastructure Engineer, Research Acceleration
-
-📍 San Francisco
-🔗 Apply Now
-<https://job-boards.greenhouse.io/thinkingmachines/jobs/5106415008>
-❎ Removed Jobs (3) 🏢 DeepMind
-Research Scientist, AQUA
-
-📍 Bangalore, India
-This role no longer appears on the board.
-🏢 X.ai
-Member of Technical Staff – Web Engineering
-
-📍 Palo Alto, CA
-This role no longer appears on the board.
-🏢 Thinking Machines
-Technical Sourcer
-
-📍 San Francisco, California
-This role no longer appears on the board.
 📋 All Research Engineer Positions (95) 🏢 Anthropic - 24 positions
 1. Research Engineer / Research Scientist, Tokens
 
@@ -116,7 +88,7 @@ York City, NY
 📍 Location: Remote-Friendly (Travel-Required) | San Francisco, CA |
 Seattle, WA | New York City, NY
 🔗 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/5061517008>
-19. Research Engineer/Research Scientist, Audio 🆕
+19. Research Engineer/Research Scientist, Audio
 
 📍 Location: San Francisco, CA
 🔗 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/5074815008>
@@ -393,7 +365,7 @@ Seattle, WA | New York City, NY
 📍 Location: San Francisco
 🔗 Apply Now
 <https://job-boards.greenhouse.io/thinkingmachines/jobs/5202369008>
-16. Research Infrastructure Engineer, Research Acceleration 🆕
+16. Research Infrastructure Engineer, Research Acceleration
 
 📍 Location: San Francisco
 🔗 Apply Now
