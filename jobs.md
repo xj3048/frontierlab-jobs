@@ -1,35 +1,35 @@
 # AI Research Engineer Jobs
 
-**Update:** 151/259
-**Date:** 6/19/2026 6:00:19
-**Subject:** 🤖 AI Research Jobs - 94 positions (1 new!) (2 removed)
-**Total Positions:** 94
+**Update:** 152/259
+**Date:** 6/20/2026 6:00:42
+**Subject:** 🤖 AI Research Jobs - 95 positions (2 new!) (1 removed)
+**Total Positions:** 95
 
 ---
 
 🤖 AI Research Engineer Jobs Update
 
-*Date:* 2026-06-19 13:00:18
-*Total Positions:* 94
-*🆕 New Positions:* 1
-*❎ Removed Positions:* 2
-🆕 New Jobs (1) 🏢 Thinking Machines
-Assistant Controller
+*Date:* 2026-06-20 13:00:42
+*Total Positions:* 95
+*🆕 New Positions:* 2
+*❎ Removed Positions:* 1
+🆕 New Jobs (2) 🏢 OpenAI
+Research Engineer / Research Scientist- Personal AGI (Post Training)
 
-📍 San Francisco, CA
+📍 San Francisco
 🔗 Apply Now
-<https://job-boards.greenhouse.io/thinkingmachines/jobs/5267701008>
-❎ Removed Jobs (2) 🏢 Anthropic
-Research Engineer, AI Observability
+<https://jobs.ashbyhq.com/openai/1c516e9f-c97d-4a40-8529-9871dac615a5>
+Research Engineer / Research Scientist -Personal AGI, Proactivity
 
-📍 San Francisco, CA
-This role no longer appears on the board.
-🏢 DeepMind
-Research Scientist, Gemini Personal Intelligence
+📍 San Francisco
+🔗 Apply Now
+<https://jobs.ashbyhq.com/openai/e57d196b-4fa0-4463-bd33-d8189f0d3541>
+❎ Removed Jobs (1) 🏢 OpenAI
+Research Engineer / Research Scientist, Post-Training
 
-📍 Mountain View, California, US
+📍 San Francisco
 This role no longer appears on the board.
-📋 All Research Engineer Positions (94) 🏢 Anthropic - 23 positions
+📋 All Research Engineer Positions (95) 🏢 Anthropic - 23 positions
 1. Research Engineer / Research Scientist, Tokens
 
 📍 Location: New York City, NY; New York City, NY | Seattle, WA; San
@@ -127,7 +127,7 @@ Seattle, WA | New York City, NY
 
 📍 Location: San Francisco, CA
 🔗 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/5149802008>
-🏢 OpenAI - 8 positions
+🏢 OpenAI - 9 positions
 1. Research Engineer
 
 📍 Location: San Francisco
@@ -148,22 +148,27 @@ Seattle, WA | New York City, NY
 📍 Location: San Francisco
 🔗 Apply Now
 <https://jobs.ashbyhq.com/openai/cc434f5b-dc0b-42fd-97ec-e0171545c6e9>
-5. Research Engineer / Research Scientist, Post-Training
+5. Research Engineer / Research Scientist- Personal AGI (Post Training) 🆕
 
 📍 Location: San Francisco
 🔗 Apply Now
 <https://jobs.ashbyhq.com/openai/1c516e9f-c97d-4a40-8529-9871dac615a5>
-6. Research Engineer/Research Scientist, RL/Reasoning
+6. Research Engineer / Research Scientist -Personal AGI, Proactivity 🆕
+
+📍 Location: San Francisco
+🔗 Apply Now
+<https://jobs.ashbyhq.com/openai/e57d196b-4fa0-4463-bd33-d8189f0d3541>
+7. Research Engineer/Research Scientist, RL/Reasoning
 
 📍 Location: San Francisco
 🔗 Apply Now
 <https://jobs.ashbyhq.com/openai/7e198d81-34e0-48b6-b64e-a501a75f9d53>
-7. Research Engineer - Speech & Realtime Models
+8. Research Engineer - Speech & Realtime Models
 
 📍 Location: San Francisco
 🔗 Apply Now
 <https://jobs.ashbyhq.com/openai/46cd47bc-d4de-4826-aa2e-8b2e0da3c409>
-8. Research Scientist
+9. Research Scientist
 
 📍 Location: San Francisco
 🔗 Apply Now
@@ -220,12 +225,12 @@ Seattle, WA | New York City, NY
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/4965893007>
 7. Member of Technical Staff - Model Training
 
-📍 Location: Austin, TX; New York, NY; Palo Alto, CA; Seattle, WA
-🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5086324007>
-8. Member of Technical Staff - Model Training
-
 📍 Location: London, UK
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5086969007>
+8. Member of Technical Staff - Model Training
+
+📍 Location: Austin, TX; New York, NY; Palo Alto, CA; Seattle, WA
+🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5086324007>
 9. Member of Technical Staff - Multimodal Understanding
 
 📍 Location: Palo Alto, CA
@@ -264,16 +269,16 @@ Seattle, WA | New York City, NY
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5051966007>
 18. Member of Technical Staff - X Money
 
+📍 Location: London, UK
+🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5108231007>
+19. Member of Technical Staff - X Money
+
 📍 Location: New York, NY; Palo Alto, CA
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5107958007>
-19. Member of Technical Staff - X Money
+20. Member of Technical Staff - X Money
 
 📍 Location: Tokyo, JP
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5007310007>
-20. Member of Technical Staff - X Money
-
-📍 Location: London, UK
-🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5108231007>
 21. Member of Technical Staff - X Search
 
 📍 Location: Palo Alto, CA
@@ -300,7 +305,7 @@ Seattle, WA | New York City, NY
 🔗 Apply Now
 <https://job.toutiao.com/en/position/detail/7533299082606332168>
 🏢 Thinking Machines - 32 positions
-1. Assistant Controller 🆕
+1. Assistant Controller
 
 📍 Location: San Francisco, CA
 🔗 Apply Now
