@@ -1,34 +1,16 @@
 # AI Research Engineer Jobs
 
-**Update:** 152/259
-**Date:** 6/20/2026 6:00:42
-**Subject:** 🤖 AI Research Jobs - 95 positions (2 new!) (1 removed)
+**Update:** 153/259
+**Date:** 6/21/2026 6:00:21
+**Subject:** 🤖 AI Research Jobs - 95 positions
 **Total Positions:** 95
 
 ---
 
 🤖 AI Research Engineer Jobs Update
 
-*Date:* 2026-06-20 13:00:42
+*Date:* 2026-06-21 13:00:21
 *Total Positions:* 95
-*🆕 New Positions:* 2
-*❎ Removed Positions:* 1
-🆕 New Jobs (2) 🏢 OpenAI
-Research Engineer / Research Scientist- Personal AGI (Post Training)
-
-📍 San Francisco
-🔗 Apply Now
-<https://jobs.ashbyhq.com/openai/1c516e9f-c97d-4a40-8529-9871dac615a5>
-Research Engineer / Research Scientist -Personal AGI, Proactivity
-
-📍 San Francisco
-🔗 Apply Now
-<https://jobs.ashbyhq.com/openai/e57d196b-4fa0-4463-bd33-d8189f0d3541>
-❎ Removed Jobs (1) 🏢 OpenAI
-Research Engineer / Research Scientist, Post-Training
-
-📍 San Francisco
-This role no longer appears on the board.
 📋 All Research Engineer Positions (95) 🏢 Anthropic - 23 positions
 1. Research Engineer / Research Scientist, Tokens
 
@@ -148,12 +130,12 @@ Seattle, WA | New York City, NY
 📍 Location: San Francisco
 🔗 Apply Now
 <https://jobs.ashbyhq.com/openai/cc434f5b-dc0b-42fd-97ec-e0171545c6e9>
-5. Research Engineer / Research Scientist- Personal AGI (Post Training) 🆕
+5. Research Engineer / Research Scientist- Personal AGI (Post Training)
 
 📍 Location: San Francisco
 🔗 Apply Now
 <https://jobs.ashbyhq.com/openai/1c516e9f-c97d-4a40-8529-9871dac615a5>
-6. Research Engineer / Research Scientist -Personal AGI, Proactivity 🆕
+6. Research Engineer / Research Scientist -Personal AGI, Proactivity
 
 📍 Location: San Francisco
 🔗 Apply Now
