@@ -1,23 +1,35 @@
 # AI Research Engineer Jobs
 
-**Update:** 155/259
-**Date:** 6/23/2026 6:00:23
-**Subject:** 🤖 AI Research Jobs - 94 positions (1 removed)
-**Total Positions:** 94
+**Update:** 156/259
+**Date:** 6/24/2026 6:00:20
+**Subject:** 🤖 AI Research Jobs - 93 positions (1 new!) (2 removed)
+**Total Positions:** 93
 
 ---
 
 🤖 AI Research Engineer Jobs Update
 
-*Date:* 2026-06-23 13:00:23
-*Total Positions:* 94
-*❎ Removed Positions:* 1
-❎ Removed Jobs (1) 🏢 Thinking Machines
-Software Engineer, Developer Productivity, AI Tools
+*Date:* 2026-06-24 13:00:20
+*Total Positions:* 93
+*🆕 New Positions:* 1
+*❎ Removed Positions:* 2
+🆕 New Jobs (1) 🏢 Thinking Machines
+Reception & Workplace Experience Coordinator
+
+📍 San Francisco, CA
+🔗 Apply Now
+<https://job-boards.greenhouse.io/thinkingmachines/jobs/5276956008>
+❎ Removed Jobs (2) 🏢 DeepMind
+Research Scientist, Reinforcement Learning
+
+📍 London, UK
+This role no longer appears on the board.
+🏢 Thinking Machines
+Associate General Counsel, Advanced AI & Privacy
 
 📍 San Francisco
 This role no longer appears on the board.
-📋 All Research Engineer Positions (94) 🏢 Anthropic - 23 positions
+📋 All Research Engineer Positions (93) 🏢 Anthropic - 23 positions
 1. Research Engineer / Research Scientist, Tokens
 
 📍 Location: New York City, NY; New York City, NY | Seattle, WA; San
@@ -161,7 +173,7 @@ Seattle, WA | New York City, NY
 📍 Location: San Francisco
 🔗 Apply Now
 <https://jobs.ashbyhq.com/openai/5f0c6579-0bfb-4a06-8a43-1dd371499e10>
-🏢 DeepMind - 6 positions
+🏢 DeepMind - 5 positions
 1. Research Engineer, Materials Science
 
 📍 Location: Mountain View, California, US
@@ -178,11 +190,7 @@ Seattle, WA | New York City, NY
 
 📍 Location: Tokyo, Japan
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7672015>
-5. Research Scientist, Reinforcement Learning
-
-📍 Location: London, UK
-🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7716037>
-6. Staff Research Engineer, Applied AI
+5. Staff Research Engineer, Applied AI
 
 📍 Location: Singapore
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7219900>
@@ -257,16 +265,16 @@ Seattle, WA | New York City, NY
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5051966007>
 18. Member of Technical Staff - X Money
 
+📍 Location: New York, NY; Palo Alto, CA
+🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5107958007>
+19. Member of Technical Staff - X Money
+
 📍 Location: Tokyo, JP
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5007310007>
-19. Member of Technical Staff - X Money
+20. Member of Technical Staff - X Money
 
 📍 Location: London, UK
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5108231007>
-20. Member of Technical Staff - X Money
-
-📍 Location: New York, NY; Palo Alto, CA
-🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5107958007>
 21. Member of Technical Staff - X Search
 
 📍 Location: Palo Alto, CA
@@ -298,46 +306,46 @@ Seattle, WA | New York City, NY
 📍 Location: San Francisco, CA
 🔗 Apply Now
 <https://job-boards.greenhouse.io/thinkingmachines/jobs/5267701008>
-2. Associate General Counsel, Advanced AI & Privacy
-
-📍 Location: San Francisco
-🔗 Apply Now
-<https://job-boards.greenhouse.io/thinkingmachines/jobs/5225580008>
-3. Associate General Counsel, Corporate & Commercial
+2. Associate General Counsel, Corporate & Commercial
 
 📍 Location: San Francisco
 🔗 Apply Now
 <https://job-boards.greenhouse.io/thinkingmachines/jobs/5251340008>
-4. Compensation Partner
+3. Compensation Partner
 
 📍 Location: San Francisco, California
 🔗 Apply Now
 <https://job-boards.greenhouse.io/thinkingmachines/jobs/5164607008>
-5. Designer
+4. Designer
 
 📍 Location: San Francisco
 🔗 Apply Now
 <https://job-boards.greenhouse.io/thinkingmachines/jobs/5164518008>
-6. Engineering Manager
+5. Engineering Manager
 
 📍 Location: San Francisco
 🔗 Apply Now
 <https://job-boards.greenhouse.io/thinkingmachines/jobs/5165725008>
-7. Executive Business Partner
+6. Executive Business Partner
 
 📍 Location: San Francisco, CA
 🔗 Apply Now
 <https://job-boards.greenhouse.io/thinkingmachines/jobs/5159119008>
-8. HR Business Partner
+7. HR Business Partner
 
 📍 Location: San Francisco, California
 🔗 Apply Now
 <https://job-boards.greenhouse.io/thinkingmachines/jobs/5105846008>
-9. Infrastructure Engineer, Security
+8. Infrastructure Engineer, Security
 
 📍 Location: San Francisco
 🔗 Apply Now
 <https://job-boards.greenhouse.io/thinkingmachines/jobs/5015964008>
+9. Reception & Workplace Experience Coordinator 🆕
+
+📍 Location: San Francisco, CA
+🔗 Apply Now
+<https://job-boards.greenhouse.io/thinkingmachines/jobs/5276956008>
 10. Research, Audio Expertise
 
 📍 Location: San Francisco
