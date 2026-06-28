@@ -1,22 +1,16 @@
 # AI Research Engineer Jobs
 
-**Update:** 159/259
-**Date:** 6/27/2026 6:00:51
-**Subject:** 🤖 AI Research Jobs - 94 positions (1 new!)
+**Update:** 160/259
+**Date:** 6/28/2026 6:00:44
+**Subject:** 🤖 AI Research Jobs - 94 positions
 **Total Positions:** 94
 
 ---
 
 🤖 AI Research Engineer Jobs Update
 
-*Date:* 2026-06-27 13:00:49
+*Date:* 2026-06-28 13:00:43
 *Total Positions:* 94
-*🆕 New Positions:* 1
-🆕 New Jobs (1) 🏢 Anthropic
-Research Engineer / Research Scientist, Vision
-
-📍 New York City, NY; San Francisco, CA; Seattle, WA
-🔗 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/5074217008>
 📋 All Research Engineer Positions (94) 🏢 Anthropic - 25 positions
 1. Research Engineer / Research Scientist, Tokens
 
@@ -27,7 +21,7 @@ Francisco, CA
 
 📍 Location: Zürich, CH
 🔗 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/5135168008>
-3. Research Engineer / Research Scientist, Vision 🆕
+3. Research Engineer / Research Scientist, Vision
 
 📍 Location: New York City, NY; San Francisco, CA; Seattle, WA
 🔗 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/5074217008>
@@ -185,20 +179,20 @@ Seattle, WA | New York City, NY
 🏢 X.ai - 23 positions
 1. Member of Technical Staff
 
-📍 Location: Memphis, TN
-🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5044403007>
+📍 Location: Palo Alto, CA
+🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5173208007>
 2. Member of Technical Staff
 
 📍 Location: Palo Alto, CA
-🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5173208007>
+🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5173142007>
 3. Member of Technical Staff
 
 📍 Location: Palo Alto, CA
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5173147007>
 4. Member of Technical Staff
 
-📍 Location: Palo Alto, CA
-🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5173142007>
+📍 Location: Memphis, TN
+🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5044403007>
 5. Member of Technical Staff - Ads
 
 📍 Location: Palo Alto, CA
