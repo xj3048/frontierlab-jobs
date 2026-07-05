@@ -1,22 +1,16 @@
 # AI Research Engineer Jobs
 
-**Update:** 166/259
-**Date:** 7/4/2026 6:00:31
-**Subject:** 🤖 AI Research Jobs - 95 positions (1 new!)
+**Update:** 167/259
+**Date:** 7/5/2026 6:00:25
+**Subject:** 🤖 AI Research Jobs - 95 positions
 **Total Positions:** 95
 
 ---
 
 🤖 AI Research Engineer Jobs Update
 
-*Date:* 2026-07-04 13:00:31
+*Date:* 2026-07-05 13:00:25
 *Total Positions:* 95
-*🆕 New Positions:* 1
-🆕 New Jobs (1) 🏢 Anthropic
-Research Engineer, Life Sciences
-
-📍 San Francisco, CA
-🔗 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/5265365008>
 📋 All Research Engineer Positions (95) 🏢 Anthropic - 25 positions
 1. Research Engineer / Research Scientist, Tokens
 
@@ -57,7 +51,7 @@ London
 📍 Location: Remote-Friendly (Travel-Required) | San Francisco, CA |
 Seattle, WA | New York City, NY
 🔗 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/4017331008>
-10. Research Engineer, Life Sciences 🆕
+10. Research Engineer, Life Sciences
 
 📍 Location: San Francisco, CA
 🔗 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/5265365008>
