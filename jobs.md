@@ -1,16 +1,28 @@
 # AI Research Engineer Jobs
 
-**Update:** 168/259
-**Date:** 7/6/2026 6:00:41
-**Subject:** 🤖 AI Research Jobs - 95 positions
+**Update:** 169/259
+**Date:** 7/7/2026 6:00:36
+**Subject:** 🤖 AI Research Jobs - 95 positions (1 new!) (1 removed)
 **Total Positions:** 95
 
 ---
 
 🤖 AI Research Engineer Jobs Update
 
-*Date:* 2026-07-06 13:00:40
+*Date:* 2026-07-07 13:00:35
 *Total Positions:* 95
+*🆕 New Positions:* 1
+*❎ Removed Positions:* 1
+🆕 New Jobs (1) 🏢 X.ai
+Member of Technical Staff - RL Training Framework
+
+📍 Palo Alto, CA
+🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/4715499007>
+❎ Removed Jobs (1) 🏢 X.ai
+Member of Technical Staff - RL Infrastructure
+
+📍 Palo Alto, CA
+This role no longer appears on the board.
 📋 All Research Engineer Positions (95) 🏢 Anthropic - 25 positions
 1. Research Engineer / Research Scientist, Tokens
 
@@ -172,7 +184,7 @@ Seattle, WA | New York City, NY
 1. Member of Technical Staff
 
 📍 Location: Palo Alto, CA
-🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5173142007>
+🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5173208007>
 2. Member of Technical Staff
 
 📍 Location: Palo Alto, CA
@@ -180,7 +192,7 @@ Seattle, WA | New York City, NY
 3. Member of Technical Staff
 
 📍 Location: Palo Alto, CA
-🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5173208007>
+🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5173142007>
 4. Member of Technical Staff - Ads
 
 📍 Location: Palo Alto, CA
@@ -229,7 +241,7 @@ Seattle, WA | New York City, NY
 
 📍 Location: London, UK
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5073866007>
-16. Member of Technical Staff - RL Infrastructure
+16. Member of Technical Staff - RL Training Framework 🆕
 
 📍 Location: Palo Alto, CA
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/4715499007>
