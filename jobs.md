@@ -1,23 +1,16 @@
 # AI Research Engineer Jobs
 
-**Update:** 178/259
-**Date:** 7/16/2026 6:00:23
-**Subject:** 🤖 AI Research Jobs - 73 positions (1 new!)
+**Update:** 179/259
+**Date:** 7/17/2026 6:00:27
+**Subject:** 🤖 AI Research Jobs - 73 positions
 **Total Positions:** 73
 
 ---
 
 🤖 AI Research Engineer Jobs Update
 
-*Date:* 2026-07-16 13:00:22
+*Date:* 2026-07-17 13:00:26
 *Total Positions:* 73
-*🆕 New Positions:* 1
-🆕 New Jobs (1) 🏢 Thinking Machines
-Research Engineer, Developer Experience, Tinker
-
-📍 San Francisco
-🔗 Apply Now
-<https://job-boards.greenhouse.io/thinkingmachines/jobs/5202369008>
 📋 All Research Engineer Positions (73) 🏢 Anthropic - 24 positions
 1. Research Engineer / Research Scientist, Tokens
 
@@ -254,7 +247,7 @@ Model Behavior
 📍 Location: San Francisco
 🔗 Apply Now
 <https://job-boards.greenhouse.io/thinkingmachines/jobs/5002212008>
-12. Research Engineer, Developer Experience, Tinker 🆕
+12. Research Engineer, Developer Experience, Tinker
 
 📍 Location: San Francisco
 🔗 Apply Now
