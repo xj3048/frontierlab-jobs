@@ -1,30 +1,24 @@
 # AI Research Engineer Jobs
 
-**Update:** 185/259
-**Date:** 7/23/2026 6:00:36
-**Subject:** 🤖 AI Research Jobs - 73 positions (2 new!)
-**Total Positions:** 73
+**Update:** 186/259
+**Date:** 7/24/2026 6:00:41
+**Subject:** 🤖 AI Research Jobs - 74 positions (1 new!)
+**Total Positions:** 74
 
 ---
 
 🤖 AI Research Engineer Jobs Update
 
-*Date:* 2026-07-23 13:00:35
-*Total Positions:* 73
-*🆕 New Positions:* 2
-🆕 New Jobs (2) 🏢 OpenAI
-Research Engineer/Research Scientist, Personal AGI-Model Experience
+*Date:* 2026-07-24 13:00:40
+*Total Positions:* 74
+*🆕 New Positions:* 1
+🆕 New Jobs (1) 🏢 OpenAI
+Research Scientist - Multimodal Agent, Consumer Devices
 
 📍 San Francisco
 🔗 Apply Now
-<https://jobs.ashbyhq.com/openai/872ca3d0-c8c0-4585-9a34-7f9ed6b4dbf9>
-🏢 Thinking Machines
-Recruiting Sourcer
-
-📍 San Francisco, California
-🔗 Apply Now
-<https://job-boards.greenhouse.io/thinkingmachines/jobs/5149860008>
-📋 All Research Engineer Positions (73) 🏢 Anthropic - 23 positions
+<https://jobs.ashbyhq.com/openai/09253a0e-a2b8-49d1-80bb-6955ba3b08a3>
+📋 All Research Engineer Positions (74) 🏢 Anthropic - 23 positions
 1. Research Engineer / Research Scientist, Tokens
 
 📍 Location: New York City, NY; New York City, NY | Seattle, WA; San
@@ -123,7 +117,7 @@ Seattle, WA | New York City, NY
 
 📍 Location: San Francisco, CA
 🔗 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/5149802008>
-🏢 OpenAI - 10 positions
+🏢 OpenAI - 11 positions
 1. Research Engineer
 
 📍 Location: San Francisco
@@ -139,7 +133,7 @@ Seattle, WA | New York City, NY
 📍 Location: San Francisco
 🔗 Apply Now
 <https://jobs.ashbyhq.com/openai/cc434f5b-dc0b-42fd-97ec-e0171545c6e9>
-4. Research Engineer/Research Scientist, Personal AGI-Model Experience 🆕
+4. Research Engineer/Research Scientist, Personal AGI-Model Experience
 
 📍 Location: San Francisco
 🔗 Apply Now
@@ -175,6 +169,11 @@ Model Behavior
 📍 Location: San Francisco
 🔗 Apply Now
 <https://jobs.ashbyhq.com/openai/5f0c6579-0bfb-4a06-8a43-1dd371499e10>
+11. Research Scientist - Multimodal Agent, Consumer Devices 🆕
+
+📍 Location: San Francisco
+🔗 Apply Now
+<https://jobs.ashbyhq.com/openai/09253a0e-a2b8-49d1-80bb-6955ba3b08a3>
 🏢 DeepMind - 2 positions
 1. Research Engineer, Materials Science
 
@@ -241,7 +240,7 @@ Model Behavior
 📍 Location: San Francisco
 🔗 Apply Now
 <https://job-boards.greenhouse.io/thinkingmachines/jobs/5290764008>
-8. Recruiting Sourcer 🆕
+8. Recruiting Sourcer
 
 📍 Location: San Francisco, California
 🔗 Apply Now
