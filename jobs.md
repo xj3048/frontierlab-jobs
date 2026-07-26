@@ -1,49 +1,16 @@
 # AI Research Engineer Jobs
 
-**Update:** 187/259
-**Date:** 7/25/2026 6:00:31
-**Subject:** 🤖 AI Research Jobs - 78 positions (5 new!) (1 removed)
+**Update:** 188/259
+**Date:** 7/26/2026 6:00:26
+**Subject:** 🤖 AI Research Jobs - 78 positions
 **Total Positions:** 78
 
 ---
 
 🤖 AI Research Engineer Jobs Update
 
-*Date:* 2026-07-25 13:00:31
+*Date:* 2026-07-26 13:00:25
 *Total Positions:* 78
-*🆕 New Positions:* 5
-*❎ Removed Positions:* 1
-🆕 New Jobs (5) 🏢 Anthropic
-Research Engineer, Agents
-
-📍 Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA |
-New York City, NY
-🔗 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/4017544008>
-Research Scientist, Takeoff Intel
-
-📍 San Francisco, CA | New York City, NY
-🔗 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/5370669008>
-🏢 Thinking Machines
-Endpoint Engineer, IT
-
-📍 San Francisco | New York
-🔗 Apply Now
-<https://job-boards.greenhouse.io/thinkingmachines/jobs/5370696008>
-IT Engineer
-
-📍 New York
-🔗 Apply Now
-<https://job-boards.greenhouse.io/thinkingmachines/jobs/5370699008>
-Operations Analyst, Safety
-
-📍 San Francisco
-🔗 Apply Now
-<https://job-boards.greenhouse.io/thinkingmachines/jobs/5370609008>
-❎ Removed Jobs (1) 🏢 Thinking Machines
-Reception & Workplace Experience Coordinator
-
-📍 San Francisco, CA
-This role no longer appears on the board.
 📋 All Research Engineer Positions (78) 🏢 Anthropic - 25 positions
 1. Research Engineer / Research Scientist, Tokens
 
@@ -63,7 +30,7 @@ London
 
 📍 Location: San Francisco, CA
 🔗 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/4631822008>
-5. Research Engineer, Agents 🆕
+5. Research Engineer, Agents
 
 📍 Location: Remote-Friendly (Travel-Required) | San Francisco, CA |
 Seattle, WA | New York City, NY
@@ -140,7 +107,7 @@ Seattle, WA | New York City, NY
 
 📍 Location: San Francisco, CA
 🔗 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/5239733008>
-23. Research Scientist, Takeoff Intel 🆕
+23. Research Scientist, Takeoff Intel
 
 📍 Location: San Francisco, CA | New York City, NY
 🔗 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/5370669008>
@@ -240,7 +207,7 @@ Model Behavior
 🔗 Apply Now
 <https://job.toutiao.com/en/position/detail/7533299082606332168>
 🏢 Thinking Machines - 36 positions
-1. Endpoint Engineer, IT 🆕
+1. Endpoint Engineer, IT
 
 📍 Location: San Francisco | New York
 🔗 Apply Now
@@ -265,7 +232,7 @@ Model Behavior
 📍 Location: San Francisco
 🔗 Apply Now
 <https://job-boards.greenhouse.io/thinkingmachines/jobs/5015964008>
-6. IT Engineer 🆕
+6. IT Engineer
 
 📍 Location: New York
 🔗 Apply Now
@@ -275,7 +242,7 @@ Model Behavior
 📍 Location: San Francisco
 🔗 Apply Now
 <https://job-boards.greenhouse.io/thinkingmachines/jobs/5281215008>
-8. Operations Analyst, Safety 🆕
+8. Operations Analyst, Safety
 
 📍 Location: San Francisco
 🔗 Apply Now
