@@ -1,33 +1,16 @@
 # AI Research Engineer Jobs
 
-**Update:** 190/259
-**Date:** 7/28/2026 6:00:18
-**Subject:** 🤖 AI Research Jobs - 77 positions (1 new!) (2 removed)
+**Update:** 191/259
+**Date:** 7/29/2026 6:00:19
+**Subject:** 🤖 AI Research Jobs - 77 positions
 **Total Positions:** 77
 
 ---
 
 🤖 AI Research Engineer Jobs Update
 
-*Date:* 2026-07-28 13:00:16
+*Date:* 2026-07-29 13:00:19
 *Total Positions:* 77
-*🆕 New Positions:* 1
-*❎ Removed Positions:* 2
-🆕 New Jobs (1) 🏢 Thinking Machines
-Technical Sourcer
-
-📍 San Francisco, California
-🔗 Apply Now
-<https://job-boards.greenhouse.io/thinkingmachines/jobs/5149860008>
-❎ Removed Jobs (2) 🏢 Thinking Machines
-Recruiting Sourcer
-
-📍 San Francisco, California
-This role no longer appears on the board.
-Strategic Finance Director
-
-📍 San Francisco, CA
-This role no longer appears on the board.
 📋 All Research Engineer Positions (77) 🏢 Anthropic - 25 positions
 1. Research Engineer / Research Scientist, Tokens
 
@@ -126,7 +109,7 @@ Seattle, WA | New York City, NY
 🔗 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/5239733008>
 23. Research Scientist, Takeoff Intel
 
-📍 Location: San Francisco, CA | New York City, NY
+📍 Location: San Francisco, CA
 🔗 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/5370669008>
 24. Staff Research Engineer, Discovery Team
 
@@ -394,7 +377,7 @@ Model Behavior
 📍 Location: San Francisco
 🔗 Apply Now
 <https://job-boards.greenhouse.io/thinkingmachines/jobs/5013918008>
-35. Technical Sourcer 🆕
+35. Technical Sourcer
 
 📍 Location: San Francisco, California
 🔗 Apply Now
