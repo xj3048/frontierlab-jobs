@@ -1,16 +1,29 @@
 # AI Research Engineer Jobs
 
-**Update:** 191/259
-**Date:** 7/29/2026 6:00:19
-**Subject:** 🤖 AI Research Jobs - 77 positions
+**Update:** 192/259
+**Date:** 7/30/2026 6:00:28
+**Subject:** 🤖 AI Research Jobs - 77 positions (1 new!) (1 removed)
 **Total Positions:** 77
 
 ---
 
 🤖 AI Research Engineer Jobs Update
 
-*Date:* 2026-07-29 13:00:19
+*Date:* 2026-07-30 13:00:27
 *Total Positions:* 77
+*🆕 New Positions:* 1
+*❎ Removed Positions:* 1
+🆕 New Jobs (1) 🏢 Thinking Machines
+Safety Operations Lead
+
+📍 San Francisco
+🔗 Apply Now
+<https://job-boards.greenhouse.io/thinkingmachines/jobs/5370609008>
+❎ Removed Jobs (1) 🏢 Thinking Machines
+Operations Analyst, Safety
+
+📍 San Francisco
+This role no longer appears on the board.
 📋 All Research Engineer Positions (77) 🏢 Anthropic - 25 positions
 1. Research Engineer / Research Scientist, Tokens
 
@@ -242,91 +255,91 @@ Model Behavior
 📍 Location: San Francisco
 🔗 Apply Now
 <https://job-boards.greenhouse.io/thinkingmachines/jobs/5281215008>
-8. Operations Analyst, Safety
-
-📍 Location: San Francisco
-🔗 Apply Now
-<https://job-boards.greenhouse.io/thinkingmachines/jobs/5370609008>
-9. Recruiting Coordinator, Research
+8. Recruiting Coordinator, Research
 
 📍 Location: San Francisco
 🔗 Apply Now
 <https://job-boards.greenhouse.io/thinkingmachines/jobs/5290764008>
-10. Reliability Engineer, Supercomputing
+9. Reliability Engineer, Supercomputing
 
 📍 Location: San Francisco
 🔗 Apply Now
 <https://job-boards.greenhouse.io/thinkingmachines/jobs/5281223008>
-11. Research, Audio Expertise
+10. Research, Audio Expertise
 
 📍 Location: San Francisco
 🔗 Apply Now
 <https://job-boards.greenhouse.io/thinkingmachines/jobs/5002212008>
-12. Research Engineer, Developer Experience, Tinker
+11. Research Engineer, Developer Experience, Tinker
 
 📍 Location: San Francisco
 🔗 Apply Now
 <https://job-boards.greenhouse.io/thinkingmachines/jobs/5202369008>
-13. Research Engineer, Infrastructure, Inference
+12. Research Engineer, Infrastructure, Inference
 
 📍 Location: San Francisco
 🔗 Apply Now
 <https://job-boards.greenhouse.io/thinkingmachines/jobs/5013924008>
-14. Research Engineer, Infrastructure, Kernels
+13. Research Engineer, Infrastructure, Kernels
 
 📍 Location: San Francisco
 🔗 Apply Now
 <https://job-boards.greenhouse.io/thinkingmachines/jobs/5013934008>
-15. Research Engineer, Infrastructure, Numerics
+14. Research Engineer, Infrastructure, Numerics
 
 📍 Location: San Francisco
 🔗 Apply Now
 <https://job-boards.greenhouse.io/thinkingmachines/jobs/5013937008>
-16. Research Engineer, Infrastructure, RL Systems
+15. Research Engineer, Infrastructure, RL Systems
 
 📍 Location: San Francisco
 🔗 Apply Now
 <https://job-boards.greenhouse.io/thinkingmachines/jobs/5013930008>
-17. Research Engineer, Infrastructure, Training Systems
+16. Research Engineer, Infrastructure, Training Systems
 
 📍 Location: San Francisco
 🔗 Apply Now
 <https://job-boards.greenhouse.io/thinkingmachines/jobs/5013932008>
-18. Research Infrastructure Engineer, Research Acceleration
+17. Research Infrastructure Engineer, Research Acceleration
 
 📍 Location: San Francisco
 🔗 Apply Now
 <https://job-boards.greenhouse.io/thinkingmachines/jobs/5106415008>
-19. Research, Post-Training
+18. Research, Post-Training
 
 📍 Location: San Francisco
 🔗 Apply Now
 <https://job-boards.greenhouse.io/thinkingmachines/jobs/4991302008>
-20. Research, Post-Training Data
+19. Research, Post-Training Data
 
 📍 Location: San Francisco
 🔗 Apply Now
 <https://job-boards.greenhouse.io/thinkingmachines/jobs/5002056008>
-21. Research, Pre-Training Data
+20. Research, Pre-Training Data
 
 📍 Location: San Francisco
 🔗 Apply Now
 <https://job-boards.greenhouse.io/thinkingmachines/jobs/5002134008>
-22. Research, Pre-Training Science
+21. Research, Pre-Training Science
 
 📍 Location: San Francisco
 🔗 Apply Now
 <https://job-boards.greenhouse.io/thinkingmachines/jobs/5002136008>
-23. Research Product Manager
+22. Research Product Manager
 
 📍 Location: San Francisco
 🔗 Apply Now
 <https://job-boards.greenhouse.io/thinkingmachines/jobs/5014120008>
-24. Research, Vision Expertise
+23. Research, Vision Expertise
 
 📍 Location: San Francisco
 🔗 Apply Now
 <https://job-boards.greenhouse.io/thinkingmachines/jobs/5002288008>
+24. Safety Operations Lead 🆕
+
+📍 Location: San Francisco
+🔗 Apply Now
+<https://job-boards.greenhouse.io/thinkingmachines/jobs/5370609008>
 25. Site Reliability Engineer (SRE)
 
 📍 Location: San Francisco
