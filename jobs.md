@@ -1,22 +1,16 @@
 # AI Research Engineer Jobs
 
-**Update:** 195/259
-**Date:** 8/2/2026 6:00:20
-**Subject:** 🤖 AI Research Jobs - 95 positions (1 removed)
+**Update:** 196/259
+**Date:** 8/3/2026 6:00:26
+**Subject:** 🤖 AI Research Jobs - 95 positions
 **Total Positions:** 95
 
 ---
 
 🤖 AI Research Engineer Jobs Update
 
-*Date:* 2026-08-02 13:00:20
+*Date:* 2026-08-03 13:00:26
 *Total Positions:* 95
-*❎ Removed Positions:* 1
-❎ Removed Jobs (1) 🏢 X.ai
-Member of Technical Staff - Real-Time Storage
-
-📍 Palo Alto, CA
-This role no longer appears on the board.
 📋 All Research Engineer Positions (95) 🏢 Anthropic - 25 positions
 1. Research Engineer / Research Scientist, Tokens
 
@@ -195,11 +189,11 @@ Model Behavior
 1. Member of Technical Staff
 
 📍 Location: Palo Alto, CA
-🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5173208007>
+🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5173147007>
 2. Member of Technical Staff
 
 📍 Location: Palo Alto, CA
-🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5173147007>
+🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5173208007>
 3. Member of Technical Staff - Ads
 
 📍 Location: Palo Alto, CA
@@ -246,16 +240,16 @@ Model Behavior
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5051966007>
 14. Member of Technical Staff - X Money
 
-📍 Location: Tokyo Prefecture, Japan
-🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5007310007>
+📍 Location: London, UK
+🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5108231007>
 15. Member of Technical Staff - X Money
 
 📍 Location: New York, NY; Palo Alto, CA
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5107958007>
 16. Member of Technical Staff - X Money
 
-📍 Location: London, UK
-🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5108231007>
+📍 Location: Tokyo Prefecture, Japan
+🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5007310007>
 17. Member of Technical Staff - X Search
 
 📍 Location: Palo Alto, CA
