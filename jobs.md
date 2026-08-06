@@ -1,174 +1,35 @@
 # AI Research Engineer Jobs
 
-**Update:** 198/259
-**Date:** 8/5/2026 6:00:41
-**Subject:** 🤖 AI Research Jobs - 60 positions (1 new!) (37 removed)
-**Total Positions:** 60
+**Update:** 199/259
+**Date:** 8/6/2026 6:00:29
+**Subject:** 🤖 AI Research Jobs - 54 positions (4 removed)
+**Total Positions:** 54
 
 ---
 
 🤖 AI Research Engineer Jobs Update
 
-*Date:* 2026-08-05 13:00:40
-*Total Positions:* 60
-*🆕 New Positions:* 1
-*❎ Removed Positions:* 37
-🆕 New Jobs (1) 🏢 Anthropic
-Research Engineer, RL Engineering
+*Date:* 2026-08-06 13:00:28
+*Total Positions:* 54
+*❎ Removed Positions:* 4
+❎ Removed Jobs (4) 🏢 X.ai
+Member of Technical Staff
 
-📍 San Francisco, CA | New York City, NY | Seattle, WA
-🔗 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/4952051008>
-❎ Removed Jobs (37) 🏢 Anthropic
-Research Engineer, Knowledge Foundations
-
-📍 San Francisco, CA
+📍 Palo Alto, CA
 This role no longer appears on the board.
-🏢 Thinking Machines
-Endpoint Engineer, IT
+Member of Technical Staff
 
-📍 San Francisco | New York
+📍 Palo Alto, CA
 This role no longer appears on the board.
-Engineering Manager
+Member of Technical Staff - Voice Model
 
-📍 San Francisco
+📍 Palo Alto, CA
 This role no longer appears on the board.
-Executive Business Partner
+Member of Technical Staff - X Search
 
-📍 San Francisco, CA
+📍 Palo Alto, CA
 This role no longer appears on the board.
-Governance, Risk and Compliance Lead
-
-📍 San Francisco
-This role no longer appears on the board.
-HR Business Partner
-
-📍 San Francisco, California
-This role no longer appears on the board.
-Infrastructure Engineer, Security
-
-📍 San Francisco
-This role no longer appears on the board.
-IT Engineer
-
-📍 New York
-This role no longer appears on the board.
-Network Engineer, Supercomputing
-
-📍 San Francisco
-This role no longer appears on the board.
-Recruiting Coordinator, Research
-
-📍 San Francisco
-This role no longer appears on the board.
-Reliability Engineer, Supercomputing
-
-📍 San Francisco
-This role no longer appears on the board.
-Research, Audio Expertise
-
-📍 San Francisco
-This role no longer appears on the board.
-Research Engineer, Developer Experience, Tinker
-
-📍 San Francisco
-This role no longer appears on the board.
-Research Engineer, Infrastructure, Inference
-
-📍 San Francisco
-This role no longer appears on the board.
-Research Engineer, Infrastructure, Kernels
-
-📍 San Francisco
-This role no longer appears on the board.
-Research Engineer, Infrastructure, Numerics
-
-📍 San Francisco
-This role no longer appears on the board.
-Research Engineer, Infrastructure, RL Systems
-
-📍 San Francisco
-This role no longer appears on the board.
-Research Engineer, Infrastructure, Training Systems
-
-📍 San Francisco
-This role no longer appears on the board.
-Research Infrastructure Engineer, Research Acceleration
-
-📍 San Francisco
-This role no longer appears on the board.
-Research, Post-Training
-
-📍 San Francisco
-This role no longer appears on the board.
-Research, Post-Training Data
-
-📍 San Francisco
-This role no longer appears on the board.
-Research, Pre-Training Data
-
-📍 San Francisco
-This role no longer appears on the board.
-Research, Pre-Training Science
-
-📍 San Francisco
-This role no longer appears on the board.
-Research Product Manager
-
-📍 San Francisco
-This role no longer appears on the board.
-Research, Vision Expertise
-
-📍 San Francisco
-This role no longer appears on the board.
-Safety Operations Lead
-
-📍 San Francisco
-This role no longer appears on the board.
-Site Reliability Engineer (SRE)
-
-📍 San Francisco
-This role no longer appears on the board.
-Software Engineer, Data Infrastructure
-
-📍 San Francisco
-This role no longer appears on the board.
-Software Engineer, Developer Productivity, AI Tools
-
-📍 San Francisco
-This role no longer appears on the board.
-Software Engineer, Full Stack
-
-📍 San Francisco
-This role no longer appears on the board.
-Software Engineer, Full Stack, Tinker
-
-📍 San Francisco
-This role no longer appears on the board.
-Software Engineer, Platform, Tinker
-
-📍 San Francisco
-This role no longer appears on the board.
-Software Engineer, Research Acceleration
-
-📍 San Francisco
-This role no longer appears on the board.
-Software Engineer, Security
-
-📍 San Francisco
-This role no longer appears on the board.
-Software Engineer, Supercomputing
-
-📍 San Francisco
-This role no longer appears on the board.
-Software Engineer, Systems Generalist
-
-📍 San Francisco
-This role no longer appears on the board.
-Technical Sourcer
-
-📍 San Francisco, California
-This role no longer appears on the board.
-📋 All Research Engineer Positions (60) 🏢 Anthropic - 24 positions
+📋 All Research Engineer Positions (54) 🏢 Anthropic - 24 positions
 1. Research Engineer / Research Scientist, Tokens
 
 📍 Location: New York City, NY; New York City, NY | Seattle, WA; San
@@ -233,7 +94,7 @@ York City, NY
 
 📍 Location: London, UK
 🔗 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/5119713008>
-16. Research Engineer, RL Engineering 🆕
+16. Research Engineer, RL Engineering
 
 📍 Location: San Francisco, CA | New York City, NY | Seattle, WA
 🔗 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/4952051008>
@@ -347,75 +208,51 @@ Model Behavior
 
 📍 Location: Mountain View, California, US
 🔗 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7171371>
-🏢 X.ai - 17 positions
-1. Member of Technical Staff
-
-📍 Location: Palo Alto, CA
-🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5173147007>
-2. Member of Technical Staff
-
-📍 Location: Palo Alto, CA
-🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5173208007>
-3. Member of Technical Staff - Ads
+🏢 X.ai - 11 positions
+1. Member of Technical Staff - Ads
 
 📍 Location: Palo Alto, CA
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/4996796007>
-4. Member Of Technical Staff - Cloud Infrastructure
+2. Member Of Technical Staff - Cloud Infrastructure
 
 📍 Location: Palo Alto, CA
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5133071007>
-5. Member of Technical Staff - Imagine Model
+3. Member of Technical Staff - Imagine Model
 
 📍 Location: Palo Alto, CA; Seattle, WA
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5051985007>
-6. Member of Technical Staff - Media
+4. Member of Technical Staff - Media
 
 📍 Location: Palo Alto, CA; Seattle, WA
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/4805874007>
-7. Member of Technical Staff - Mid-training
+5. Member of Technical Staff - Mid-training
 
 📍 Location: Palo Alto, CA
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/4965893007>
-8. Member of Technical Staff - Model Training
+6. Member of Technical Staff - Model Training
 
 📍 Location: Austin, TX; New York, NY; Palo Alto, CA; Seattle, WA
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5086324007>
-9. Member of Technical Staff - Multimodal Understanding
+7. Member of Technical Staff - Multimodal Understanding
 
 📍 Location: Palo Alto, CA
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5111374007>
-10. Member of Technical Staff - Post-Training and RL
+8. Member of Technical Staff - Post-Training and RL
 
 📍 Location: Palo Alto, CA
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5114737007>
-11. Member of Technical Staff - RL Training Framework
+9. Member of Technical Staff - RL Training Framework
 
 📍 Location: Palo Alto, CA
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5186992007>
-12. Member of Technical Staff - Sandbox Service
+10. Member of Technical Staff - Sandbox Service
 
 📍 Location: London, UK
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5007872007>
-13. Member of Technical Staff - Voice Model
-
-📍 Location: Palo Alto, CA
-🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5051966007>
-14. Member of Technical Staff - X Money
-
-📍 Location: New York, NY; Palo Alto, CA
-🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5107958007>
-15. Member of Technical Staff - X Money
-
-📍 Location: London, UK
-🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5108231007>
-16. Member of Technical Staff - X Money
+11. Member of Technical Staff - X Money
 
 📍 Location: Tokyo Prefecture, Japan
 🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5007310007>
-17. Member of Technical Staff - X Search
-
-📍 Location: Palo Alto, CA
-🔗 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5125621007>
 🏢 ByteDance Seed - 4 positions
 1. Research Scientist in Large Language Model(Seed-LLM)
 
