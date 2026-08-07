@@ -1,34 +1,16 @@
 # AI Research Engineer Jobs
 
-**Update:** 199/259
-**Date:** 8/6/2026 6:00:29
-**Subject:** 🤖 AI Research Jobs - 54 positions (4 removed)
+**Update:** 200/259
+**Date:** 8/7/2026 6:00:30
+**Subject:** 🤖 AI Research Jobs - 54 positions
 **Total Positions:** 54
 
 ---
 
 🤖 AI Research Engineer Jobs Update
 
-*Date:* 2026-08-06 13:00:28
+*Date:* 2026-08-07 13:00:30
 *Total Positions:* 54
-*❎ Removed Positions:* 4
-❎ Removed Jobs (4) 🏢 X.ai
-Member of Technical Staff
-
-📍 Palo Alto, CA
-This role no longer appears on the board.
-Member of Technical Staff
-
-📍 Palo Alto, CA
-This role no longer appears on the board.
-Member of Technical Staff - Voice Model
-
-📍 Palo Alto, CA
-This role no longer appears on the board.
-Member of Technical Staff - X Search
-
-📍 Palo Alto, CA
-This role no longer appears on the board.
 📋 All Research Engineer Positions (54) 🏢 Anthropic - 24 positions
 1. Research Engineer / Research Scientist, Tokens
 
