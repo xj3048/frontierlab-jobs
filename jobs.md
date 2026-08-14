@@ -1,23 +1,40 @@
 # AI Research Engineer Jobs
 
-**Update:** 210/259
-**Date:** 8/13/2026 6:00:12
-**Subject:** AI Research Jobs — 90 positions (1 new!)
-**Total Positions:** 90
+**Update:** 211/259
+**Date:** 8/14/2026 6:00:18
+**Subject:** AI Research Jobs — 87 positions (1 new!) (4 removed)
+**Total Positions:** 87
 
 ---
 
 AI Research Engineer Jobs Update
 
-*Date:* 2026-08-13 13:00:12
-*Total Positions:* 90
+*Date:* 2026-08-14 13:00:18
+*Total Positions:* 87
 *New Positions:* 1
-🆕 New Jobs (1)🏢 OpenAI
-Machine Learning Engineer, API Multicloud
+*Removed Positions:* 4
+🆕 New Jobs (1)🏢 ByteDance Seed
+Research Engineer - LLM Training Infrastructure - Seed Infra
 
-📍 Location: San Francisco
-Apply Now
-<https://jobs.ashbyhq.com/openai/5acf4854-1d42-40ca-bff8-4f6f04cdce68>
+📍 Location: San Jose
+Apply Now <https://job.toutiao.com/en/position/detail/7630899686830311685>
+Removed Jobs (4)🏢 ByteDance Seed
+Research Scientist in Large Language Model(Seed-LLM)
+
+📍 San Jose
+This role no longer appears on the board.
+Research Scientist, Vision Foundation Model
+
+📍 San Jose
+This role no longer appears on the board.
+Research Scientist, Foundation Model, Speech Understanding
+
+📍 San Jose
+This role no longer appears on the board.
+Research Scientist - Seed Multimodal Interaction and World Model
+
+📍 San Jose
+This role no longer appears on the board.
 All Research Engineer PositionsAnthropic — 24 positions
 1. Research Engineer / Research Scientist, Tokens
 
@@ -122,7 +139,7 @@ Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/4593216008>
 📍 Location: San Francisco, CA
 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/5149802008>
 OpenAI — 14 positions
-1. Machine Learning Engineer, API Multicloud 🆕
+1. Machine Learning Engineer, API Multicloud
 
 📍 Location: San Francisco
 Apply Now
@@ -248,23 +265,11 @@ Apply Now <https://job-boards.greenhouse.io/xai/jobs/5007872007>
 
 📍 Location: Tokyo, Japan
 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5007310007>
-ByteDance Seed — 4 positions
-1. Research Scientist in Large Language Model(Seed-LLM)
+ByteDance Seed — 1 positions
+1. Research Engineer - LLM Training Infrastructure - Seed Infra 🆕
 
 📍 Location: San Jose
-Apply Now <https://job.toutiao.com/en/position/detail/7233349076828490043>
-2. Research Scientist, Vision Foundation Model
-
-📍 Location: San Jose
-Apply Now <https://job.toutiao.com/en/position/detail/7362026100950321459>
-3. Research Scientist, Foundation Model, Speech Understanding
-
-📍 Location: San Jose
-Apply Now <https://job.toutiao.com/en/position/detail/7302173991929497882>
-4. Research Scientist - Seed Multimodal Interaction and World Model
-
-📍 Location: San Jose
-Apply Now <https://job.toutiao.com/en/position/detail/7533299082606332168>
+Apply Now <https://job.toutiao.com/en/position/detail/7630899686830311685>
 Thinking Machines — 35 positions
 1. Endpoint Engineer, IT
 
