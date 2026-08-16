@@ -1,69 +1,63 @@
 # AI Research Engineer Jobs
 
-**Update:** 212/259
-**Date:** 8/15/2026 6:00:46
-**Subject:** AI Research Jobs — 77 positions (1 new!) (11 removed)
-**Total Positions:** 77
+**Update:** 213/259
+**Date:** 8/16/2026 6:00:23
+**Subject:** AI Research Jobs — 88 positions (11 new!)
+**Total Positions:** 88
 
 ---
 
 AI Research Engineer Jobs Update
 
-*Date:* 2026-08-15 13:00:45
-*Total Positions:* 77
-*New Positions:* 1
-*Removed Positions:* 11
-🆕 New Jobs (1)🏢 Anthropic
-Research Scientist, Life Sciences (Chemistry)
-
-📍 Location: San Francisco, CA
-Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/5387564008>
-Removed Jobs (11)🏢 X.ai
+*Date:* 2026-08-16 13:00:17
+*Total Positions:* 88
+*New Positions:* 11
+🆕 New Jobs (11)🏢 X.ai
 Member of Technical Staff - Ads
 
-📍 Palo Alto, California
-This role no longer appears on the board.
+📍 Location: Palo Alto, California
+Apply Now <https://job-boards.greenhouse.io/xai/jobs/4996796007>
 Member Of Technical Staff - Cloud Infrastructure
 
-📍 Palo Alto, California
-This role no longer appears on the board.
+📍 Location: Palo Alto, California
+Apply Now <https://job-boards.greenhouse.io/xai/jobs/5133071007>
 Member of Technical Staff - Imagine Model
 
-📍 Palo Alto, California
-This role no longer appears on the board.
+📍 Location: Palo Alto, California
+Apply Now <https://job-boards.greenhouse.io/xai/jobs/5051985007>
 Member of Technical Staff - Media
 
-📍 Palo Alto, California; Seattle, Washington
-This role no longer appears on the board.
+📍 Location: Palo Alto, California; Seattle, Washington
+Apply Now <https://job-boards.greenhouse.io/xai/jobs/4805874007>
 Member of Technical Staff - Mid-training
 
-📍 Palo Alto, California
-This role no longer appears on the board.
+📍 Location: Palo Alto, California
+Apply Now <https://job-boards.greenhouse.io/xai/jobs/4965893007>
 Member of Technical Staff - Model Training
 
-📍 Austin, Texas; New York, New York; Palo Alto, California; Seattle,
-Washington
-This role no longer appears on the board.
+📍 Location: Austin, Texas; New York, New York; Palo Alto, California;
+Seattle, Washington
+Apply Now <https://job-boards.greenhouse.io/xai/jobs/5086324007>
 Member of Technical Staff - Multimodal Understanding
 
-📍 Palo Alto, California
-This role no longer appears on the board.
+📍 Location: Palo Alto, California
+Apply Now <https://job-boards.greenhouse.io/xai/jobs/5111374007>
 Member of Technical Staff - Post-Training and RL
 
-📍 Palo Alto, California
-This role no longer appears on the board.
+📍 Location: Palo Alto, California
+Apply Now <https://job-boards.greenhouse.io/xai/jobs/5114737007>
 Member of Technical Staff - RL Training Framework
 
-📍 Palo Alto, California
-This role no longer appears on the board.
+📍 Location: Palo Alto, California
+Apply Now <https://job-boards.greenhouse.io/xai/jobs/5186992007>
 Member of Technical Staff - Sandbox Service
 
-📍 London, England, United Kingdom
-This role no longer appears on the board.
+📍 Location: London, England, United Kingdom
+Apply Now <https://job-boards.greenhouse.io/xai/jobs/5007872007>
 Member of Technical Staff - X Money
 
-📍 Tokyo, Japan
-This role no longer appears on the board.
+📍 Location: Tokyo, Japan
+Apply Now <https://job-boards.greenhouse.io/xai/jobs/5007310007>
 All Research Engineer PositionsAnthropic — 25 positions
 1. Research Engineer / Research Scientist, Tokens
 
@@ -155,7 +149,7 @@ Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/4980427008>
 
 📍 Location: San Francisco, CA
 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/5239733008>
-22. Research Scientist, Life Sciences (Chemistry) 🆕
+22. Research Scientist, Life Sciences (Chemistry)
 
 📍 Location: San Francisco, CA
 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/5387564008>
@@ -252,6 +246,52 @@ Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7339890>
 
 📍 Location: Mountain View, California, US
 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7171371>
+X.ai — 11 positions
+1. Member of Technical Staff - Ads 🆕
+
+📍 Location: Palo Alto, California
+Apply Now <https://job-boards.greenhouse.io/xai/jobs/4996796007>
+2. Member Of Technical Staff - Cloud Infrastructure 🆕
+
+📍 Location: Palo Alto, California
+Apply Now <https://job-boards.greenhouse.io/xai/jobs/5133071007>
+3. Member of Technical Staff - Imagine Model 🆕
+
+📍 Location: Palo Alto, California
+Apply Now <https://job-boards.greenhouse.io/xai/jobs/5051985007>
+4. Member of Technical Staff - Media 🆕
+
+📍 Location: Palo Alto, California; Seattle, Washington
+Apply Now <https://job-boards.greenhouse.io/xai/jobs/4805874007>
+5. Member of Technical Staff - Mid-training 🆕
+
+📍 Location: Palo Alto, California
+Apply Now <https://job-boards.greenhouse.io/xai/jobs/4965893007>
+6. Member of Technical Staff - Model Training 🆕
+
+📍 Location: Austin, Texas; New York, New York; Palo Alto, California;
+Seattle, Washington
+Apply Now <https://job-boards.greenhouse.io/xai/jobs/5086324007>
+7. Member of Technical Staff - Multimodal Understanding 🆕
+
+📍 Location: Palo Alto, California
+Apply Now <https://job-boards.greenhouse.io/xai/jobs/5111374007>
+8. Member of Technical Staff - Post-Training and RL 🆕
+
+📍 Location: Palo Alto, California
+Apply Now <https://job-boards.greenhouse.io/xai/jobs/5114737007>
+9. Member of Technical Staff - RL Training Framework 🆕
+
+📍 Location: Palo Alto, California
+Apply Now <https://job-boards.greenhouse.io/xai/jobs/5186992007>
+10. Member of Technical Staff - Sandbox Service 🆕
+
+📍 Location: London, England, United Kingdom
+Apply Now <https://job-boards.greenhouse.io/xai/jobs/5007872007>
+11. Member of Technical Staff - X Money 🆕
+
+📍 Location: Tokyo, Japan
+Apply Now <https://job-boards.greenhouse.io/xai/jobs/5007310007>
 ByteDance Seed — 1 positions
 1. Research Engineer - LLM Training Infrastructure - Seed Infra
 
