@@ -1,39 +1,23 @@
 # AI Research Engineer Jobs
 
-**Update:** 215/259
-**Date:** 8/21/2026 6:00:30
-**Subject:** AI Research Jobs — 87 positions (2 new!) (2 removed)
-**Total Positions:** 87
+**Update:** 216/259
+**Date:** 8/22/2026 6:00:30
+**Subject:** AI Research Jobs — 88 positions (1 new!)
+**Total Positions:** 88
 
 ---
 
 AI Research Engineer Jobs Update
 
-*Date:* 2026-08-21 13:00:30
-*Total Positions:* 87
-*New Positions:* 2
-*Removed Positions:* 2
-🆕 New Jobs (2)🏢 OpenAI
-Machine Learning Engineer, Multimodal Perception and Authentication
+*Date:* 2026-08-22 13:00:29
+*Total Positions:* 88
+*New Positions:* 1
+🆕 New Jobs (1)🏢 Thinking Machines
+Research, RL Scaling
 
 📍 Location: San Francisco
 Apply Now
-<https://jobs.ashbyhq.com/openai/1b268692-70d8-46c2-a347-2f7705b5c174>
-🏢 X.ai
-Machine Learning Engineer - Ads
-
-📍 Location: Palo Alto, California
-Apply Now <https://job-boards.greenhouse.io/xai/jobs/4996796007>
-Removed Jobs (2)🏢 X.ai
-Member of Technical Staff - Ads
-
-📍 Palo Alto, California
-This role no longer appears on the board.
-🏢 Thinking Machines
-Research Engineer, Developer Experience, Tinker
-
-📍 San Francisco
-This role no longer appears on the board.
+<https://jobs.ashbyhq.com/ThinkingMachines/0871bc29-7ca0-4906-a674-7b32527617ab>
 All Research Engineer PositionsAnthropic — 25 positions
 1. Research Engineer / Research Scientist, Tokens
 
@@ -147,7 +131,7 @@ OpenAI — 15 positions
 📍 Location: San Francisco
 Apply Now
 <https://jobs.ashbyhq.com/openai/5acf4854-1d42-40ca-bff8-4f6f04cdce68>
-2. Machine Learning Engineer, Multimodal Perception and Authentication 🆕
+2. Machine Learning Engineer, Multimodal Perception and Authentication
 
 📍 Location: San Francisco
 Apply Now
@@ -228,7 +212,7 @@ Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7339890>
 📍 Location: Mountain View, California, US
 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7171371>
 X.ai — 11 positions
-1. Machine Learning Engineer - Ads 🆕
+1. Machine Learning Engineer - Ads
 
 📍 Location: Palo Alto, California
 Apply Now <https://job-boards.greenhouse.io/xai/jobs/4996796007>
@@ -278,7 +262,7 @@ ByteDance Seed — 1 positions
 
 📍 Location: San Jose
 Apply Now <https://job.toutiao.com/en/position/detail/7630899686830311685>
-Thinking Machines — 33 positions
+Thinking Machines — 34 positions
 1. Endpoint Engineer, IT
 
 📍 Location: San Francisco
@@ -379,67 +363,72 @@ Apply Now
 📍 Location: San Francisco
 Apply Now
 <https://jobs.ashbyhq.com/ThinkingMachines/079f3334-43ae-4ee7-9671-1dbad75dd8df>
-21. Research, Vision Expertise
+21. Research, RL Scaling 🆕
+
+📍 Location: San Francisco
+Apply Now
+<https://jobs.ashbyhq.com/ThinkingMachines/0871bc29-7ca0-4906-a674-7b32527617ab>
+22. Research, Vision Expertise
 
 📍 Location: San Francisco
 Apply Now
 <https://jobs.ashbyhq.com/ThinkingMachines/2d72cec2-bad2-4d70-9b55-ee1dd73dc3d4>
-22. Safety Operations Lead
+23. Safety Operations Lead
 
 📍 Location: San Francisco
 Apply Now
 <https://jobs.ashbyhq.com/ThinkingMachines/9d1124f7-7f78-4e8d-a033-568c315826eb>
-23. Site Reliability Engineer (SRE)
+24. Site Reliability Engineer (SRE)
 
 📍 Location: San Francisco
 Apply Now
 <https://jobs.ashbyhq.com/ThinkingMachines/c4cddfec-33de-4f67-9801-1308c2151952>
-24. Software Engineer, Data Infrastructure
+25. Software Engineer, Data Infrastructure
 
 📍 Location: San Francisco
 Apply Now
 <https://jobs.ashbyhq.com/ThinkingMachines/5585b16b-32ef-4f7f-a97e-90581416e921>
-25. Software Engineer, Developer Productivity, AI Tools
+26. Software Engineer, Developer Productivity, AI Tools
 
 📍 Location: San Francisco
 Apply Now
 <https://jobs.ashbyhq.com/ThinkingMachines/922c3777-64d1-468e-bb9b-aa68f3fec823>
-26. Software Engineer, Full Stack
+27. Software Engineer, Full Stack
 
 📍 Location: San Francisco
 Apply Now
 <https://jobs.ashbyhq.com/ThinkingMachines/43807be9-a5c6-44b7-b9f9-037559b6dd11>
-27. Software Engineer, Full Stack, Tinker
+28. Software Engineer, Full Stack, Tinker
 
 📍 Location: San Francisco
 Apply Now
 <https://jobs.ashbyhq.com/ThinkingMachines/32b90fb6-428f-43db-a04d-64500a35b042>
-28. Software Engineer, Platform, Tinker
+29. Software Engineer, Platform, Tinker
 
 📍 Location: San Francisco
 Apply Now
 <https://jobs.ashbyhq.com/ThinkingMachines/c8427628-5315-403e-98b5-dddf2cee6063>
-29. Software Engineer, Research Acceleration
+30. Software Engineer, Research Acceleration
 
 📍 Location: San Francisco
 Apply Now
 <https://jobs.ashbyhq.com/ThinkingMachines/7fe42673-a392-4adb-a9e6-97554dd0a28d>
-30. Software Engineer, Security
+31. Software Engineer, Security
 
 📍 Location: San Francisco
 Apply Now
 <https://jobs.ashbyhq.com/ThinkingMachines/7c8b01f8-8542-4cb4-9701-5578960cda3b>
-31. Software Engineer, Supercomputing
+32. Software Engineer, Supercomputing
 
 📍 Location: San Francisco
 Apply Now
 <https://jobs.ashbyhq.com/ThinkingMachines/0046b97e-6b8d-4dde-8d11-37aed910151a>
-32. Software Engineer, Systems Generalist
+33. Software Engineer, Systems Generalist
 
 📍 Location: San Francisco
 Apply Now
 <https://jobs.ashbyhq.com/ThinkingMachines/61e7846c-afc3-41a1-93f5-37642f6a72a6>
-33. Technical Sourcer
+34. Technical Sourcer
 
 📍 Location: San Francisco
 Apply Now
