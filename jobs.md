@@ -1,23 +1,29 @@
 # AI Research Engineer Jobs
 
-**Update:** 216/259
-**Date:** 8/22/2026 6:00:30
-**Subject:** AI Research Jobs — 88 positions (1 new!)
+**Update:** 217/259
+**Date:** 8/25/2026 6:00:23
+**Subject:** AI Research Jobs — 88 positions (1 new!) (1 removed)
 **Total Positions:** 88
 
 ---
 
 AI Research Engineer Jobs Update
 
-*Date:* 2026-08-22 13:00:29
+*Date:* 2026-08-25 13:00:22
 *Total Positions:* 88
 *New Positions:* 1
+*Removed Positions:* 1
 🆕 New Jobs (1)🏢 Thinking Machines
-Research, RL Scaling
+Research, Safety
 
 📍 Location: San Francisco
 Apply Now
-<https://jobs.ashbyhq.com/ThinkingMachines/0871bc29-7ca0-4906-a674-7b32527617ab>
+<https://jobs.ashbyhq.com/ThinkingMachines/01aba71c-b55f-4df5-b803-dc545e6a9434>
+Removed Jobs (1)🏢 Thinking Machines
+Research, Post-Training Data
+
+📍 San Francisco
+This role no longer appears on the board.
 All Research Engineer PositionsAnthropic — 25 positions
 1. Research Engineer / Research Scientist, Tokens
 
@@ -343,31 +349,31 @@ Apply Now
 📍 Location: San Francisco
 Apply Now
 <https://jobs.ashbyhq.com/ThinkingMachines/3efb6896-4840-4f90-8798-2ce49fa146e5>
-17. Research, Post-Training Data
-
-📍 Location: San Francisco
-Apply Now
-<https://jobs.ashbyhq.com/ThinkingMachines/aa68b4e0-d079-477b-9e0e-8b8f94cd6cfc>
-18. Research, Pre-Training Data
+17. Research, Pre-Training Data
 
 📍 Location: San Francisco
 Apply Now
 <https://jobs.ashbyhq.com/ThinkingMachines/27ec4240-9f70-4ebe-abc0-a7336358a9a4>
-19. Research, Pre-Training Science
+18. Research, Pre-Training Science
 
 📍 Location: San Francisco
 Apply Now
 <https://jobs.ashbyhq.com/ThinkingMachines/17e34f27-4ce8-4bf2-b9dc-83a1816e21f9>
-20. Research Product Manager
+19. Research Product Manager
 
 📍 Location: San Francisco
 Apply Now
 <https://jobs.ashbyhq.com/ThinkingMachines/079f3334-43ae-4ee7-9671-1dbad75dd8df>
-21. Research, RL Scaling 🆕
+20. Research, RL Scaling
 
 📍 Location: San Francisco
 Apply Now
 <https://jobs.ashbyhq.com/ThinkingMachines/0871bc29-7ca0-4906-a674-7b32527617ab>
+21. Research, Safety 🆕
+
+📍 Location: San Francisco
+Apply Now
+<https://jobs.ashbyhq.com/ThinkingMachines/01aba71c-b55f-4df5-b803-dc545e6a9434>
 22. Research, Vision Expertise
 
 📍 Location: San Francisco
