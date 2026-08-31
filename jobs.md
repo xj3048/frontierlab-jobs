@@ -1,41 +1,28 @@
 # AI Research Engineer Jobs
 
-**Update:** 221/259
-**Date:** 8/29/2026 6:00:19
-**Subject:** AI Research Jobs — 91 positions (1 new!) (4 removed)
-**Total Positions:** 91
+**Update:** 222/259
+**Date:** 8/31/2026 6:00:27
+**Subject:** AI Research Jobs — 93 positions (2 new!)
+**Total Positions:** 93
 
 ---
 
 AI Research Engineer Jobs Update
 
-*Date:* 2026-08-29 13:00:19
-*Total Positions:* 91
-*New Positions:* 1
-*Removed Positions:* 4
-🆕 New Jobs (1)🏢 Thinking Machines
-Software Engineer, Data Infra
+*Date:* 2026-08-31 13:00:26
+*Total Positions:* 93
+*New Positions:* 2
+🆕 New Jobs (2)🏢 Thinking Machines
+Software Engineer, AI Products
 
 📍 Location: San Francisco
 Apply Now
-<https://jobs.ashbyhq.com/ThinkingMachines/5585b16b-32ef-4f7f-a97e-90581416e921>
-Removed Jobs (4)🏢 Thinking Machines
-RL Systems - Infra
+<https://jobs.ashbyhq.com/ThinkingMachines/98aeba6f-1579-4e2f-9c00-5dd4a483f3b2>
+Software Engineer, Tinker Product
 
-📍 San Francisco
-This role no longer appears on the board.
-Software Engineer, Monitoring & Data Piplelines
-
-📍 San Francisco
-This role no longer appears on the board.
-Software Engineer, Research Acceleration
-
-📍 San Francisco
-This role no longer appears on the board.
-Software Engineer, Tinker Platform
-
-📍 San Francisco
-This role no longer appears on the board.
+📍 Location: San Francisco
+Apply Now
+<https://jobs.ashbyhq.com/ThinkingMachines/32b90fb6-428f-43db-a04d-64500a35b042>
 All Research Engineer PositionsAnthropic — 24 positions
 1. Research Engineer / Research Scientist, Tokens
 
@@ -276,7 +263,7 @@ ByteDance Seed — 1 positions
 
 📍 Location: San Jose
 Apply Now <https://job.toutiao.com/en/position/detail/7630899686830311685>
-Thinking Machines — 38 positions
+Thinking Machines — 40 positions
 1. Data Operations
 
 📍 Location: San Francisco
@@ -417,52 +404,62 @@ Apply Now
 📍 Location: San Francisco
 Apply Now
 <https://jobs.ashbyhq.com/ThinkingMachines/c4cddfec-33de-4f67-9801-1308c2151952>
-29. Software Engineer, Data Infra 🆕
+29. Software Engineer, AI Products 🆕
+
+📍 Location: San Francisco
+Apply Now
+<https://jobs.ashbyhq.com/ThinkingMachines/98aeba6f-1579-4e2f-9c00-5dd4a483f3b2>
+30. Software Engineer, Data Infra
 
 📍 Location: San Francisco
 Apply Now
 <https://jobs.ashbyhq.com/ThinkingMachines/5585b16b-32ef-4f7f-a97e-90581416e921>
-30. Software Engineer, Developer Productivity, AI Tools
+31. Software Engineer, Developer Productivity, AI Tools
 
 📍 Location: San Francisco
 Apply Now
 <https://jobs.ashbyhq.com/ThinkingMachines/922c3777-64d1-468e-bb9b-aa68f3fec823>
-31. Software Engineer, Evaluation Platform / Infra
+32. Software Engineer, Evaluation Platform / Infra
 
 📍 Location: San Francisco
 Apply Now
 <https://jobs.ashbyhq.com/ThinkingMachines/9d863c78-80c0-44cd-a574-d1330e125398>
-32. Software Engineer, ML Infra
+33. Software Engineer, ML Infra
 
 📍 Location: San Francisco
 Apply Now
 <https://jobs.ashbyhq.com/ThinkingMachines/d328e3d3-df94-47a1-9120-d2592a796142>
-33. Software Engineer, Research Tools
+34. Software Engineer, Research Tools
 
 📍 Location: San Francisco
 Apply Now
 <https://jobs.ashbyhq.com/ThinkingMachines/72fe46e4-a772-4ebb-a413-53e4f1a8273e>
-34. Software Engineer, Sandboxing
+35. Software Engineer, Sandboxing
 
 📍 Location: San Francisco
 Apply Now
 <https://jobs.ashbyhq.com/ThinkingMachines/6afeaa7a-8674-4e32-9364-fb14cc28e79a>
-35. Software Engineer, Security
+36. Software Engineer, Security
 
 📍 Location: San Francisco
 Apply Now
 <https://jobs.ashbyhq.com/ThinkingMachines/7c8b01f8-8542-4cb4-9701-5578960cda3b>
-36. Software Engineer, Supercomputing
+37. Software Engineer, Supercomputing
 
 📍 Location: San Francisco
 Apply Now
 <https://jobs.ashbyhq.com/ThinkingMachines/0046b97e-6b8d-4dde-8d11-37aed910151a>
-37. Software Engineer, Systems Generalist
+38. Software Engineer, Systems Generalist
 
 📍 Location: San Francisco
 Apply Now
 <https://jobs.ashbyhq.com/ThinkingMachines/61e7846c-afc3-41a1-93f5-37642f6a72a6>
-38. Technical Sourcer
+39. Software Engineer, Tinker Product 🆕
+
+📍 Location: San Francisco
+Apply Now
+<https://jobs.ashbyhq.com/ThinkingMachines/32b90fb6-428f-43db-a04d-64500a35b042>
+40. Technical Sourcer
 
 📍 Location: San Francisco
 Apply Now
