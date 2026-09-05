@@ -1,33 +1,42 @@
 # AI Research Engineer Jobs
 
-**Update:** 225/259
-**Date:** 9/4/2026 6:00:20
-**Subject:** AI Research Jobs — 91 positions (3 new!)
-**Total Positions:** 91
+**Update:** 226/259
+**Date:** 9/5/2026 6:00:38
+**Subject:** AI Research Jobs — 88 positions (1 new!) (4 removed)
+**Total Positions:** 88
 
 ---
 
 AI Research Engineer Jobs Update
 
-*Date:* 2026-09-04 13:00:20
-*Total Positions:* 91
-*New Positions:* 3
-🆕 New Jobs (3)🏢 DeepMind
-Research Engineer, Materials Science
+*Date:* 2026-09-05 13:00:37
+*Total Positions:* 88
+*New Positions:* 1
+*Removed Positions:* 4
+🆕 New Jobs (1)🏢 Anthropic
+Applied AI, Research Engineer
 
-📍 Location: Mountain View, California, US
-Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7339890>
-Research Engineer, Multimodal Reasoning For Information Literacy
+📍 Location: San Francisco, CA | New York City, NY
+Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/5390811008>
+Removed Jobs (4)🏢 Anthropic
+Research Scientist, Takeoff Intel
 
-📍 Location: Mountain View, California, US
-Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7171371>
-🏢 Thinking Machines
-Product Manager - Post Training
+📍 San Francisco, CA
+This role no longer appears on the board.
+Applied AI Research (Capabilities)
 
-📍 Location: San Francisco
-Apply Now
-<https://jobs.ashbyhq.com/ThinkingMachines/1b503b26-dd56-4496-8f74-2c8abb3b7e4b>
-All Research Engineer PositionsAnthropic — 25 positions
+📍 San Francisco, CA | New York City, NY
+This role no longer appears on the board.
+🏢 X.ai
+Member of Technical Staff - Media
+
+📍 Palo Alto, CA; Seattle, WA
+This role no longer appears on the board.
+Member of Technical Staff - X Money
+
+📍 Tokyo, Japan
+This role no longer appears on the board.
+All Research Engineer PositionsAnthropic — 24 positions
 1. Research Engineer / Research Scientist, Tokens
 
 📍 Location: New York City, NY; New York City, NY | Seattle, WA; San
@@ -118,22 +127,18 @@ Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/5239733008>
 
 📍 Location: San Francisco, CA
 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/5387564008>
-22. Research Scientist, Takeoff Intel
-
-📍 Location: San Francisco, CA
-Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/5370669008>
-23. Staff Research Engineer, Discovery Team
+22. Staff Research Engineer, Discovery Team
 
 📍 Location: San Francisco, CA
 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/4593216008>
+23. Applied AI, Research Engineer 🆕
+
+📍 Location: San Francisco, CA | New York City, NY
+Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/5390811008>
 24. Transformative AI Research Economist, Economic Research
 
 📍 Location: San Francisco, CA
 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/5149802008>
-25. Applied AI Research (Capabilities)
-
-📍 Location: San Francisco, CA | New York City, NY
-Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/5129961008>
 OpenAI — 15 positions
 1. Machine Learning Engineer, API Multicloud
 
@@ -212,15 +217,15 @@ Apply Now
 Apply Now
 <https://jobs.ashbyhq.com/openai/09253a0e-a2b8-49d1-80bb-6955ba3b08a3>
 DeepMind — 2 positions
-1. Research Engineer, Materials Science 🆕
+1. Research Engineer, Materials Science
 
 📍 Location: Mountain View, California, US
 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7339890>
-2. Research Engineer, Multimodal Reasoning For Information Literacy 🆕
+2. Research Engineer, Multimodal Reasoning For Information Literacy
 
 📍 Location: Mountain View, California, US
 Apply Now <https://job-boards.greenhouse.io/deepmind/jobs/7171371>
-X.ai — 11 positions
+X.ai — 9 positions
 1. Machine Learning Engineer - Ads
 
 📍 Location: Palo Alto, CA
@@ -233,38 +238,30 @@ Apply Now <https://job-boards.greenhouse.io/xai/jobs/5133071007>
 
 📍 Location: Palo Alto, CA
 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5051985007>
-4. Member of Technical Staff - Media
-
-📍 Location: Palo Alto, CA; Seattle, WA
-Apply Now <https://job-boards.greenhouse.io/xai/jobs/4805874007>
-5. Member of Technical Staff - Mid-training
+4. Member of Technical Staff - Mid-training
 
 📍 Location: Palo Alto, CA
 Apply Now <https://job-boards.greenhouse.io/xai/jobs/4965893007>
-6. Member of Technical Staff - Model Training
+5. Member of Technical Staff - Model Training
 
 📍 Location: Palo Alto, CA; Austin, TX; New York, NY; Seattle, WA
 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5086324007>
-7. Member of Technical Staff - Multimodal Understanding
+6. Member of Technical Staff - Multimodal Understanding
 
 📍 Location: Palo Alto, CA
 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5111374007>
-8. Member of Technical Staff - Post-Training and RL
+7. Member of Technical Staff - Post-Training and RL
 
 📍 Location: Palo Alto, CA
 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5114737007>
-9. Member of Technical Staff - RL Training Framework
+8. Member of Technical Staff - RL Training Framework
 
 📍 Location: Palo Alto, CA
 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5186992007>
-10. Member of Technical Staff - Sandbox Service
+9. Member of Technical Staff - Sandbox Service
 
 📍 Location: London, England, United Kingdom
 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5007872007>
-11. Member of Technical Staff - X Money
-
-📍 Location: Tokyo, Japan
-Apply Now <https://job-boards.greenhouse.io/xai/jobs/5007310007>
 ByteDance Seed — 1 positions
 1. Research Engineer - LLM Training Infrastructure - Seed Infra
 
@@ -321,7 +318,7 @@ Apply Now
 📍 Location: San Francisco
 Apply Now
 <https://jobs.ashbyhq.com/ThinkingMachines/079f3334-43ae-4ee7-9671-1dbad75dd8df>
-11. Product Manager - Post Training 🆕
+11. Product Manager - Post Training
 
 📍 Location: San Francisco
 Apply Now
