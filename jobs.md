@@ -1,23 +1,23 @@
 # AI Research Engineer Jobs
 
-**Update:** 229/259
-**Date:** 9/10/2026 6:00:31
-**Subject:** AI Research Jobs — 88 positions (1 new!)
-**Total Positions:** 88
+**Update:** 230/259
+**Date:** 9/15/2026 6:00:16
+**Subject:** AI Research Jobs — 89 positions (1 new!)
+**Total Positions:** 89
 
 ---
 
 AI Research Engineer Jobs Update
 
-*Date:* 2026-09-10 13:00:30
-*Total Positions:* 88
+*Date:* 2026-09-15 13:00:16
+*Total Positions:* 89
 *New Positions:* 1
 🆕 New Jobs (1)🏢 Thinking Machines
-Research Software Engineer, Post Training
+Senior Counsel, Commercial & Product
 
 📍 Location: San Francisco
 Apply Now
-<https://jobs.ashbyhq.com/ThinkingMachines/4d51cb65-5e5b-42d2-8c28-7073b8574e4b>
+<https://jobs.ashbyhq.com/ThinkingMachines/919c3fa0-9c77-4770-b839-18492a4dbe6c>
 All Research Engineer PositionsAnthropic — 25 positions
 1. Research Engineer / Research Scientist, Tokens
 
@@ -244,7 +244,7 @@ ByteDance Seed — 1 positions
 
 📍 Location: San Jose
 Apply Now <https://job.toutiao.com/en/position/detail/7630899686830311685>
-Thinking Machines — 38 positions
+Thinking Machines — 39 positions
 1. Data Operations
 
 📍 Location: San Francisco
@@ -365,7 +365,7 @@ Apply Now
 📍 Location: San Francisco
 Apply Now
 <https://jobs.ashbyhq.com/ThinkingMachines/01aba71c-b55f-4df5-b803-dc545e6a9434>
-25. Research Software Engineer, Post Training 🆕
+25. Research Software Engineer, Post Training
 
 📍 Location: San Francisco
 Apply Now
@@ -380,57 +380,62 @@ Apply Now
 📍 Location: San Francisco
 Apply Now
 <https://jobs.ashbyhq.com/ThinkingMachines/9d1124f7-7f78-4e8d-a033-568c315826eb>
-28. Site Reliability Engineer, Post Training
+28. Senior Counsel, Commercial & Product 🆕
+
+📍 Location: San Francisco
+Apply Now
+<https://jobs.ashbyhq.com/ThinkingMachines/919c3fa0-9c77-4770-b839-18492a4dbe6c>
+29. Site Reliability Engineer, Post Training
 
 📍 Location: San Francisco
 Apply Now
 <https://jobs.ashbyhq.com/ThinkingMachines/a9469410-04c7-4e6a-b8b4-64c15933a2bf>
-29. Site Reliability Engineer, Production
+30. Site Reliability Engineer, Production
 
 📍 Location: San Francisco
 Apply Now
 <https://jobs.ashbyhq.com/ThinkingMachines/c4cddfec-33de-4f67-9801-1308c2151952>
-30. Software Engineer, Developer Productivity, AI Tools
+31. Software Engineer, Developer Productivity, AI Tools
 
 📍 Location: San Francisco
 Apply Now
 <https://jobs.ashbyhq.com/ThinkingMachines/922c3777-64d1-468e-bb9b-aa68f3fec823>
-31. Software Engineer, Evaluation Platform / Infra
+32. Software Engineer, Evaluation Platform / Infra
 
 📍 Location: San Francisco
 Apply Now
 <https://jobs.ashbyhq.com/ThinkingMachines/9d863c78-80c0-44cd-a574-d1330e125398>
-32. Software Engineer, Product
+33. Software Engineer, Product
 
 📍 Location: San Francisco
 Apply Now
 <https://jobs.ashbyhq.com/ThinkingMachines/98aeba6f-1579-4e2f-9c00-5dd4a483f3b2>
-33. Software Engineer, Research Tools
+34. Software Engineer, Research Tools
 
 📍 Location: San Francisco
 Apply Now
 <https://jobs.ashbyhq.com/ThinkingMachines/72fe46e4-a772-4ebb-a413-53e4f1a8273e>
-34. Software Engineer, Sandboxing
+35. Software Engineer, Sandboxing
 
 📍 Location: San Francisco
 Apply Now
 <https://jobs.ashbyhq.com/ThinkingMachines/6afeaa7a-8674-4e32-9364-fb14cc28e79a>
-35. Software Engineer, Security
+36. Software Engineer, Security
 
 📍 Location: San Francisco
 Apply Now
 <https://jobs.ashbyhq.com/ThinkingMachines/7c8b01f8-8542-4cb4-9701-5578960cda3b>
-36. Software Engineer, Supercomputing
+37. Software Engineer, Supercomputing
 
 📍 Location: San Francisco
 Apply Now
 <https://jobs.ashbyhq.com/ThinkingMachines/0046b97e-6b8d-4dde-8d11-37aed910151a>
-37. Software Engineer, Systems Generalist
+38. Software Engineer, Systems Generalist
 
 📍 Location: San Francisco
 Apply Now
 <https://jobs.ashbyhq.com/ThinkingMachines/61e7846c-afc3-41a1-93f5-37642f6a72a6>
-38. Technical Sourcer
+39. Technical Sourcer
 
 📍 Location: San Francisco
 Apply Now
