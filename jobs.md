@@ -1,27 +1,39 @@
 # AI Research Engineer Jobs
 
-**Update:** 235/259
-**Date:** 9/24/2026 6:00:20
-**Subject:** AI Research Jobs — 92 positions (1 new!) (1 removed)
-**Total Positions:** 92
+**Update:** 236/259
+**Date:** 9/25/2026 6:00:27
+**Subject:** AI Research Jobs — 94 positions (3 new!) (1 removed)
+**Total Positions:** 94
 
 ---
 
 AI Research Engineer Jobs Update
 
-*Date:* 2026-09-24 13:00:18
-*Total Positions:* 92
-*New Positions:* 1
+*Date:* 2026-09-25 13:00:25
+*Total Positions:* 94
+*New Positions:* 3
 *Removed Positions:* 1
-🆕 New Jobs (1)🏢 Anthropic
-Research Scientist, Multi-Agent
+🆕 New Jobs (3)🏢 Anthropic
+Staff+ Research Scientist, Multi-Agent
 
 📍 Location: San Francisco, CA | New York City, NY | Seattle, WA
 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/4017544008>
-Removed Jobs (1)🏢 Anthropic
-Research Engineer, Performance RL (Reinforcement Learning)
+🏢 OpenAI
+Machine Learning Engineer, Core Experimentation
 
-📍 San Francisco, CA
+📍 Location: Seattle
+Apply Now
+<https://jobs.ashbyhq.com/openai/9d4d2727-27f3-4a63-857c-a96466130645>
+🏢 Thinking Machines
+Web Crawling - Research Engineer
+
+📍 Location: San Francisco
+Apply Now
+<https://jobs.ashbyhq.com/ThinkingMachines/a5559c53-7085-45ff-8a0f-5e47b5e822bc>
+Removed Jobs (1)🏢 Anthropic
+Research Scientist, Multi-Agent
+
+📍 San Francisco, CA | New York City, NY | Seattle, WA
 This role no longer appears on the board.
 All Research Engineer PositionsAnthropic — 25 positions
 1. Research Engineer / Research Scientist, Tokens
@@ -114,14 +126,14 @@ Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/5239733008>
 
 📍 Location: San Francisco, CA
 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/5387564008>
-22. Research Scientist, Multi-Agent 🆕
-
-📍 Location: San Francisco, CA | New York City, NY | Seattle, WA
-Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/4017544008>
-23. Staff Research Engineer, Discovery Team
+22. Staff Research Engineer, Discovery Team
 
 📍 Location: San Francisco, CA
 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/4593216008>
+23. Staff+ Research Scientist, Multi-Agent 🆕
+
+📍 Location: San Francisco, CA | New York City, NY | Seattle, WA
+Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/4017544008>
 24. Applied AI, Research Engineer
 
 📍 Location: San Francisco, CA | New York City, NY
@@ -130,68 +142,73 @@ Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/5390811008>
 
 📍 Location: San Francisco, CA
 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/5149802008>
-OpenAI — 13 positions
+OpenAI — 14 positions
 1. Machine Learning Engineer, API Multicloud
 
 📍 Location: San Francisco
 Apply Now
 <https://jobs.ashbyhq.com/openai/5acf4854-1d42-40ca-bff8-4f6f04cdce68>
-2. Machine Learning Engineer, Monetization AI/ML
+2. Machine Learning Engineer, Core Experimentation 🆕
+
+📍 Location: Seattle
+Apply Now
+<https://jobs.ashbyhq.com/openai/9d4d2727-27f3-4a63-857c-a96466130645>
+3. Machine Learning Engineer, Monetization AI/ML
 
 📍 Location: San Francisco
 Apply Now
 <https://jobs.ashbyhq.com/openai/80f9f564-d789-47bc-91c3-3babf5a1a33d>
-3. Machine Learning Engineer, Multimodal Perception and Authentication
+4. Machine Learning Engineer, Multimodal Perception and Authentication
 
 📍 Location: San Francisco
 Apply Now
 <https://jobs.ashbyhq.com/openai/1b268692-70d8-46c2-a347-2f7705b5c174>
-4. Research Engineer
+5. Research Engineer
 
 📍 Location: San Francisco
 Apply Now
 <https://jobs.ashbyhq.com/openai/240d459b-696d-43eb-8497-fab3e56ecd9b>
-5. Research Engineer, Codex
+6. Research Engineer, Codex
 
 📍 Location: San Francisco
 Apply Now
 <https://jobs.ashbyhq.com/openai/793964ae-d40b-45e3-9798-84f4b6da48c5>
-6. Research Engineer, Privacy
+7. Research Engineer, Privacy
 
 📍 Location: San Francisco
 Apply Now
 <https://jobs.ashbyhq.com/openai/cc434f5b-dc0b-42fd-97ec-e0171545c6e9>
-7. Research Engineer / Research Scientist - Personal AGI, Memory
+8. Research Engineer / Research Scientist - Personal AGI, Memory
 
 📍 Location: San Francisco
 Apply Now
 <https://jobs.ashbyhq.com/openai/29074a51-9cb3-47c9-a8a7-f283cd14fa6c>
-8. Research Engineer/Research Scientist- Personal AGI, Model Experience
+9. Research Engineer/Research Scientist- Personal AGI, Model Experience
 
 📍 Location: San Francisco
 Apply Now
 <https://jobs.ashbyhq.com/openai/872ca3d0-c8c0-4585-9a34-7f9ed6b4dbf9>
-9. Research Engineer/Research Scientist - Personal AGI, North Stars
+10. Research Engineer/Research Scientist - Personal AGI, North Stars
 
 📍 Location: San Francisco
 Apply Now
 <https://jobs.ashbyhq.com/openai/171ebca6-de53-4d6e-a312-30332f353957>
-10. Research Engineer / Research Scientist - Personal AGI, Personalization
+11. Research Engineer / Research Scientist - Personal AGI, Personalization
 
 📍 Location: San Francisco
 Apply Now
 <https://jobs.ashbyhq.com/openai/1bf678c5-1058-45ca-b9bd-b0029fccd60e>
-11. Research Engineer / Research Scientist- Personal AGI (Post Training)
+12. Research Engineer / Research Scientist- Personal AGI (Post Training)
 
 📍 Location: San Francisco
 Apply Now
 <https://jobs.ashbyhq.com/openai/1c516e9f-c97d-4a40-8529-9871dac615a5>
-12. Research Engineer/Research Scientist, RL/Reasoning
+13. Research Engineer/Research Scientist, RL/Reasoning
 
 📍 Location: San Francisco
 Apply Now
 <https://jobs.ashbyhq.com/openai/7e198d81-34e0-48b6-b64e-a501a75f9d53>
-13. Research Scientist
+14. Research Scientist
 
 📍 Location: San Francisco
 Apply Now
@@ -233,7 +250,7 @@ Apply Now <https://job-boards.greenhouse.io/xai/jobs/5186992007>
 
 📍 Location: London, England, United Kingdom
 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5007872007>
-Thinking Machines — 45 positions
+Thinking Machines — 46 positions
 1. Data Operations
 
 📍 Location: San Francisco
@@ -459,6 +476,11 @@ Apply Now
 📍 Location: San Francisco
 Apply Now
 <https://jobs.ashbyhq.com/ThinkingMachines/0b0b63c8-79b6-4901-9861-4a7f98370d30>
+46. Web Crawling - Research Engineer 🆕
+
+📍 Location: San Francisco
+Apply Now
+<https://jobs.ashbyhq.com/ThinkingMachines/a5559c53-7085-45ff-8a0f-5e47b5e822bc>
 ------------------------------
 
 Auto-generated by AI Jobs Scraper
