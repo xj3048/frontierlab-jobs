@@ -1,46 +1,30 @@
 # AI Research Engineer Jobs
 
-**Update:** 239/259
-**Date:** 9/30/2026 6:00:34
-**Subject:** AI Research Jobs — 98 positions (3 new!) (2 removed)
+**Update:** 240/259
+**Date:** 10/1/2026 6:00:34
+**Subject:** AI Research Jobs — 98 positions (1 new!) (1 removed)
 **Total Positions:** 98
 
 ---
 
 AI Research Engineer Jobs Update
 
-*Date:* 2026-09-30 13:00:31
+*Date:* 2026-10-01 13:00:32
 *Total Positions:* 98
-*New Positions:* 3
-*Removed Positions:* 2
-🆕 New Jobs (3)🏢 Anthropic
-Research Engineer / Research Scientist, RL Frontiers
-
-📍 Location: San Francisco, CA | New York City, NY | Seattle, WA
-Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/5438044008>
-🏢 Thinking Machines
-Executive Business Partner, Operations
+*New Positions:* 1
+*Removed Positions:* 1
+🆕 New Jobs (1)🏢 Thinking Machines
+Model Behavior, Model Designer
 
 📍 Location: San Francisco
 Apply Now
-<https://jobs.ashbyhq.com/ThinkingMachines/3449b35c-78e1-4bf7-9b52-31ee9e764dca>
-Executive Business Partner, Technical
+<https://jobs.ashbyhq.com/ThinkingMachines/325bd679-8b8b-4ba4-9155-73f3ed66401b>
+Removed Jobs (1)🏢 Anthropic
+Research Engineer, Takeoff Intel
 
-📍 Location: San Francisco
-Apply Now
-<https://jobs.ashbyhq.com/ThinkingMachines/740ab75b-954c-46fe-9ffa-2d9ede9c135a>
-Removed Jobs (2)🏢 Anthropic
-Research Engineer, Universes
-
-📍 Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA |
-New York City, NY
+📍 Remote-Friendly (Travel Required) | San Francisco, CA
 This role no longer appears on the board.
-🏢 Thinking Machines
-Executive Business Partner
-
-📍 San Francisco
-This role no longer appears on the board.
-All Research Engineer PositionsAnthropic — 25 positions
+All Research Engineer PositionsAnthropic — 24 positions
 1. Research Engineer / Research Scientist, Tokens
 
 📍 Location: New York City, NY; New York City, NY | Seattle, WA; San
@@ -51,7 +35,7 @@ London
 
 📍 Location: London, UK
 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/4610158008>
-3. Research Engineer / Research Scientist, RL Frontiers 🆕
+3. Research Engineer / Research Scientist, RL Frontiers
 
 📍 Location: San Francisco, CA | New York City, NY | Seattle, WA
 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/5438044008>
@@ -105,44 +89,40 @@ Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/5119713008>
 
 📍 Location: San Francisco, CA | New York City, NY | Seattle, WA
 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/4952051008>
-16. Research Engineer, Takeoff Intel
-
-📍 Location: Remote-Friendly (Travel Required) | San Francisco, CA
-Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/5416882008>
-17. Research Engineer, Visual Knowledge Work
+16. Research Engineer, Visual Knowledge Work
 
 📍 Location: New York City, NY; San Francisco, CA; Seattle, WA
 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/5074217008>
-18. Research Engineer/Research Scientist, Pre-training
+17. Research Engineer/Research Scientist, Pre-training
 
 📍 Location: Remote-Friendly (Travel-Required) | San Francisco, CA |
 Seattle, WA | New York City, NY
 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/4616971008>
-19. Research Scientist, Interpretability
+18. Research Scientist, Interpretability
 
 📍 Location: San Francisco, CA
 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/4980427008>
-20. Research Scientist, Life Sciences
+19. Research Scientist, Life Sciences
 
 📍 Location: San Francisco, CA
 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/5239733008>
-21. Research Scientist, Life Sciences (Chemistry)
+20. Research Scientist, Life Sciences (Chemistry)
 
 📍 Location: San Francisco, CA
 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/5387564008>
-22. Staff Research Engineer, Discovery Team
+21. Staff Research Engineer, Discovery Team
 
 📍 Location: San Francisco, CA
 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/4593216008>
-23. Staff+ Research Scientist, Multi-Agent
+22. Staff+ Research Scientist, Multi-Agent
 
 📍 Location: San Francisco, CA | New York City, NY | Seattle, WA
 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/4017544008>
-24. Applied AI, Research Engineer
+23. Applied AI, Research Engineer
 
 📍 Location: San Francisco, CA | New York City, NY
 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/5390811008>
-25. Transformative AI Research Economist, Economic Research
+24. Transformative AI Research Economist, Economic Research
 
 📍 Location: San Francisco, CA
 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/5149802008>
@@ -254,7 +234,7 @@ Apply Now <https://job-boards.greenhouse.io/xai/jobs/5186992007>
 
 📍 Location: London, England, United Kingdom
 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5007872007>
-Thinking Machines — 50 positions
+Thinking Machines — 51 positions
 1. Data Operations
 
 📍 Location: San Francisco
@@ -280,12 +260,12 @@ Apply Now
 📍 Location: San Francisco
 Apply Now
 <https://jobs.ashbyhq.com/ThinkingMachines/1161c2d5-17a1-41cb-a2c8-5558d5e42acb>
-6. Executive Business Partner, Operations 🆕
+6. Executive Business Partner, Operations
 
 📍 Location: San Francisco
 Apply Now
 <https://jobs.ashbyhq.com/ThinkingMachines/3449b35c-78e1-4bf7-9b52-31ee9e764dca>
-7. Executive Business Partner, Technical 🆕
+7. Executive Business Partner, Technical
 
 📍 Location: San Francisco
 Apply Now
@@ -315,192 +295,197 @@ Apply Now
 📍 Location: New York
 Apply Now
 <https://jobs.ashbyhq.com/ThinkingMachines/8d60e5f3-222d-4f64-b640-24f40e1ab563>
-13. Network Engineer, Supercomputing
+13. Model Behavior, Model Designer 🆕
+
+📍 Location: San Francisco
+Apply Now
+<https://jobs.ashbyhq.com/ThinkingMachines/325bd679-8b8b-4ba4-9155-73f3ed66401b>
+14. Network Engineer, Supercomputing
 
 📍 Location: San Francisco
 Apply Now
 <https://jobs.ashbyhq.com/ThinkingMachines/2c38437e-cdab-422c-9491-faaa02a3718b>
-14. People Operations Generalist
+15. People Operations Generalist
 
 📍 Location: San Francisco
 Apply Now
 <https://jobs.ashbyhq.com/ThinkingMachines/9f346787-6193-4045-937f-4354d39c2a74>
-15. Product Manager - Deployment
+16. Product Manager - Deployment
 
 📍 Location: San Francisco
 Apply Now
 <https://jobs.ashbyhq.com/ThinkingMachines/079f3334-43ae-4ee7-9671-1dbad75dd8df>
-16. Product Manager - Post Training
+17. Product Manager - Post Training
 
 📍 Location: San Francisco
 Apply Now
 <https://jobs.ashbyhq.com/ThinkingMachines/1b503b26-dd56-4496-8f74-2c8abb3b7e4b>
-17. Product Policy
+18. Product Policy
 
 📍 Location: San Francisco
 Apply Now
 <https://jobs.ashbyhq.com/ThinkingMachines/f1367c17-63b2-41db-9e71-b9d44df9c558>
-18. Reliability Engineer, Supercomputing
+19. Reliability Engineer, Supercomputing
 
 📍 Location: San Francisco
 Apply Now
 <https://jobs.ashbyhq.com/ThinkingMachines/8023baca-61b5-4f7d-b145-b96881754366>
-19. Research, Audio Expertise
+20. Research, Audio Expertise
 
 📍 Location: San Francisco
 Apply Now
 <https://jobs.ashbyhq.com/ThinkingMachines/24f4c1e0-12bc-4f6c-ae7a-637ecd6bd56c>
-20. Research, Coding Agents
+21. Research, Coding Agents
 
 📍 Location: San Francisco
 Apply Now
 <https://jobs.ashbyhq.com/ThinkingMachines/71c91050-688e-45e9-b98e-891b82d693e8>
-21. Research Engineer, Infrastructure, Inference
+22. Research Engineer, Infrastructure, Inference
 
 📍 Location: San Francisco
 Apply Now
 <https://jobs.ashbyhq.com/ThinkingMachines/4087e0f6-4295-419a-ba02-08e95a74ceea>
-22. Research Engineer, Infrastructure, Kernels
+23. Research Engineer, Infrastructure, Kernels
 
 📍 Location: San Francisco
 Apply Now
 <https://jobs.ashbyhq.com/ThinkingMachines/2d7a9e99-836a-475b-9ae3-b6b1df8baa6d>
-23. Research Engineer, Infrastructure, Numerics
+24. Research Engineer, Infrastructure, Numerics
 
 📍 Location: San Francisco
 Apply Now
 <https://jobs.ashbyhq.com/ThinkingMachines/93855db2-9a80-421d-9e80-ace9eca24650>
-24. Research Engineer, Infrastructure, Training Systems
+25. Research Engineer, Infrastructure, Training Systems
 
 📍 Location: San Francisco
 Apply Now
 <https://jobs.ashbyhq.com/ThinkingMachines/9dabecde-1bdb-47c6-b943-ff7b0526657c>
-25. Research Engineer, Web Crawling
+26. Research Engineer, Web Crawling
 
 📍 Location: San Francisco
 Apply Now
 <https://jobs.ashbyhq.com/ThinkingMachines/a5559c53-7085-45ff-8a0f-5e47b5e822bc>
-26. Research, Finetuning Science
+27. Research, Finetuning Science
 
 📍 Location: San Francisco
 Apply Now
 <https://jobs.ashbyhq.com/ThinkingMachines/0a71cb88-068b-4ac6-9912-e498c49b1343>
-27. Research, General Agents
+28. Research, General Agents
 
 📍 Location: San Francisco
 Apply Now
 <https://jobs.ashbyhq.com/ThinkingMachines/885f32cc-5b1c-465c-af5a-e88634065bc6>
-28. Research Lead, Tinker, Fine-tuning Science
+29. Research Lead, Tinker, Fine-tuning Science
 
 📍 Location: San Francisco
 Apply Now
 <https://jobs.ashbyhq.com/ThinkingMachines/4e3a366f-eb0f-4ea9-8cf9-9c2f911f279c>
-29. Research, Mid Training
+30. Research, Mid Training
 
 📍 Location: San Francisco
 Apply Now
 <https://jobs.ashbyhq.com/ThinkingMachines/f9c03f58-c968-492c-b40c-fbc46a38ce05>
-30. Research, Post-Training
+31. Research, Post-Training
 
 📍 Location: San Francisco
 Apply Now
 <https://jobs.ashbyhq.com/ThinkingMachines/3efb6896-4840-4f90-8798-2ce49fa146e5>
-31. Research, Post-Training Evals
+32. Research, Post-Training Evals
 
 📍 Location: San Francisco
 Apply Now
 <https://jobs.ashbyhq.com/ThinkingMachines/602f2a99-34eb-4fde-9eec-b4945ee4aab6>
-32. Research, Pre-Training Data
+33. Research, Pre-Training Data
 
 📍 Location: San Francisco
 Apply Now
 <https://jobs.ashbyhq.com/ThinkingMachines/27ec4240-9f70-4ebe-abc0-a7336358a9a4>
-33. Research, RL Scaling
+34. Research, RL Scaling
 
 📍 Location: San Francisco
 Apply Now
 <https://jobs.ashbyhq.com/ThinkingMachines/0871bc29-7ca0-4906-a674-7b32527617ab>
-34. Research, Safety
+35. Research, Safety
 
 📍 Location: San Francisco
 Apply Now
 <https://jobs.ashbyhq.com/ThinkingMachines/01aba71c-b55f-4df5-b803-dc545e6a9434>
-35. Research Software Engineer, Post Training
+36. Research Software Engineer, Post Training
 
 📍 Location: San Francisco
 Apply Now
 <https://jobs.ashbyhq.com/ThinkingMachines/4d51cb65-5e5b-42d2-8c28-7073b8574e4b>
-36. Research, Tinker, RL Systems
+37. Research, Tinker, RL Systems
 
 📍 Location: San Francisco
 Apply Now
 <https://jobs.ashbyhq.com/ThinkingMachines/0e3920c4-9811-491e-9aef-67601c65a87f>
-37. Research, Vision Expertise
+38. Research, Vision Expertise
 
 📍 Location: San Francisco
 Apply Now
 <https://jobs.ashbyhq.com/ThinkingMachines/2d72cec2-bad2-4d70-9b55-ee1dd73dc3d4>
-38. Safety Operations Lead
+39. Safety Operations Lead
 
 📍 Location: San Francisco
 Apply Now
 <https://jobs.ashbyhq.com/ThinkingMachines/9d1124f7-7f78-4e8d-a033-568c315826eb>
-39. Senior Counsel, Commercial & Product
+40. Senior Counsel, Commercial & Product
 
 📍 Location: San Francisco
 Apply Now
 <https://jobs.ashbyhq.com/ThinkingMachines/919c3fa0-9c77-4770-b839-18492a4dbe6c>
-40. Site Reliability Engineer, Post Training
+41. Site Reliability Engineer, Post Training
 
 📍 Location: San Francisco
 Apply Now
 <https://jobs.ashbyhq.com/ThinkingMachines/a9469410-04c7-4e6a-b8b4-64c15933a2bf>
-41. Site Reliability Engineer, Production
+42. Site Reliability Engineer, Production
 
 📍 Location: San Francisco
 Apply Now
 <https://jobs.ashbyhq.com/ThinkingMachines/c4cddfec-33de-4f67-9801-1308c2151952>
-42. Software Engineer, Evaluation Platform / Infra
+43. Software Engineer, Evaluation Platform / Infra
 
 📍 Location: San Francisco
 Apply Now
 <https://jobs.ashbyhq.com/ThinkingMachines/9d863c78-80c0-44cd-a574-d1330e125398>
-43. Software Engineer, Product
+44. Software Engineer, Product
 
 📍 Location: San Francisco
 Apply Now
 <https://jobs.ashbyhq.com/ThinkingMachines/98aeba6f-1579-4e2f-9c00-5dd4a483f3b2>
-44. Software Engineer, Research Tools
+45. Software Engineer, Research Tools
 
 📍 Location: San Francisco
 Apply Now
 <https://jobs.ashbyhq.com/ThinkingMachines/72fe46e4-a772-4ebb-a413-53e4f1a8273e>
-45. Software Engineer, Sandboxing
+46. Software Engineer, Sandboxing
 
 📍 Location: San Francisco
 Apply Now
 <https://jobs.ashbyhq.com/ThinkingMachines/cc4f4b4e-8671-4f7b-8d3d-a2514a43f5b2>
-46. Software Engineer, Security
+47. Software Engineer, Security
 
 📍 Location: San Francisco
 Apply Now
 <https://jobs.ashbyhq.com/ThinkingMachines/7c8b01f8-8542-4cb4-9701-5578960cda3b>
-47. Software Engineer, Supercomputing
+48. Software Engineer, Supercomputing
 
 📍 Location: San Francisco
 Apply Now
 <https://jobs.ashbyhq.com/ThinkingMachines/0046b97e-6b8d-4dde-8d11-37aed910151a>
-48. Software Engineer, Systems Generalist
+49. Software Engineer, Systems Generalist
 
 📍 Location: San Francisco
 Apply Now
 <https://jobs.ashbyhq.com/ThinkingMachines/61e7846c-afc3-41a1-93f5-37642f6a72a6>
-49. Technical Recruiter
+50. Technical Recruiter
 
 📍 Location: San Francisco
 Apply Now
 <https://jobs.ashbyhq.com/ThinkingMachines/39d630ce-af8d-404c-a7eb-cbaac2f96b24>
-50. Technical Sourcer
+51. Technical Sourcer
 
 📍 Location: San Francisco
 Apply Now
