@@ -1,38 +1,29 @@
 # AI Research Engineer Jobs
 
-**Update:** 241/259
-**Date:** 10/2/2026 6:00:33
-**Subject:** AI Research Jobs — 102 positions (4 new!)
+**Update:** 242/259
+**Date:** 10/3/2026 6:00:18
+**Subject:** AI Research Jobs — 102 positions (1 new!) (1 removed)
 **Total Positions:** 102
 
 ---
 
 AI Research Engineer Jobs Update
 
-*Date:* 2026-10-02 13:00:32
+*Date:* 2026-10-03 13:00:18
 *Total Positions:* 102
-*New Positions:* 4
-🆕 New Jobs (4)🏢 Thinking Machines
-Software Engineer, Data Infrastructure
+*New Positions:* 1
+*Removed Positions:* 1
+🆕 New Jobs (1)🏢 Thinking Machines
+Model Designer
 
 📍 Location: San Francisco
 Apply Now
-<https://jobs.ashbyhq.com/ThinkingMachines/ec5f88b6-e221-499c-bc8f-a27b66213b87>
-Software Engineer, Distributed Systems
+<https://jobs.ashbyhq.com/ThinkingMachines/325bd679-8b8b-4ba4-9155-73f3ed66401b>
+Removed Jobs (1)🏢 Thinking Machines
+Model Behavior, Model Designer
 
-📍 Location: San Francisco
-Apply Now
-<https://jobs.ashbyhq.com/ThinkingMachines/50f566c8-7fe3-4fe5-a8ca-b42503537a51>
-Software Engineer, Inference
-
-📍 Location: San Francisco
-Apply Now
-<https://jobs.ashbyhq.com/ThinkingMachines/d7513f3d-6a49-485d-b3c7-ecb629ad48db>
-Software Engineer, Infrastructure
-
-📍 Location: San Francisco
-Apply Now
-<https://jobs.ashbyhq.com/ThinkingMachines/998becdd-611f-44e5-a36d-bbfc13328ed9>
+📍 San Francisco
+This role no longer appears on the board.
 All Research Engineer PositionsAnthropic — 24 positions
 1. Research Engineer / Research Scientist, Tokens
 
@@ -304,7 +295,7 @@ Apply Now
 📍 Location: New York
 Apply Now
 <https://jobs.ashbyhq.com/ThinkingMachines/8d60e5f3-222d-4f64-b640-24f40e1ab563>
-13. Model Behavior, Model Designer
+13. Model Designer 🆕
 
 📍 Location: San Francisco
 Apply Now
@@ -454,12 +445,12 @@ Apply Now
 📍 Location: San Francisco
 Apply Now
 <https://jobs.ashbyhq.com/ThinkingMachines/c4cddfec-33de-4f67-9801-1308c2151952>
-43. Software Engineer, Data Infrastructure 🆕
+43. Software Engineer, Data Infrastructure
 
 📍 Location: San Francisco
 Apply Now
 <https://jobs.ashbyhq.com/ThinkingMachines/ec5f88b6-e221-499c-bc8f-a27b66213b87>
-44. Software Engineer, Distributed Systems 🆕
+44. Software Engineer, Distributed Systems
 
 📍 Location: San Francisco
 Apply Now
@@ -469,12 +460,12 @@ Apply Now
 📍 Location: San Francisco
 Apply Now
 <https://jobs.ashbyhq.com/ThinkingMachines/9d863c78-80c0-44cd-a574-d1330e125398>
-46. Software Engineer, Inference 🆕
+46. Software Engineer, Inference
 
 📍 Location: San Francisco
 Apply Now
 <https://jobs.ashbyhq.com/ThinkingMachines/d7513f3d-6a49-485d-b3c7-ecb629ad48db>
-47. Software Engineer, Infrastructure 🆕
+47. Software Engineer, Infrastructure
 
 📍 Location: San Francisco
 Apply Now
