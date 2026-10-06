@@ -1,28 +1,21 @@
 # AI Research Engineer Jobs
 
-**Update:** 242/259
-**Date:** 10/3/2026 6:00:18
-**Subject:** AI Research Jobs — 102 positions (1 new!) (1 removed)
-**Total Positions:** 102
+**Update:** 243/259
+**Date:** 10/6/2026 6:00:18
+**Subject:** AI Research Jobs — 101 positions (1 removed)
+**Total Positions:** 101
 
 ---
 
 AI Research Engineer Jobs Update
 
-*Date:* 2026-10-03 13:00:18
-*Total Positions:* 102
-*New Positions:* 1
+*Date:* 2026-10-06 13:00:18
+*Total Positions:* 101
 *Removed Positions:* 1
-🆕 New Jobs (1)🏢 Thinking Machines
-Model Designer
+Removed Jobs (1)🏢 X.ai
+Member Of Technical Staff - Cloud Infrastructure
 
-📍 Location: San Francisco
-Apply Now
-<https://jobs.ashbyhq.com/ThinkingMachines/325bd679-8b8b-4ba4-9155-73f3ed66401b>
-Removed Jobs (1)🏢 Thinking Machines
-Model Behavior, Model Designer
-
-📍 San Francisco
+📍 Palo Alto, CA
 This role no longer appears on the board.
 All Research Engineer PositionsAnthropic — 24 positions
 1. Research Engineer / Research Scientist, Tokens
@@ -197,40 +190,36 @@ Apply Now
 📍 Location: San Francisco
 Apply Now
 <https://jobs.ashbyhq.com/openai/5f0c6579-0bfb-4a06-8a43-1dd371499e10>
-X.ai — 9 positions
+X.ai — 8 positions
 1. Machine Learning Engineer - Ads
 
 📍 Location: Palo Alto, CA
 Apply Now <https://job-boards.greenhouse.io/xai/jobs/4996796007>
-2. Member Of Technical Staff - Cloud Infrastructure
-
-📍 Location: Palo Alto, CA
-Apply Now <https://job-boards.greenhouse.io/xai/jobs/5133071007>
-3. Member of Technical Staff - Imagine Model
+2. Member of Technical Staff - Imagine Model
 
 📍 Location: Palo Alto, CA
 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5051985007>
-4. Member of Technical Staff - Mid-training
+3. Member of Technical Staff - Mid-training
 
 📍 Location: Palo Alto, CA
 Apply Now <https://job-boards.greenhouse.io/xai/jobs/4965893007>
-5. Member of Technical Staff - Model Training
+4. Member of Technical Staff - Model Training
 
 📍 Location: Palo Alto, CA; Austin, TX; New York, NY; Seattle, WA
 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5086324007>
-6. Member of Technical Staff - Multimodal Understanding
+5. Member of Technical Staff - Multimodal Understanding
 
 📍 Location: Palo Alto, CA
 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5111374007>
-7. Member of Technical Staff - Post-Training and RL
+6. Member of Technical Staff - Post-Training and RL
 
 📍 Location: Palo Alto, CA
 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5114737007>
-8. Member of Technical Staff - RL Training Framework
+7. Member of Technical Staff - RL Training Framework
 
 📍 Location: Palo Alto, CA
 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5186992007>
-9. Member of Technical Staff - Sandbox Service
+8. Member of Technical Staff - Sandbox Service
 
 📍 Location: London, England, United Kingdom
 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5007872007>
@@ -295,7 +284,7 @@ Apply Now
 📍 Location: New York
 Apply Now
 <https://jobs.ashbyhq.com/ThinkingMachines/8d60e5f3-222d-4f64-b640-24f40e1ab563>
-13. Model Designer 🆕
+13. Model Designer
 
 📍 Location: San Francisco
 Apply Now
