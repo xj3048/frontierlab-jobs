@@ -1,7 +1,7 @@
 # AI Research Engineer Jobs
 
-**Update:** 248/259
-**Date:** 10/15/2026 6:00:12
+**Update:** 249/259
+**Date:** 10/16/2026 6:00:31
 **Subject:** AI Research Jobs — 103 positions (1 new!) (1 removed)
 **Total Positions:** 103
 
@@ -9,18 +9,18 @@
 
 AI Research Engineer Jobs Update
 
-*Date:* 2026-10-15 13:00:11
+*Date:* 2026-10-16 13:00:31
 *Total Positions:* 103
 *New Positions:* 1
 *Removed Positions:* 1
 🆕 New Jobs (1)🏢 Thinking Machines
-GTM Recruiter
+Data Partnerships
 
 📍 Location: San Francisco
 Apply Now
-<https://jobs.ashbyhq.com/ThinkingMachines/c190a799-fa73-4f38-b44a-85871968c094>
+<https://jobs.ashbyhq.com/ThinkingMachines/28e2d71f-dabd-4745-9903-9b363979f0aa>
 Removed Jobs (1)🏢 Thinking Machines
-Technical Recruiter
+Data Operations
 
 📍 San Francisco
 This role no longer appears on the board.
@@ -241,7 +241,7 @@ Apply Now <https://job-boards.greenhouse.io/xai/jobs/5186992007>
 📍 Location: London, England, United Kingdom
 Apply Now <https://job-boards.greenhouse.io/xai/jobs/5007872007>
 Thinking Machines — 55 positions
-1. Data Operations
+1. Data Partnerships 🆕
 
 📍 Location: San Francisco
 Apply Now
@@ -286,7 +286,7 @@ Apply Now
 📍 Location: San Francisco
 Apply Now
 <https://jobs.ashbyhq.com/ThinkingMachines/162cac0f-7861-413f-8ffb-2df1823be067>
-10. GTM Recruiter 🆕
+10. GTM Recruiter
 
 📍 Location: San Francisco
 Apply Now
