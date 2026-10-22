@@ -1,26 +1,23 @@
 # AI Research Engineer Jobs
 
-**Update:** 252/259
-**Date:** 10/21/2026 6:00:26
-**Subject:** AI Research Jobs — 98 positions (2 removed)
-**Total Positions:** 98
+**Update:** 253/259
+**Date:** 10/22/2026 6:00:21
+**Subject:** AI Research Jobs — 99 positions (1 new!)
+**Total Positions:** 99
 
 ---
 
 AI Research Engineer Jobs Update
 
-*Date:* 2026-10-21 13:00:26
-*Total Positions:* 98
-*Removed Positions:* 2
-Removed Jobs (2)🏢 Thinking Machines
-Developer Experience Engineer
+*Date:* 2026-10-22 13:00:20
+*Total Positions:* 99
+*New Positions:* 1
+🆕 New Jobs (1)🏢 OpenAI
+Research Scientist / Research Engineer, Search - Knowledge Graphs
 
-📍 San Francisco
-This role no longer appears on the board.
-Endpoint Engineer, IT
-
-📍 San Francisco
-This role no longer appears on the board.
+📍 Location: San Francisco
+Apply Now
+<https://jobs.ashbyhq.com/openai/1441816f-6429-426e-8f6d-8e5930a818f9>
 All Research Engineer PositionsAnthropic — 24 positions
 1. Research Engineer / Research Scientist, Tokens
 
@@ -123,7 +120,7 @@ Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/5390811008>
 
 📍 Location: San Francisco, CA
 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/5149802008>
-OpenAI — 17 positions
+OpenAI — 18 positions
 1. Machine Learning Engineer, API Multicloud
 
 📍 Location: San Francisco
@@ -209,6 +206,11 @@ Apply Now
 📍 Location: San Francisco
 Apply Now
 <https://jobs.ashbyhq.com/openai/020b2aae-8be0-408c-ab49-20eefa8541af>
+18. Research Scientist / Research Engineer, Search - Knowledge Graphs 🆕
+
+📍 Location: San Francisco
+Apply Now
+<https://jobs.ashbyhq.com/openai/1441816f-6429-426e-8f6d-8e5930a818f9>
 X.ai — 5 positions
 1. Machine Learning Engineer - Ads
 
