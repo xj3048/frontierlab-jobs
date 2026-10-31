@@ -1,40 +1,24 @@
 # AI Research Engineer Jobs
 
-**Update:** 257/259
-**Date:** 10/30/2026 6:00:29
-**Subject:** AI Research Jobs — 96 positions (2 new!) (2 removed)
-**Total Positions:** 96
+**Update:** 258/259
+**Date:** 10/31/2026 6:00:12
+**Subject:** AI Research Jobs — 95 positions (1 removed)
+**Total Positions:** 95
 
 ---
 
 AI Research Engineer Jobs Update
 
-*Date:* 2026-10-30 13:00:28
-*Total Positions:* 96
-*New Positions:* 2
-*Removed Positions:* 2
-🆕 New Jobs (2)🏢 Anthropic
-Research Scientist, Life Sciences (Large Molecules, Process Development)
+*Date:* 2026-10-31 13:00:11
+*Total Positions:* 95
+*Removed Positions:* 1
+Removed Jobs (1)🏢 Anthropic
+Research Engineer/Research Scientist, Pre-training
 
-📍 Location: San Francisco, CA
-Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/5467099008>
-🏢 Thinking Machines
-Research Product Manager
-
-📍 Location: San Francisco
-Apply Now
-<https://jobs.ashbyhq.com/ThinkingMachines/1b503b26-dd56-4496-8f74-2c8abb3b7e4b>
-Removed Jobs (2)🏢 OpenAI
-Research Scientist / Research Engineer, Search - Knowledge Graphs
-
-📍 San Francisco
+📍 Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA |
+New York City, NY
 This role no longer appears on the board.
-🏢 Thinking Machines
-Product Manager - Post Training
-
-📍 San Francisco
-This role no longer appears on the board.
-All Research Engineer PositionsAnthropic — 25 positions
+All Research Engineer PositionsAnthropic — 24 positions
 1. Research Engineer / Research Scientist, Tokens
 
 📍 Location: New York City, NY; New York City, NY | Seattle, WA; San
@@ -103,41 +87,35 @@ Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/4952051008>
 
 📍 Location: New York City, NY; San Francisco, CA; Seattle, WA
 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/5074217008>
-17. Research Engineer/Research Scientist, Pre-training
-
-📍 Location: Remote-Friendly (Travel-Required) | San Francisco, CA |
-Seattle, WA | New York City, NY
-Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/4616971008>
-18. Research Scientist, Interpretability
+17. Research Scientist, Interpretability
 
 📍 Location: San Francisco, CA
 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/4980427008>
-19. Research Scientist, Life Sciences
+18. Research Scientist, Life Sciences
 
 📍 Location: San Francisco, CA
 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/5239733008>
-20. Research Scientist, Life Sciences (Chemistry)
+19. Research Scientist, Life Sciences (Chemistry)
 
 📍 Location: San Francisco, CA
 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/5387564008>
-21. Research Scientist, Life Sciences (Large Molecules, Process
-Development) 🆕
+20. Research Scientist, Life Sciences (Large Molecules, Process Development)
 
 📍 Location: San Francisco, CA
 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/5467099008>
-22. Staff Research Engineer, Discovery Team
+21. Staff Research Engineer, Discovery Team
 
 📍 Location: San Francisco, CA
 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/4593216008>
-23. Staff+ Research Scientist, Multi-Agent
+22. Staff+ Research Scientist, Multi-Agent
 
 📍 Location: San Francisco, CA | New York City, NY | Seattle, WA
 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/4017544008>
-24. Applied AI, Research Engineer
+23. Applied AI, Research Engineer
 
 📍 Location: San Francisco, CA | New York City, NY
 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/5390811008>
-25. Transformative AI Research Economist, Economic Research
+24. Transformative AI Research Economist, Economic Research
 
 📍 Location: San Francisco, CA
 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/5149802008>
@@ -383,7 +361,7 @@ Apply Now
 📍 Location: San Francisco
 Apply Now
 <https://jobs.ashbyhq.com/ThinkingMachines/27ec4240-9f70-4ebe-abc0-a7336358a9a4>
-31. Research Product Manager 🆕
+31. Research Product Manager
 
 📍 Location: San Francisco
 Apply Now
