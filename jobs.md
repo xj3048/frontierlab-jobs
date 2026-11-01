@@ -1,22 +1,21 @@
 # AI Research Engineer Jobs
 
-**Update:** 258/259
-**Date:** 10/31/2026 6:00:12
-**Subject:** AI Research Jobs — 95 positions (1 removed)
-**Total Positions:** 95
+**Update:** 259/259
+**Date:** 11/1/2026 5:00:25
+**Subject:** AI Research Jobs — 94 positions (1 removed)
+**Total Positions:** 94
 
 ---
 
 AI Research Engineer Jobs Update
 
-*Date:* 2026-10-31 13:00:11
-*Total Positions:* 95
+*Date:* 2026-11-01 13:00:25
+*Total Positions:* 94
 *Removed Positions:* 1
-Removed Jobs (1)🏢 Anthropic
-Research Engineer/Research Scientist, Pre-training
+Removed Jobs (1)🏢 OpenAI
+Machine Learning Engineer, Growth
 
-📍 Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA |
-New York City, NY
+📍 San Francisco
 This role no longer appears on the board.
 All Research Engineer PositionsAnthropic — 24 positions
 1. Research Engineer / Research Scientist, Tokens
@@ -119,7 +118,7 @@ Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/5390811008>
 
 📍 Location: San Francisco, CA
 Apply Now <https://job-boards.greenhouse.io/anthropic/jobs/5149802008>
-OpenAI — 17 positions
+OpenAI — 16 positions
 1. Machine Learning Engineer, API Multicloud
 
 📍 Location: San Francisco
@@ -130,77 +129,72 @@ Apply Now
 📍 Location: Seattle
 Apply Now
 <https://jobs.ashbyhq.com/openai/9d4d2727-27f3-4a63-857c-a96466130645>
-3. Machine Learning Engineer, Growth
-
-📍 Location: San Francisco
-Apply Now
-<https://jobs.ashbyhq.com/openai/70042d81-4db6-4c5c-bdb2-76c133ee2917>
-4. Machine Learning Engineer, Implicit Signals
+3. Machine Learning Engineer, Implicit Signals
 
 📍 Location: San Francisco
 Apply Now
 <https://jobs.ashbyhq.com/openai/a01fc9ed-de08-4326-9206-4ee3f08000dc>
-5. Machine Learning Engineer, Monetization AI/ML
+4. Machine Learning Engineer, Monetization AI/ML
 
 📍 Location: San Francisco
 Apply Now
 <https://jobs.ashbyhq.com/openai/80f9f564-d789-47bc-91c3-3babf5a1a33d>
-6. Machine Learning Engineer, Multimodal Perception and Authentication
+5. Machine Learning Engineer, Multimodal Perception and Authentication
 
 📍 Location: San Francisco
 Apply Now
 <https://jobs.ashbyhq.com/openai/1b268692-70d8-46c2-a347-2f7705b5c174>
-7. Research Engineer
+6. Research Engineer
 
 📍 Location: San Francisco
 Apply Now
 <https://jobs.ashbyhq.com/openai/240d459b-696d-43eb-8497-fab3e56ecd9b>
-8. Research Engineer, Codex
+7. Research Engineer, Codex
 
 📍 Location: San Francisco
 Apply Now
 <https://jobs.ashbyhq.com/openai/793964ae-d40b-45e3-9798-84f4b6da48c5>
-9. Research Engineer, Privacy
+8. Research Engineer, Privacy
 
 📍 Location: San Francisco
 Apply Now
 <https://jobs.ashbyhq.com/openai/cc434f5b-dc0b-42fd-97ec-e0171545c6e9>
-10. Research Engineer / Research Scientist - Personal AGI, Memory
+9. Research Engineer / Research Scientist - Personal AGI, Memory
 
 📍 Location: San Francisco
 Apply Now
 <https://jobs.ashbyhq.com/openai/29074a51-9cb3-47c9-a8a7-f283cd14fa6c>
-11. Research Engineer/Research Scientist- Personal AGI, Model Experience
+10. Research Engineer/Research Scientist- Personal AGI, Model Experience
 
 📍 Location: San Francisco
 Apply Now
 <https://jobs.ashbyhq.com/openai/872ca3d0-c8c0-4585-9a34-7f9ed6b4dbf9>
-12. Research Engineer/Research Scientist - Personal AGI, North Stars
+11. Research Engineer/Research Scientist - Personal AGI, North Stars
 
 📍 Location: San Francisco
 Apply Now
 <https://jobs.ashbyhq.com/openai/171ebca6-de53-4d6e-a312-30332f353957>
-13. Research Engineer / Research Scientist - Personal AGI, Personalization
+12. Research Engineer / Research Scientist - Personal AGI, Personalization
 
 📍 Location: San Francisco
 Apply Now
 <https://jobs.ashbyhq.com/openai/1bf678c5-1058-45ca-b9bd-b0029fccd60e>
-14. Research Engineer / Research Scientist- Personal AGI (Post Training)
+13. Research Engineer / Research Scientist- Personal AGI (Post Training)
 
 📍 Location: San Francisco
 Apply Now
 <https://jobs.ashbyhq.com/openai/1c516e9f-c97d-4a40-8529-9871dac615a5>
-15. Research Engineer/Research Scientist, RL/Reasoning
+14. Research Engineer/Research Scientist, RL/Reasoning
 
 📍 Location: San Francisco
 Apply Now
 <https://jobs.ashbyhq.com/openai/7e198d81-34e0-48b6-b64e-a501a75f9d53>
-16. Research Scientist
+15. Research Scientist
 
 📍 Location: San Francisco
 Apply Now
 <https://jobs.ashbyhq.com/openai/5f0c6579-0bfb-4a06-8a43-1dd371499e10>
-17. Research Scientist / Research Engineer - Foundations, Search
+16. Research Scientist / Research Engineer - Foundations, Search
 
 📍 Location: San Francisco
 Apply Now
