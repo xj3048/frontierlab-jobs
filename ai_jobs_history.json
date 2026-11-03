@@ -496,9 +496,164 @@
         "apply_link": "https://job-boards.greenhouse.io/xai/jobs/4996796007",
         "company": "X.ai",
         "job_url": null
+      },
+      {
+        "title": "Model Engineer, Imagine",
+        "location": "Palo Alto, CA",
+        "apply_link": "https://job-boards.greenhouse.io/xai/jobs/5051985007",
+        "company": "X.ai",
+        "job_url": null
+      },
+      {
+        "title": "Model Engineer, Mid-training",
+        "location": "Palo Alto, CA",
+        "apply_link": "https://job-boards.greenhouse.io/xai/jobs/4965893007",
+        "company": "X.ai",
+        "job_url": null
+      },
+      {
+        "title": "Model Engineer, Model Training",
+        "location": "Palo Alto, CA; Austin, TX; New York, NY; Seattle, WA",
+        "apply_link": "https://job-boards.greenhouse.io/xai/jobs/5086324007",
+        "company": "X.ai",
+        "job_url": null
+      },
+      {
+        "title": "Model Engineer, Post-Training & RL",
+        "location": "Palo Alto, CA",
+        "apply_link": "https://job-boards.greenhouse.io/xai/jobs/5114737007",
+        "company": "X.ai",
+        "job_url": null
+      },
+      {
+        "title": "Model Engineer, RL Training Framework",
+        "location": "Palo Alto, CA",
+        "apply_link": "https://job-boards.greenhouse.io/xai/jobs/5186992007",
+        "company": "X.ai",
+        "job_url": null
+      },
+      {
+        "title": "Model Engineer, Voice",
+        "location": "Palo Alto, CA",
+        "apply_link": "https://job-boards.greenhouse.io/xai/jobs/5051966007",
+        "company": "X.ai",
+        "job_url": null
+      },
+      {
+        "title": "Sr. Model Engineer, Mid-training",
+        "location": "Palo Alto, CA",
+        "apply_link": "https://job-boards.greenhouse.io/xai/jobs/5280957007",
+        "company": "X.ai",
+        "job_url": null
+      },
+      {
+        "title": "Sr. Model Engineer, Model Training",
+        "location": "Palo Alto, CA; Austin, TX; New York, NY; Seattle, WA",
+        "apply_link": "https://job-boards.greenhouse.io/xai/jobs/5281818007",
+        "company": "X.ai",
+        "job_url": null
+      },
+      {
+        "title": "Sr. Model Engineer, Multimodal Understanding",
+        "location": "Palo Alto, CA",
+        "apply_link": "https://job-boards.greenhouse.io/xai/jobs/5111374007",
+        "company": "X.ai",
+        "job_url": null
+      },
+      {
+        "title": "Sr. Model Engineer, Post-Training & RL",
+        "location": "Palo Alto, CA",
+        "apply_link": "https://job-boards.greenhouse.io/xai/jobs/5280958007",
+        "company": "X.ai",
+        "job_url": null
       }
     ],
-    "ByteDance Seed": [],
+    "ByteDance Seed": [
+      {
+        "title": "大语言模型Code Agent算法工程师-Seed",
+        "location": "北京/上海",
+        "apply_link": "https://jobs.bytedance.com/experienced/position/7631215609552636165/detail",
+        "company": "ByteDance Seed",
+        "job_url": null
+      },
+      {
+        "title": "大语言模型通用Agent算法工程师-Seed",
+        "location": "北京/上海",
+        "apply_link": "https://jobs.bytedance.com/experienced/position/7517205893478451464/detail",
+        "company": "ByteDance Seed",
+        "job_url": null
+      },
+      {
+        "title": "大语言模型强化学习算法工程师-Seed",
+        "location": "北京/上海",
+        "apply_link": "http://job.toutiao.com/society/position/detail/7320519310807599411",
+        "company": "ByteDance Seed",
+        "job_url": null
+      },
+      {
+        "title": "大语言模型预训练算法工程师-Seed",
+        "location": "北京/上海",
+        "apply_link": "http://job.toutiao.com/society/position/detail/7314654316882528538",
+        "company": "ByteDance Seed",
+        "job_url": null
+      },
+      {
+        "title": "机器人仿真工程师（物理引擎方向）-Seed",
+        "location": "北京",
+        "apply_link": "http://job.toutiao.com/society/position/detail/7678223253544044805",
+        "company": "ByteDance Seed",
+        "job_url": null
+      },
+      {
+        "title": "具身智能数据开发工程师-Seed",
+        "location": "北京/上海",
+        "apply_link": "http://job.toutiao.com/society/position/detail/7537536257262487816",
+        "company": "ByteDance Seed",
+        "job_url": null
+      },
+      {
+        "title": "机器人本体结构工程师-Seed Robotics",
+        "location": "北京",
+        "apply_link": "https://jobs.bytedance.com/experienced/position/7626967018851862837/detail",
+        "company": "ByteDance Seed",
+        "job_url": null
+      },
+      {
+        "title": "多模态Agent算法研究员-Seed大模型人才校招",
+        "location": "北京/上海/深圳",
+        "apply_link": "https://jobs.bytedance.com/campus/position/7622206477847038213/detail",
+        "company": "ByteDance Seed",
+        "job_url": null
+      },
+      {
+        "title": "Research Scientist (Seed Model - LLM)",
+        "location": "San Jose",
+        "apply_link": "https://jobs.bytedance.com/en/position/7233349076828490043/detail",
+        "company": "ByteDance Seed",
+        "job_url": null
+      },
+      {
+        "title": "Research Scientist Graduate (Seed Model - LLM) - 2027 Start (PhD)",
+        "location": "San Jose",
+        "apply_link": "https://jobs.bytedance.com/en/position/7623525222555961605/detail",
+        "company": "ByteDance Seed",
+        "job_url": null
+      },
+      {
+        "title": "Student Researcher - (Seed Model - LLM) - 2027 Start (PhD)",
+        "location": "San Jose",
+        "apply_link": "http://job.toutiao.com/en/position/detail/7623539152655632693",
+        "company": "ByteDance Seed",
+        "job_url": null
+      },
+      {
+        "title": "Student Researcher - (Seed Model - AI Foundation Model Infrastructure) - 2027 Start (PhD)",
+        "location": "Seattle",
+        "apply_link": "http://job.toutiao.com/en/position/detail/7623552847531493685",
+        "company": "ByteDance Seed",
+        "job_url": null
+      }
+    ],
     "Thinking Machines": [
       {
         "title": "Brand Designer",
@@ -873,6 +1028,6 @@
       }
     ]
   },
-  "last_updated": "2026-11-03T07:21:37.010599",
-  "total_jobs": 123
+  "last_updated": "2026-11-03T08:12:15.188638",
+  "total_jobs": 145
 }
