@@ -293,6 +293,13 @@
     ],
     "DeepMind": [
       {
+        "title": "Research Engineer, Responsibility, DeepMind",
+        "location": "Mountain View, CA, USA",
+        "apply_link": "https://careers.google.com/jobs/results/116959385791406790-research-engineer-responsibility-deepmind",
+        "company": "DeepMind",
+        "job_url": null
+      },
+      {
         "title": "Research Scientist, Robotics, DeepMind",
         "location": "Cambridge, MA, USA",
         "apply_link": "https://careers.google.com/jobs/results/91166074854089414-research-scientist-robotics-deepmind",
@@ -412,13 +419,6 @@
         "job_url": null
       },
       {
-        "title": "Research Engineer, Machine Learning, GeminiApp Personalization, DeepMind",
-        "location": "Mountain View, CA, USA | San Francisco, CA, USA",
-        "apply_link": "https://careers.google.com/jobs/results/129309404531958470-research-engineer-machine-learning-geminiapp-personalization-deepmind",
-        "company": "DeepMind",
-        "job_url": null
-      },
-      {
         "title": "Research Engineer, Polaris, DeepMind",
         "location": "Mountain View, CA, USA",
         "apply_link": "https://careers.google.com/jobs/results/114077679900074694-research-engineer-polaris-deepmind",
@@ -433,9 +433,9 @@
         "job_url": null
       },
       {
-        "title": "Research Engineering Technical Lead, AlphaEarth, DeepMind",
-        "location": "New York, NY, USA | London, UK",
-        "apply_link": "https://careers.google.com/jobs/results/102468972783248070-research-engineering-technical-lead-alphaearth-deepmind",
+        "title": "Research Scientist, Memory, Reasoning and Continual Learning, DeepMind",
+        "location": "Toronto, ON, Canada",
+        "apply_link": "https://careers.google.com/jobs/results/96791044003111622-research-scientist-memory-reasoning-and-continual-learning-deepmind",
         "company": "DeepMind",
         "job_url": null
       },
@@ -471,20 +471,6 @@
         "title": "Staff Research Scientist/Engineer, Consumer Agents Post Training, DeepMind",
         "location": "Mountain View, CA, USA | Kirkland, WA, USA | New York, NY, USA | San Francisco, CA, USA",
         "apply_link": "https://careers.google.com/jobs/results/120683810973983430-staff-research-scientist-engineer-consumer-agents-post-training-deepmind",
-        "company": "DeepMind",
-        "job_url": null
-      },
-      {
-        "title": "Research Engineer, Responsibility, DeepMind",
-        "location": "Mountain View, CA, USA | New York, NY, USA",
-        "apply_link": "https://careers.google.com/jobs/results/86802325804327622-research-engineer-responsibility-deepmind",
-        "company": "DeepMind",
-        "job_url": null
-      },
-      {
-        "title": "Research Scientist for Gemini Horizon, DeepMind",
-        "location": "Mountain View, CA, USA",
-        "apply_link": "https://careers.google.com/jobs/results/120224767016870598-research-scientist-for-gemini-horizon-deepmind",
         "company": "DeepMind",
         "job_url": null
       }
@@ -1028,6 +1014,6 @@
       }
     ]
   },
-  "last_updated": "2026-11-03T08:12:15.188638",
-  "total_jobs": 145
+  "last_updated": "2026-11-03T13:00:24.028484",
+  "total_jobs": 143
 }
