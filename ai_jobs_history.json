@@ -179,13 +179,6 @@
     ],
     "OpenAI": [
       {
-        "title": "Machine Learning Engineer, API Multicloud",
-        "location": "San Francisco",
-        "apply_link": "https://jobs.ashbyhq.com/openai/5acf4854-1d42-40ca-bff8-4f6f04cdce68",
-        "company": "OpenAI",
-        "job_url": "https://jobs.ashbyhq.com/openai/5acf4854-1d42-40ca-bff8-4f6f04cdce68"
-      },
-      {
         "title": "Machine Learning Engineer, Core Experimentation",
         "location": "Seattle",
         "apply_link": "https://jobs.ashbyhq.com/openai/9d4d2727-27f3-4a63-857c-a96466130645",
@@ -677,5 +670,5 @@
     ]
   },
   "last_updated": "2026-11-03T05:50:27.771822",
-  "total_jobs": 95
+  "total_jobs": 94
 }
