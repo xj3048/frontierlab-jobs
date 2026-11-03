@@ -291,7 +291,204 @@
         "job_url": "https://jobs.ashbyhq.com/openai/020b2aae-8be0-408c-ab49-20eefa8541af"
       }
     ],
-    "DeepMind": [],
+    "DeepMind": [
+      {
+        "title": "Research Scientist, Robotics, DeepMind",
+        "location": "Cambridge, MA, USA",
+        "apply_link": "https://careers.google.com/jobs/results/91166074854089414-research-scientist-robotics-deepmind",
+        "company": "DeepMind",
+        "job_url": null
+      },
+      {
+        "title": "Senior Staff Research Scientist/Engineer, Consumer Agents Post Training, DeepMind",
+        "location": "Mountain View, CA, USA | Kirkland, WA, USA | San Francisco, CA, USA | New York, NY, USA",
+        "apply_link": "https://careers.google.com/jobs/results/119625608341660358-senior-staff-research-scientist-engineer-consumer-agents-post-training-deepmind",
+        "company": "DeepMind",
+        "job_url": null
+      },
+      {
+        "title": "Research Scientist, User Signals from Agentic Logs, DeepMind",
+        "location": "Zürich, Switzerland",
+        "apply_link": "https://careers.google.com/jobs/results/104448828152652486-research-scientist-user-signals-from-agentic-logs-deepmind",
+        "company": "DeepMind",
+        "job_url": null
+      },
+      {
+        "title": "Research Scientist, Robotics RL, DeepMind",
+        "location": "London, UK",
+        "apply_link": "https://careers.google.com/jobs/results/90064879599133382-research-scientist-robotics-rl-deepmind",
+        "company": "DeepMind",
+        "job_url": null
+      },
+      {
+        "title": "Research Engineer, Gemini Large Scale Pretraining, DeepMind",
+        "location": "London, UK | Mountain View, CA, USA",
+        "apply_link": "https://careers.google.com/jobs/results/142611399284007622-research-engineer-gemini-large-scale-pretraining-deepmind",
+        "company": "DeepMind",
+        "job_url": null
+      },
+      {
+        "title": "Research Engineer, Gemini Personalization Research, DeepMind",
+        "location": "Mountain View, CA, USA",
+        "apply_link": "https://careers.google.com/jobs/results/79768134398943942-research-engineer-gemini-personalization-research-deepmind",
+        "company": "DeepMind",
+        "job_url": null
+      },
+      {
+        "title": "Staff Research Engineer, GenAI Reinforcement Learning, DeepMind",
+        "location": "Mountain View, CA, USA",
+        "apply_link": "https://careers.google.com/jobs/results/114314436751041222-staff-research-engineer-genai-reinforcement-learning-deepmind",
+        "company": "DeepMind",
+        "job_url": null
+      },
+      {
+        "title": "Staff Research Engineer, Applied AI, DeepMind",
+        "location": "Singapore",
+        "apply_link": "https://careers.google.com/jobs/results/110885490286043846-staff-research-engineer-applied-ai-deepmind",
+        "company": "DeepMind",
+        "job_url": null
+      },
+      {
+        "title": "Senior Staff Research Scientist, Gemini Research, DeepMind",
+        "location": "Mountain View, CA, USA",
+        "apply_link": "https://careers.google.com/jobs/results/112725365423514310-senior-staff-research-scientist-gemini-research-deepmind",
+        "company": "DeepMind",
+        "job_url": null
+      },
+      {
+        "title": "Research Scientist, SAMBA, DeepMind",
+        "location": "New York, NY, USA",
+        "apply_link": "https://careers.google.com/jobs/results/137845506809176774-research-scientist-samba-deepmind",
+        "company": "DeepMind",
+        "job_url": null
+      },
+      {
+        "title": "Research Scientist, GenAI, DeepMind",
+        "location": "Mountain View, CA, USA",
+        "apply_link": "https://careers.google.com/jobs/results/83823330850677446-research-scientist-genai-deepmind",
+        "company": "DeepMind",
+        "job_url": null
+      },
+      {
+        "title": "Research Engineer, Gen Media, DeepMind",
+        "location": "Mountain View, CA, USA",
+        "apply_link": "https://careers.google.com/jobs/results/114469614724752070-research-engineer-gen-media-deepmind",
+        "company": "DeepMind",
+        "job_url": null
+      },
+      {
+        "title": "Staff Research Engineer, Applied AI, DeepMind",
+        "location": "Mountain View, CA, USA",
+        "apply_link": "https://careers.google.com/jobs/results/80207760003605190-staff-research-engineer-applied-ai-deepmind",
+        "company": "DeepMind",
+        "job_url": null
+      },
+      {
+        "title": "Lead Research Engineer, Bioresilience, DeepMind",
+        "location": "London, UK",
+        "apply_link": "https://careers.google.com/jobs/results/111033915765859014-lead-research-engineer-bioresilience-deepmind",
+        "company": "DeepMind",
+        "job_url": null
+      },
+      {
+        "title": "Research Engineer, Bioresilience, DeepMind",
+        "location": "London, UK",
+        "apply_link": "https://careers.google.com/jobs/results/121101044229776070-research-engineer-bioresilience-deepmind",
+        "company": "DeepMind",
+        "job_url": null
+      },
+      {
+        "title": "Research Scientist, Multisensor Robotics, DeepMind",
+        "location": "London, UK",
+        "apply_link": "https://careers.google.com/jobs/results/79137469185827526-research-scientist-multisensor-robotics-deepmind",
+        "company": "DeepMind",
+        "job_url": null
+      },
+      {
+        "title": "Research Engineer, Multi-Agent Learning, DeepMind",
+        "location": "London, UK",
+        "apply_link": "https://careers.google.com/jobs/results/101218541104964294-research-engineer-multi-agent-learning-deepmind",
+        "company": "DeepMind",
+        "job_url": null
+      },
+      {
+        "title": "Research Engineer, Machine Learning, GeminiApp Personalization, DeepMind",
+        "location": "Mountain View, CA, USA | San Francisco, CA, USA",
+        "apply_link": "https://careers.google.com/jobs/results/129309404531958470-research-engineer-machine-learning-geminiapp-personalization-deepmind",
+        "company": "DeepMind",
+        "job_url": null
+      },
+      {
+        "title": "Research Engineer, Polaris, DeepMind",
+        "location": "Mountain View, CA, USA",
+        "apply_link": "https://careers.google.com/jobs/results/114077679900074694-research-engineer-polaris-deepmind",
+        "company": "DeepMind",
+        "job_url": null
+      },
+      {
+        "title": "Research Scientist, Gemini Commercial Intelligence, DeepMind",
+        "location": "Mountain View, CA, USA",
+        "apply_link": "https://careers.google.com/jobs/results/72530409325241030-research-scientist-gemini-commercial-intelligence-deepmind",
+        "company": "DeepMind",
+        "job_url": null
+      },
+      {
+        "title": "Research Engineering Technical Lead, AlphaEarth, DeepMind",
+        "location": "New York, NY, USA | London, UK",
+        "apply_link": "https://careers.google.com/jobs/results/102468972783248070-research-engineering-technical-lead-alphaearth-deepmind",
+        "company": "DeepMind",
+        "job_url": null
+      },
+      {
+        "title": "Research Engineer, Robotics, DeepMind",
+        "location": "Cambridge, MA, USA",
+        "apply_link": "https://careers.google.com/jobs/results/100032880217858758-research-engineer-robotics-deepmind",
+        "company": "DeepMind",
+        "job_url": null
+      },
+      {
+        "title": "Senior Research Engineer, Embodied Generalist Agent, Gaming, DeepMind",
+        "location": "Tokyo, Japan",
+        "apply_link": "https://careers.google.com/jobs/results/80298705936097990-senior-research-engineer-embodied-generalist-agent-gaming-deepmind",
+        "company": "DeepMind",
+        "job_url": null
+      },
+      {
+        "title": "Research Scientist, Agents, DeepMind",
+        "location": "Bengaluru, Karnataka, India",
+        "apply_link": "https://careers.google.com/jobs/results/82988974666064582-research-scientist-agents-deepmind",
+        "company": "DeepMind",
+        "job_url": null
+      },
+      {
+        "title": "Research Scientist, Gemini Vision, DeepMind",
+        "location": "Mountain View, CA, USA | Zürich, Switzerland | Los Angeles, CA, USA | New York, NY, USA",
+        "apply_link": "https://careers.google.com/jobs/results/123047855462982342-research-scientist-gemini-vision-deepmind",
+        "company": "DeepMind",
+        "job_url": null
+      },
+      {
+        "title": "Staff Research Scientist/Engineer, Consumer Agents Post Training, DeepMind",
+        "location": "Mountain View, CA, USA | Kirkland, WA, USA | New York, NY, USA | San Francisco, CA, USA",
+        "apply_link": "https://careers.google.com/jobs/results/120683810973983430-staff-research-scientist-engineer-consumer-agents-post-training-deepmind",
+        "company": "DeepMind",
+        "job_url": null
+      },
+      {
+        "title": "Research Engineer, Responsibility, DeepMind",
+        "location": "Mountain View, CA, USA | New York, NY, USA",
+        "apply_link": "https://careers.google.com/jobs/results/86802325804327622-research-engineer-responsibility-deepmind",
+        "company": "DeepMind",
+        "job_url": null
+      },
+      {
+        "title": "Research Scientist for Gemini Horizon, DeepMind",
+        "location": "Mountain View, CA, USA",
+        "apply_link": "https://careers.google.com/jobs/results/120224767016870598-research-scientist-for-gemini-horizon-deepmind",
+        "company": "DeepMind",
+        "job_url": null
+      }
+    ],
     "X.ai": [
       {
         "title": "Machine Learning Engineer, Ads",
@@ -676,6 +873,6 @@
       }
     ]
   },
-  "last_updated": "2026-11-03T06:09:30.685913",
-  "total_jobs": 95
+  "last_updated": "2026-11-03T06:42:09.687494",
+  "total_jobs": 123
 }
