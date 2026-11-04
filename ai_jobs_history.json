@@ -454,6 +454,13 @@
         "job_url": null
       },
       {
+        "title": "Research Scientist, Harmful Manipulation, DeepMind",
+        "location": "New York, NY, USA | London, UK | Mountain View, CA, USA",
+        "apply_link": "https://careers.google.com/jobs/results/123221070151852742-research-scientist-harmful-manipulation-deepmind",
+        "company": "DeepMind",
+        "job_url": null
+      },
+      {
         "title": "Research Scientist, Agents, DeepMind",
         "location": "Bengaluru, Karnataka, India",
         "apply_link": "https://careers.google.com/jobs/results/82988974666064582-research-scientist-agents-deepmind",
@@ -696,6 +703,13 @@
         "apply_link": "https://jobs.ashbyhq.com/ThinkingMachines/c190a799-fa73-4f38-b44a-85871968c094",
         "company": "Thinking Machines",
         "job_url": "https://jobs.ashbyhq.com/ThinkingMachines/c190a799-fa73-4f38-b44a-85871968c094"
+      },
+      {
+        "title": "Head of Revenue Operations",
+        "location": "San Francisco",
+        "apply_link": "https://jobs.ashbyhq.com/ThinkingMachines/c199591a-01b0-445d-9ad2-70a46b2e34a5",
+        "company": "Thinking Machines",
+        "job_url": "https://jobs.ashbyhq.com/ThinkingMachines/c199591a-01b0-445d-9ad2-70a46b2e34a5"
       },
       {
         "title": "HR Business Partner",
@@ -1014,6 +1028,6 @@
       }
     ]
   },
-  "last_updated": "2026-11-03T13:00:24.028484",
-  "total_jobs": 143
+  "last_updated": "2026-11-04T13:00:08.861619",
+  "total_jobs": 145
 }
