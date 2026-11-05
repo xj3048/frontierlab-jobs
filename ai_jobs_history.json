@@ -349,6 +349,13 @@
         "job_url": null
       },
       {
+        "title": "Research Scientist, GenAI BigML, DeepMind",
+        "location": "New York, NY, USA",
+        "apply_link": "https://careers.google.com/jobs/results/109744201511379654-research-scientist-genai-bigml-deepmind",
+        "company": "DeepMind",
+        "job_url": null
+      },
+      {
         "title": "Staff Research Engineer, Applied AI, DeepMind",
         "location": "Singapore",
         "apply_link": "https://careers.google.com/jobs/results/110885490286043846-staff-research-engineer-applied-ai-deepmind",
@@ -498,16 +505,9 @@
         "job_url": null
       },
       {
-        "title": "Model Engineer, Mid-training",
+        "title": "Model Engineer, Mid-Training",
         "location": "Palo Alto, CA",
         "apply_link": "https://job-boards.greenhouse.io/xai/jobs/4965893007",
-        "company": "X.ai",
-        "job_url": null
-      },
-      {
-        "title": "Model Engineer, Model Training",
-        "location": "Palo Alto, CA; Austin, TX; New York, NY; Seattle, WA",
-        "apply_link": "https://job-boards.greenhouse.io/xai/jobs/5086324007",
         "company": "X.ai",
         "job_url": null
       },
@@ -533,16 +533,9 @@
         "job_url": null
       },
       {
-        "title": "Sr. Model Engineer, Mid-training",
+        "title": "Sr. Model Engineer, Mid-Training",
         "location": "Palo Alto, CA",
         "apply_link": "https://job-boards.greenhouse.io/xai/jobs/5280957007",
-        "company": "X.ai",
-        "job_url": null
-      },
-      {
-        "title": "Sr. Model Engineer, Model Training",
-        "location": "Palo Alto, CA; Austin, TX; New York, NY; Seattle, WA",
-        "apply_link": "https://job-boards.greenhouse.io/xai/jobs/5281818007",
         "company": "X.ai",
         "job_url": null
       },
@@ -557,6 +550,13 @@
         "title": "Sr. Model Engineer, Post-Training & RL",
         "location": "Palo Alto, CA",
         "apply_link": "https://job-boards.greenhouse.io/xai/jobs/5280958007",
+        "company": "X.ai",
+        "job_url": null
+      },
+      {
+        "title": "Sr. Model Engineer, RL Training Framework",
+        "location": "Palo Alto, CA",
+        "apply_link": "https://job-boards.greenhouse.io/xai/jobs/5280951007",
         "company": "X.ai",
         "job_url": null
       }
@@ -1028,6 +1028,6 @@
       }
     ]
   },
-  "last_updated": "2026-11-04T13:00:08.861619",
+  "last_updated": "2026-11-05T13:00:16.426169",
   "total_jobs": 145
 }
