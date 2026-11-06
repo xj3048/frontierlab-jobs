@@ -121,6 +121,13 @@
         "job_url": null
       },
       {
+        "title": "Research Scientist, Discovery (Engineering & Applied Sciences)",
+        "location": "San Francisco, CA",
+        "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5468937008",
+        "company": "Anthropic",
+        "job_url": null
+      },
+      {
         "title": "Research Scientist, Interpretability",
         "location": "San Francisco, CA",
         "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/4980427008",
@@ -426,6 +433,13 @@
         "job_url": null
       },
       {
+        "title": "Staff Research Engineer, Expressive Motion and Believability, DeepMind",
+        "location": "San Francisco, CA, USA | Mountain View, CA, USA",
+        "apply_link": "https://careers.google.com/jobs/results/139378848788554438-staff-research-engineer-expressive-motion-and-believability-deepmind",
+        "company": "DeepMind",
+        "job_url": null
+      },
+      {
         "title": "Research Engineer, Polaris, DeepMind",
         "location": "Mountain View, CA, USA",
         "apply_link": "https://careers.google.com/jobs/results/114077679900074694-research-engineer-polaris-deepmind",
@@ -491,13 +505,6 @@
     ],
     "X.ai": [
       {
-        "title": "Machine Learning Engineer, Ads",
-        "location": "Palo Alto, CA",
-        "apply_link": "https://job-boards.greenhouse.io/xai/jobs/4996796007",
-        "company": "X.ai",
-        "job_url": null
-      },
-      {
         "title": "Model Engineer, Imagine",
         "location": "Palo Alto, CA",
         "apply_link": "https://job-boards.greenhouse.io/xai/jobs/5051985007",
@@ -508,6 +515,13 @@
         "title": "Model Engineer, Mid-Training",
         "location": "Palo Alto, CA",
         "apply_link": "https://job-boards.greenhouse.io/xai/jobs/4965893007",
+        "company": "X.ai",
+        "job_url": null
+      },
+      {
+        "title": "Model Engineer, Multimodal Understanding",
+        "location": "Palo Alto, CA",
+        "apply_link": "https://job-boards.greenhouse.io/xai/jobs/5286976007",
         "company": "X.ai",
         "job_url": null
       },
@@ -529,6 +543,13 @@
         "title": "Model Engineer, Voice",
         "location": "Palo Alto, CA",
         "apply_link": "https://job-boards.greenhouse.io/xai/jobs/5051966007",
+        "company": "X.ai",
+        "job_url": null
+      },
+      {
+        "title": "Sr. Machine Learning Engineer, Ads",
+        "location": "Palo Alto, CA",
+        "apply_link": "https://job-boards.greenhouse.io/xai/jobs/4996796007",
         "company": "X.ai",
         "job_url": null
       },
@@ -656,6 +677,13 @@
         "job_url": "https://jobs.ashbyhq.com/ThinkingMachines/9ab3e86f-b636-4a75-867c-4ffd04d7b87d"
       },
       {
+        "title": "Business Recruiter",
+        "location": "San Francisco",
+        "apply_link": "https://jobs.ashbyhq.com/ThinkingMachines/b47907dc-a08e-4a58-9b46-5d86417cfa57",
+        "company": "Thinking Machines",
+        "job_url": "https://jobs.ashbyhq.com/ThinkingMachines/b47907dc-a08e-4a58-9b46-5d86417cfa57"
+      },
+      {
         "title": "Data Partnerships",
         "location": "San Francisco",
         "apply_link": "https://jobs.ashbyhq.com/ThinkingMachines/28e2d71f-dabd-4745-9903-9b363979f0aa",
@@ -745,6 +773,13 @@
         "apply_link": "https://jobs.ashbyhq.com/ThinkingMachines/9f346787-6193-4045-937f-4354d39c2a74",
         "company": "Thinking Machines",
         "job_url": "https://jobs.ashbyhq.com/ThinkingMachines/9f346787-6193-4045-937f-4354d39c2a74"
+      },
+      {
+        "title": "Product Management Recruiter",
+        "location": "San Francisco",
+        "apply_link": "https://jobs.ashbyhq.com/ThinkingMachines/3d90697c-362e-4b6e-8600-e1d39115c6cd",
+        "company": "Thinking Machines",
+        "job_url": "https://jobs.ashbyhq.com/ThinkingMachines/3d90697c-362e-4b6e-8600-e1d39115c6cd"
       },
       {
         "title": "Product Manager - Deployment",
@@ -1013,6 +1048,20 @@
         "job_url": "https://jobs.ashbyhq.com/ThinkingMachines/8db05c24-7751-4923-a6d7-05bbfcebf069"
       },
       {
+        "title": "Technical Recruiter",
+        "location": "San Francisco",
+        "apply_link": "https://jobs.ashbyhq.com/ThinkingMachines/39d630ce-af8d-404c-a7eb-cbaac2f96b24",
+        "company": "Thinking Machines",
+        "job_url": "https://jobs.ashbyhq.com/ThinkingMachines/39d630ce-af8d-404c-a7eb-cbaac2f96b24"
+      },
+      {
+        "title": "Technical Recruiter: Security",
+        "location": "San Francisco",
+        "apply_link": "https://jobs.ashbyhq.com/ThinkingMachines/fa72912b-78b7-40ae-8a54-c2a524675f2c",
+        "company": "Thinking Machines",
+        "job_url": "https://jobs.ashbyhq.com/ThinkingMachines/fa72912b-78b7-40ae-8a54-c2a524675f2c"
+      },
+      {
         "title": "Technical Sourcer",
         "location": "San Francisco",
         "apply_link": "https://jobs.ashbyhq.com/ThinkingMachines/0b0b63c8-79b6-4901-9861-4a7f98370d30",
@@ -1028,6 +1077,6 @@
       }
     ]
   },
-  "last_updated": "2026-11-05T13:00:16.426169",
-  "total_jobs": 145
+  "last_updated": "2026-11-06T13:00:14.913905",
+  "total_jobs": 152
 }
