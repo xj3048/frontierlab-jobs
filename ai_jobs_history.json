@@ -242,39 +242,39 @@
         "job_url": "https://jobs.ashbyhq.com/openai/cc434f5b-dc0b-42fd-97ec-e0171545c6e9"
       },
       {
-        "title": "Research Engineer / Research Scientist - Personal AGI, Memory",
+        "title": "Research Engineer / Research Scientist- Post Training",
+        "location": "San Francisco",
+        "apply_link": "https://jobs.ashbyhq.com/openai/1c516e9f-c97d-4a40-8529-9871dac615a5",
+        "company": "OpenAI",
+        "job_url": "https://jobs.ashbyhq.com/openai/1c516e9f-c97d-4a40-8529-9871dac615a5"
+      },
+      {
+        "title": "Research Engineer / Research Scientist - Post Training, Memory",
         "location": "San Francisco",
         "apply_link": "https://jobs.ashbyhq.com/openai/29074a51-9cb3-47c9-a8a7-f283cd14fa6c",
         "company": "OpenAI",
         "job_url": "https://jobs.ashbyhq.com/openai/29074a51-9cb3-47c9-a8a7-f283cd14fa6c"
       },
       {
-        "title": "Research Engineer/Research Scientist- Personal AGI, Model Experience",
+        "title": "Research Engineer/Research Scientist- Post Training, Model Experience",
         "location": "San Francisco",
         "apply_link": "https://jobs.ashbyhq.com/openai/872ca3d0-c8c0-4585-9a34-7f9ed6b4dbf9",
         "company": "OpenAI",
         "job_url": "https://jobs.ashbyhq.com/openai/872ca3d0-c8c0-4585-9a34-7f9ed6b4dbf9"
       },
       {
-        "title": "Research Engineer/Research Scientist - Personal AGI, North Stars",
+        "title": "Research Engineer/Research Scientist - Post Training, North Stars",
         "location": "San Francisco",
         "apply_link": "https://jobs.ashbyhq.com/openai/171ebca6-de53-4d6e-a312-30332f353957",
         "company": "OpenAI",
         "job_url": "https://jobs.ashbyhq.com/openai/171ebca6-de53-4d6e-a312-30332f353957"
       },
       {
-        "title": "Research Engineer / Research Scientist - Personal AGI, Personalization ",
+        "title": "Research Engineer / Research Scientist - Post Training, Personalization ",
         "location": "San Francisco",
         "apply_link": "https://jobs.ashbyhq.com/openai/1bf678c5-1058-45ca-b9bd-b0029fccd60e",
         "company": "OpenAI",
         "job_url": "https://jobs.ashbyhq.com/openai/1bf678c5-1058-45ca-b9bd-b0029fccd60e"
-      },
-      {
-        "title": "Research Engineer / Research Scientist- Personal AGI (Post Training)",
-        "location": "San Francisco",
-        "apply_link": "https://jobs.ashbyhq.com/openai/1c516e9f-c97d-4a40-8529-9871dac615a5",
-        "company": "OpenAI",
-        "job_url": "https://jobs.ashbyhq.com/openai/1c516e9f-c97d-4a40-8529-9871dac615a5"
       },
       {
         "title": "Research Engineer/Research Scientist, RL/Reasoning",
@@ -554,6 +554,13 @@
         "job_url": null
       },
       {
+        "title": "Sr. Model Engineer, Imagine",
+        "location": "Palo Alto, CA",
+        "apply_link": "https://job-boards.greenhouse.io/xai/jobs/5286975007",
+        "company": "X.ai",
+        "job_url": null
+      },
+      {
         "title": "Sr. Model Engineer, Mid-Training",
         "location": "Palo Alto, CA",
         "apply_link": "https://job-boards.greenhouse.io/xai/jobs/5280957007",
@@ -578,6 +585,13 @@
         "title": "Sr. Model Engineer, RL Training Framework",
         "location": "Palo Alto, CA",
         "apply_link": "https://job-boards.greenhouse.io/xai/jobs/5280951007",
+        "company": "X.ai",
+        "job_url": null
+      },
+      {
+        "title": "Sr. Model Engineer, Voice",
+        "location": "Palo Alto, CA",
+        "apply_link": "https://job-boards.greenhouse.io/xai/jobs/5286973007",
         "company": "X.ai",
         "job_url": null
       }
@@ -782,7 +796,7 @@
         "job_url": "https://jobs.ashbyhq.com/ThinkingMachines/3d90697c-362e-4b6e-8600-e1d39115c6cd"
       },
       {
-        "title": "Product Manager - Deployment",
+        "title": "Product Manager",
         "location": "San Francisco",
         "apply_link": "https://jobs.ashbyhq.com/ThinkingMachines/079f3334-43ae-4ee7-9671-1dbad75dd8df",
         "company": "Thinking Machines",
@@ -1077,6 +1091,6 @@
       }
     ]
   },
-  "last_updated": "2026-11-06T13:00:14.913905",
-  "total_jobs": 152
+  "last_updated": "2026-11-07T13:00:23.314854",
+  "total_jobs": 154
 }
