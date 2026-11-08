@@ -494,13 +494,6 @@
         "apply_link": "https://careers.google.com/jobs/results/123047855462982342-research-scientist-gemini-vision-deepmind",
         "company": "DeepMind",
         "job_url": null
-      },
-      {
-        "title": "Staff Research Scientist/Engineer, Consumer Agents Post Training, DeepMind",
-        "location": "Mountain View, CA, USA | Kirkland, WA, USA | New York, NY, USA | San Francisco, CA, USA",
-        "apply_link": "https://careers.google.com/jobs/results/120683810973983430-staff-research-scientist-engineer-consumer-agents-post-training-deepmind",
-        "company": "DeepMind",
-        "job_url": null
       }
     ],
     "X.ai": [
@@ -1091,6 +1084,6 @@
       }
     ]
   },
-  "last_updated": "2026-11-07T13:00:23.314854",
-  "total_jobs": 154
+  "last_updated": "2026-11-08T13:00:15.990508",
+  "total_jobs": 153
 }
