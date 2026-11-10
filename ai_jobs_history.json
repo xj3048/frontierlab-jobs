@@ -9,6 +9,13 @@
         "job_url": null
       },
       {
+        "title": "[C] Research Engineer, Discovery",
+        "location": "San Francisco, CA | New York City, NY",
+        "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5467305008",
+        "company": "Anthropic",
+        "job_url": null
+      },
+      {
         "title": "[Expression of Interest] Research Engineer / Scientist, Alignment - London",
         "location": "London, UK",
         "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/4610158008",
@@ -117,6 +124,13 @@
         "title": "Research Engineer, Visual Knowledge Work",
         "location": "New York City, NY; San Francisco, CA; Seattle, WA",
         "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5074217008",
+        "company": "Anthropic",
+        "job_url": null
+      },
+      {
+        "title": "Research Scientist, Discovery (Engineering & Applied Sciences)",
+        "location": "San Francisco, CA | New York City, NY",
+        "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5468930008",
         "company": "Anthropic",
         "job_url": null
       },
@@ -300,13 +314,6 @@
     ],
     "DeepMind": [
       {
-        "title": "Research Engineer, Responsibility, DeepMind",
-        "location": "Mountain View, CA, USA",
-        "apply_link": "https://careers.google.com/jobs/results/116959385791406790-research-engineer-responsibility-deepmind",
-        "company": "DeepMind",
-        "job_url": null
-      },
-      {
         "title": "Research Scientist, Robotics, DeepMind",
         "location": "Cambridge, MA, USA",
         "apply_link": "https://careers.google.com/jobs/results/91166074854089414-research-scientist-robotics-deepmind",
@@ -342,6 +349,13 @@
         "job_url": null
       },
       {
+        "title": "Research Scientist, Mechanistic Interpretability, DeepMind",
+        "location": "London, UK",
+        "apply_link": "https://careers.google.com/jobs/results/91184735144813254-research-scientist-mechanistic-interpretability-deepmind",
+        "company": "DeepMind",
+        "job_url": null
+      },
+      {
         "title": "Research Engineer, Gemini Personalization Research, DeepMind",
         "location": "Mountain View, CA, USA",
         "apply_link": "https://careers.google.com/jobs/results/79768134398943942-research-engineer-gemini-personalization-research-deepmind",
@@ -357,7 +371,7 @@
       },
       {
         "title": "Research Scientist, GenAI BigML, DeepMind",
-        "location": "New York, NY, USA",
+        "location": "New York, NY, USA | Mountain View, CA, USA",
         "apply_link": "https://careers.google.com/jobs/results/109744201511379654-research-scientist-genai-bigml-deepmind",
         "company": "DeepMind",
         "job_url": null
@@ -505,23 +519,9 @@
     ],
     "X.ai": [
       {
-        "title": "Model Engineer, Imagine",
-        "location": "Palo Alto, CA",
-        "apply_link": "https://job-boards.greenhouse.io/xai/jobs/5051985007",
-        "company": "X.ai",
-        "job_url": null
-      },
-      {
         "title": "Model Engineer, Mid-Training",
         "location": "Palo Alto, CA",
         "apply_link": "https://job-boards.greenhouse.io/xai/jobs/4965893007",
-        "company": "X.ai",
-        "job_url": null
-      },
-      {
-        "title": "Model Engineer, Multimodal Understanding",
-        "location": "Palo Alto, CA",
-        "apply_link": "https://job-boards.greenhouse.io/xai/jobs/5286976007",
         "company": "X.ai",
         "job_url": null
       },
@@ -554,23 +554,9 @@
         "job_url": null
       },
       {
-        "title": "Sr. Model Engineer, Imagine",
-        "location": "Palo Alto, CA",
-        "apply_link": "https://job-boards.greenhouse.io/xai/jobs/5286975007",
-        "company": "X.ai",
-        "job_url": null
-      },
-      {
         "title": "Sr. Model Engineer, Mid-Training",
         "location": "Palo Alto, CA",
         "apply_link": "https://job-boards.greenhouse.io/xai/jobs/5280957007",
-        "company": "X.ai",
-        "job_url": null
-      },
-      {
-        "title": "Sr. Model Engineer, Multimodal Understanding",
-        "location": "Palo Alto, CA",
-        "apply_link": "https://job-boards.greenhouse.io/xai/jobs/5111374007",
         "company": "X.ai",
         "job_url": null
       },
@@ -873,6 +859,13 @@
         "job_url": "https://jobs.ashbyhq.com/ThinkingMachines/a5559c53-7085-45ff-8a0f-5e47b5e822bc"
       },
       {
+        "title": "Researcher, Policy",
+        "location": "San Francisco",
+        "apply_link": "https://jobs.ashbyhq.com/ThinkingMachines/2628909c-b655-4475-b0f5-fbadf7e9992f",
+        "company": "Thinking Machines",
+        "job_url": "https://jobs.ashbyhq.com/ThinkingMachines/2628909c-b655-4475-b0f5-fbadf7e9992f"
+      },
+      {
         "title": "Research, Finetuning Science",
         "location": "San Francisco",
         "apply_link": "https://jobs.ashbyhq.com/ThinkingMachines/0a71cb88-068b-4ac6-9912-e498c49b1343",
@@ -955,13 +948,6 @@
         "apply_link": "https://jobs.ashbyhq.com/ThinkingMachines/2d72cec2-bad2-4d70-9b55-ee1dd73dc3d4",
         "company": "Thinking Machines",
         "job_url": "https://jobs.ashbyhq.com/ThinkingMachines/2d72cec2-bad2-4d70-9b55-ee1dd73dc3d4"
-      },
-      {
-        "title": "Safety Operations Lead",
-        "location": "San Francisco",
-        "apply_link": "https://jobs.ashbyhq.com/ThinkingMachines/9d1124f7-7f78-4e8d-a033-568c315826eb",
-        "company": "Thinking Machines",
-        "job_url": "https://jobs.ashbyhq.com/ThinkingMachines/9d1124f7-7f78-4e8d-a033-568c315826eb"
       },
       {
         "title": "Security Engineer, Detection & Response",
@@ -1091,6 +1077,6 @@
       }
     ]
   },
-  "last_updated": "2026-11-09T13:00:13.887169",
-  "total_jobs": 154
+  "last_updated": "2026-11-10T13:00:21.862265",
+  "total_jobs": 152
 }
