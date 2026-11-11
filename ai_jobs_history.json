@@ -314,6 +314,13 @@
     ],
     "DeepMind": [
       {
+        "title": "Research Scientist, Provenance, DeepMind",
+        "location": "London, UK",
+        "apply_link": "https://careers.google.com/jobs/results/116759032009499334-research-scientist-provenance-deepmind",
+        "company": "DeepMind",
+        "job_url": null
+      },
+      {
         "title": "Research Scientist, Robotics, DeepMind",
         "location": "Cambridge, MA, USA",
         "apply_link": "https://careers.google.com/jobs/results/91166074854089414-research-scientist-robotics-deepmind",
@@ -515,6 +522,13 @@
         "apply_link": "https://careers.google.com/jobs/results/120683810973983430-staff-research-scientist-engineer-consumer-agents-post-training-deepmind",
         "company": "DeepMind",
         "job_url": null
+      },
+      {
+        "title": "Frontier AI Research Scientist, DeepMind",
+        "location": "Mountain View, CA, USA",
+        "apply_link": "https://careers.google.com/jobs/results/95821221060321990-frontier-ai-research-scientist-deepmind",
+        "company": "DeepMind",
+        "job_url": null
       }
     ],
     "X.ai": [
@@ -691,13 +705,6 @@
         "job_url": "https://jobs.ashbyhq.com/ThinkingMachines/28e2d71f-dabd-4745-9903-9b363979f0aa"
       },
       {
-        "title": "Developer Relations Engineer",
-        "location": "San Francisco",
-        "apply_link": "https://jobs.ashbyhq.com/ThinkingMachines/25a113b5-f4ec-4e61-a20d-041fff725d7d",
-        "company": "Thinking Machines",
-        "job_url": "https://jobs.ashbyhq.com/ThinkingMachines/25a113b5-f4ec-4e61-a20d-041fff725d7d"
-      },
-      {
         "title": "Engineering Manager",
         "location": "San Francisco",
         "apply_link": "https://jobs.ashbyhq.com/ThinkingMachines/1161c2d5-17a1-41cb-a2c8-5558d5e42acb",
@@ -773,6 +780,13 @@
         "apply_link": "https://jobs.ashbyhq.com/ThinkingMachines/9f346787-6193-4045-937f-4354d39c2a74",
         "company": "Thinking Machines",
         "job_url": "https://jobs.ashbyhq.com/ThinkingMachines/9f346787-6193-4045-937f-4354d39c2a74"
+      },
+      {
+        "title": "Policy Researcher",
+        "location": "San Francisco",
+        "apply_link": "https://jobs.ashbyhq.com/ThinkingMachines/2628909c-b655-4475-b0f5-fbadf7e9992f",
+        "company": "Thinking Machines",
+        "job_url": "https://jobs.ashbyhq.com/ThinkingMachines/2628909c-b655-4475-b0f5-fbadf7e9992f"
       },
       {
         "title": "Product Management Recruiter",
@@ -857,13 +871,6 @@
         "apply_link": "https://jobs.ashbyhq.com/ThinkingMachines/a5559c53-7085-45ff-8a0f-5e47b5e822bc",
         "company": "Thinking Machines",
         "job_url": "https://jobs.ashbyhq.com/ThinkingMachines/a5559c53-7085-45ff-8a0f-5e47b5e822bc"
-      },
-      {
-        "title": "Researcher, Policy",
-        "location": "San Francisco",
-        "apply_link": "https://jobs.ashbyhq.com/ThinkingMachines/2628909c-b655-4475-b0f5-fbadf7e9992f",
-        "company": "Thinking Machines",
-        "job_url": "https://jobs.ashbyhq.com/ThinkingMachines/2628909c-b655-4475-b0f5-fbadf7e9992f"
       },
       {
         "title": "Research, Finetuning Science",
@@ -1067,16 +1074,9 @@
         "apply_link": "https://jobs.ashbyhq.com/ThinkingMachines/0b0b63c8-79b6-4901-9861-4a7f98370d30",
         "company": "Thinking Machines",
         "job_url": "https://jobs.ashbyhq.com/ThinkingMachines/0b0b63c8-79b6-4901-9861-4a7f98370d30"
-      },
-      {
-        "title": "Tinkerer",
-        "location": "San Francisco",
-        "apply_link": "https://jobs.ashbyhq.com/ThinkingMachines/7b75cf3d-979d-423e-bbb4-652a5d659abb",
-        "company": "Thinking Machines",
-        "job_url": "https://jobs.ashbyhq.com/ThinkingMachines/7b75cf3d-979d-423e-bbb4-652a5d659abb"
       }
     ]
   },
-  "last_updated": "2026-11-10T13:00:21.862265",
+  "last_updated": "2026-11-11T13:00:13.390506",
   "total_jobs": 152
 }
