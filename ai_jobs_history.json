@@ -349,13 +349,6 @@
         "job_url": null
       },
       {
-        "title": "Research Engineer, Gemini Large Scale Pretraining, DeepMind",
-        "location": "London, UK | Mountain View, CA, USA",
-        "apply_link": "https://careers.google.com/jobs/results/142611399284007622-research-engineer-gemini-large-scale-pretraining-deepmind",
-        "company": "DeepMind",
-        "job_url": null
-      },
-      {
         "title": "Research Scientist, Mechanistic Interpretability, DeepMind",
         "location": "London, UK",
         "apply_link": "https://careers.google.com/jobs/results/91184735144813254-research-scientist-mechanistic-interpretability-deepmind",
@@ -405,9 +398,23 @@
         "job_url": null
       },
       {
+        "title": "Senior Research Engineer, Multimodal Reasoning and Media Forensics, DeepMind",
+        "location": "Mountain View, CA, USA | San Francisco, CA, USA",
+        "apply_link": "https://careers.google.com/jobs/results/128352815188714182-senior-research-engineer-multimodal-reasoning-and-media-forensics-deepmind",
+        "company": "DeepMind",
+        "job_url": null
+      },
+      {
         "title": "Research Scientist, GenAI, DeepMind",
         "location": "Mountain View, CA, USA",
         "apply_link": "https://careers.google.com/jobs/results/83823330850677446-research-scientist-genai-deepmind",
+        "company": "DeepMind",
+        "job_url": null
+      },
+      {
+        "title": "Research Scientist, Recursive Self Improvement and Post Training, DeepMind",
+        "location": "Singapore",
+        "apply_link": "https://careers.google.com/jobs/results/135557734496903878-research-scientist-recursive-self-improvement-and-post-training-deepmind",
         "company": "DeepMind",
         "job_url": null
       },
@@ -471,13 +478,6 @@
         "title": "Research Scientist, Gemini Commercial Intelligence, DeepMind",
         "location": "Mountain View, CA, USA",
         "apply_link": "https://careers.google.com/jobs/results/72530409325241030-research-scientist-gemini-commercial-intelligence-deepmind",
-        "company": "DeepMind",
-        "job_url": null
-      },
-      {
-        "title": "Research Scientist, Memory, Reasoning and Continual Learning, DeepMind",
-        "location": "Toronto, ON, Canada",
-        "apply_link": "https://careers.google.com/jobs/results/96791044003111622-research-scientist-memory-reasoning-and-continual-learning-deepmind",
         "company": "DeepMind",
         "job_url": null
       },
@@ -564,6 +564,13 @@
         "title": "Sr. Machine Learning Engineer, Ads",
         "location": "Palo Alto, CA",
         "apply_link": "https://job-boards.greenhouse.io/xai/jobs/4996796007",
+        "company": "X.ai",
+        "job_url": null
+      },
+      {
+        "title": "Sr. Machine Learning Engineer, Search Ranking",
+        "location": "Palo Alto, CA",
+        "apply_link": "https://job-boards.greenhouse.io/xai/jobs/5125621007",
         "company": "X.ai",
         "job_url": null
       },
@@ -787,13 +794,6 @@
         "apply_link": "https://jobs.ashbyhq.com/ThinkingMachines/2628909c-b655-4475-b0f5-fbadf7e9992f",
         "company": "Thinking Machines",
         "job_url": "https://jobs.ashbyhq.com/ThinkingMachines/2628909c-b655-4475-b0f5-fbadf7e9992f"
-      },
-      {
-        "title": "Product Management Recruiter",
-        "location": "San Francisco",
-        "apply_link": "https://jobs.ashbyhq.com/ThinkingMachines/3d90697c-362e-4b6e-8600-e1d39115c6cd",
-        "company": "Thinking Machines",
-        "job_url": "https://jobs.ashbyhq.com/ThinkingMachines/3d90697c-362e-4b6e-8600-e1d39115c6cd"
       },
       {
         "title": "Product Manager",
@@ -1055,20 +1055,6 @@
         "job_url": "https://jobs.ashbyhq.com/ThinkingMachines/8db05c24-7751-4923-a6d7-05bbfcebf069"
       },
       {
-        "title": "Technical Recruiter",
-        "location": "San Francisco",
-        "apply_link": "https://jobs.ashbyhq.com/ThinkingMachines/39d630ce-af8d-404c-a7eb-cbaac2f96b24",
-        "company": "Thinking Machines",
-        "job_url": "https://jobs.ashbyhq.com/ThinkingMachines/39d630ce-af8d-404c-a7eb-cbaac2f96b24"
-      },
-      {
-        "title": "Technical Recruiter: Security",
-        "location": "San Francisco",
-        "apply_link": "https://jobs.ashbyhq.com/ThinkingMachines/fa72912b-78b7-40ae-8a54-c2a524675f2c",
-        "company": "Thinking Machines",
-        "job_url": "https://jobs.ashbyhq.com/ThinkingMachines/fa72912b-78b7-40ae-8a54-c2a524675f2c"
-      },
-      {
         "title": "Technical Sourcer",
         "location": "San Francisco",
         "apply_link": "https://jobs.ashbyhq.com/ThinkingMachines/0b0b63c8-79b6-4901-9861-4a7f98370d30",
@@ -1077,6 +1063,6 @@
       }
     ]
   },
-  "last_updated": "2026-11-11T13:00:13.390506",
-  "total_jobs": 152
+  "last_updated": "2026-11-12T13:00:21.000412",
+  "total_jobs": 150
 }
