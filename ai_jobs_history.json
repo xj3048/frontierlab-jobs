@@ -496,6 +496,13 @@
         "job_url": null
       },
       {
+        "title": "Gemini Vision Research Scientist, DeepMind",
+        "location": "Mountain View, CA, USA | New York, NY, USA | Los Angeles, CA, USA",
+        "apply_link": "https://careers.google.com/jobs/results/103995840904733382-gemini-vision-research-scientist-deepmind",
+        "company": "DeepMind",
+        "job_url": null
+      },
+      {
         "title": "Research Scientist, Harmful Manipulation, DeepMind",
         "location": "New York, NY, USA | London, UK | Mountain View, CA, USA",
         "apply_link": "https://careers.google.com/jobs/results/123221070151852742-research-scientist-harmful-manipulation-deepmind",
@@ -633,9 +640,9 @@
         "job_url": null
       },
       {
-        "title": "机器人仿真工程师（物理引擎方向）-Seed",
-        "location": "北京",
-        "apply_link": "http://job.toutiao.com/society/position/detail/7678223253544044805",
+        "title": "大模型安全与对齐研究工程师 - Seed Model",
+        "location": "北京/上海",
+        "apply_link": "https://jobs.bytedance.com/experienced/position/7696043459627272501/detail",
         "company": "ByteDance Seed",
         "job_url": null
       },
@@ -647,16 +654,30 @@
         "job_url": null
       },
       {
-        "title": "机器人本体结构工程师-Seed Robotics",
+        "title": "具身数据引擎产品经理 - Seed Model",
         "location": "北京",
-        "apply_link": "https://jobs.bytedance.com/experienced/position/7626967018851862837/detail",
+        "apply_link": "https://jobs.bytedance.com/society/position/detail/7657800968400488709",
         "company": "ByteDance Seed",
         "job_url": null
       },
       {
-        "title": "多模态Agent算法研究员-Seed大模型人才校招",
+        "title": "AIGC算法专家（视频生成） - Seed Model",
         "location": "北京/上海/深圳",
-        "apply_link": "https://jobs.bytedance.com/campus/position/7622206477847038213/detail",
+        "apply_link": "http://job.toutiao.com/society/position/detail/7433443663633910067",
+        "company": "ByteDance Seed",
+        "job_url": null
+      },
+      {
+        "title": "高通量系统工程师 - AI for Science",
+        "location": "上海/深圳",
+        "apply_link": "http://job.toutiao.com/society/position/detail/7615182598782175493",
+        "company": "ByteDance Seed",
+        "job_url": null
+      },
+      {
+        "title": "通用基础模型研究员 - AI for Science",
+        "location": "北京/上海/深圳",
+        "apply_link": "http://job.toutiao.com/society/position/detail/7672666727587121461",
         "company": "ByteDance Seed",
         "job_url": null
       },
@@ -668,9 +689,44 @@
         "job_url": null
       },
       {
+        "title": "Software Engineer (Seed Model - Infrastructures - SRE)",
+        "location": "Seattle",
+        "apply_link": "https://jobs.bytedance.com/en/position/7696614592324290821/detail",
+        "company": "ByteDance Seed",
+        "job_url": null
+      },
+      {
+        "title": "Research Engineer - (Seed Model - Infra - Pretraining Infrastructure)",
+        "location": "San Jose",
+        "apply_link": "http://job.toutiao.com/en/position/detail/7699908150601992453",
+        "company": "ByteDance Seed",
+        "job_url": null
+      },
+      {
+        "title": "Research Engineer (Seed Model - Infra - Training Performance & Core Kernels)",
+        "location": "San Jose, Seattle",
+        "apply_link": "http://job.toutiao.com/en/position/detail/7626495609468012805",
+        "company": "ByteDance Seed",
+        "job_url": null
+      },
+      {
+        "title": "Research Scientist - [Seed Model - Alignment & Preparedness]",
+        "location": "San Jose",
+        "apply_link": "http://job.toutiao.com/en/position/detail/7642760712865384709",
+        "company": "ByteDance Seed",
+        "job_url": null
+      },
+      {
         "title": "Research Scientist Graduate (Seed Model - LLM) - 2027 Start (PhD)",
         "location": "San Jose",
         "apply_link": "https://jobs.bytedance.com/en/position/7623525222555961605/detail",
+        "company": "ByteDance Seed",
+        "job_url": null
+      },
+      {
+        "title": "Research Scientist Graduate (Seed Model-Alignment&Preparedness) - 2027 Start (PhD)",
+        "location": "San Jose",
+        "apply_link": "http://job.toutiao.com/en/position/detail/7698902624389482757",
         "company": "ByteDance Seed",
         "job_url": null
       },
@@ -724,13 +780,6 @@
         "apply_link": "https://jobs.ashbyhq.com/ThinkingMachines/3449b35c-78e1-4bf7-9b52-31ee9e764dca",
         "company": "Thinking Machines",
         "job_url": "https://jobs.ashbyhq.com/ThinkingMachines/3449b35c-78e1-4bf7-9b52-31ee9e764dca"
-      },
-      {
-        "title": "Global Public Policy",
-        "location": "San Francisco",
-        "apply_link": "https://jobs.ashbyhq.com/ThinkingMachines/9756df25-730d-4ef8-bcec-088f2d3a687f",
-        "company": "Thinking Machines",
-        "job_url": "https://jobs.ashbyhq.com/ThinkingMachines/9756df25-730d-4ef8-bcec-088f2d3a687f"
       },
       {
         "title": "Governance, Risk and Compliance Lead",
@@ -1063,6 +1112,6 @@
       }
     ]
   },
-  "last_updated": "2026-11-12T13:00:21.000412",
-  "total_jobs": 150
+  "last_updated": "2026-11-13T13:00:26.726773",
+  "total_jobs": 157
 }
