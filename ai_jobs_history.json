@@ -503,13 +503,6 @@
         "job_url": null
       },
       {
-        "title": "Research Scientist, Harmful Manipulation, DeepMind",
-        "location": "New York, NY, USA | London, UK | Mountain View, CA, USA",
-        "apply_link": "https://careers.google.com/jobs/results/123221070151852742-research-scientist-harmful-manipulation-deepmind",
-        "company": "DeepMind",
-        "job_url": null
-      },
-      {
         "title": "Research Scientist, Agents, DeepMind",
         "location": "Bengaluru, Karnataka, India",
         "apply_link": "https://careers.google.com/jobs/results/82988974666064582-research-scientist-agents-deepmind",
@@ -859,13 +852,6 @@
         "job_url": "https://jobs.ashbyhq.com/ThinkingMachines/f1367c17-63b2-41db-9e71-b9d44df9c558"
       },
       {
-        "title": "Recruiting Coordinator",
-        "location": "San Francisco",
-        "apply_link": "https://jobs.ashbyhq.com/ThinkingMachines/e20f69ca-fb50-4dff-9e7a-33344d110822",
-        "company": "Thinking Machines",
-        "job_url": "https://jobs.ashbyhq.com/ThinkingMachines/e20f69ca-fb50-4dff-9e7a-33344d110822"
-      },
-      {
         "title": "Reliability Engineer, Supercomputing",
         "location": "San Francisco",
         "apply_link": "https://jobs.ashbyhq.com/ThinkingMachines/8023baca-61b5-4f7d-b145-b96881754366",
@@ -1112,6 +1098,6 @@
       }
     ]
   },
-  "last_updated": "2026-11-13T13:00:26.726773",
-  "total_jobs": 157
+  "last_updated": "2026-11-14T13:00:22.218465",
+  "total_jobs": 155
 }
