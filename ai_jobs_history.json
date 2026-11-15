@@ -9,13 +9,6 @@
         "job_url": null
       },
       {
-        "title": "[C] Research Engineer, Discovery",
-        "location": "San Francisco, CA | New York City, NY",
-        "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5467305008",
-        "company": "Anthropic",
-        "job_url": null
-      },
-      {
         "title": "[Expression of Interest] Research Engineer / Scientist, Alignment - London",
         "location": "London, UK",
         "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/4610158008",
@@ -124,13 +117,6 @@
         "title": "Research Engineer, Visual Knowledge Work",
         "location": "New York City, NY; San Francisco, CA; Seattle, WA",
         "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5074217008",
-        "company": "Anthropic",
-        "job_url": null
-      },
-      {
-        "title": "Research Scientist, Discovery (Engineering & Applied Sciences)",
-        "location": "San Francisco, CA | New York City, NY",
-        "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5468930008",
         "company": "Anthropic",
         "job_url": null
       },
@@ -1098,6 +1084,6 @@
       }
     ]
   },
-  "last_updated": "2026-11-14T13:00:22.218465",
-  "total_jobs": 155
+  "last_updated": "2026-11-15T13:00:27.082824",
+  "total_jobs": 153
 }
