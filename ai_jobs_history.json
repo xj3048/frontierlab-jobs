@@ -175,13 +175,6 @@
         "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5390811008",
         "company": "Anthropic",
         "job_url": null
-      },
-      {
-        "title": "Transformative AI Research Economist, Economic Research",
-        "location": "San Francisco, CA",
-        "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5149802008",
-        "company": "Anthropic",
-        "job_url": null
       }
     ],
     "OpenAI": [
@@ -342,13 +335,6 @@
         "job_url": null
       },
       {
-        "title": "Research Engineer, Gemini Personalization Research, DeepMind",
-        "location": "Mountain View, CA, USA",
-        "apply_link": "https://careers.google.com/jobs/results/79768134398943942-research-engineer-gemini-personalization-research-deepmind",
-        "company": "DeepMind",
-        "job_url": null
-      },
-      {
         "title": "Staff Research Engineer, GenAI Reinforcement Learning, DeepMind",
         "location": "Mountain View, CA, USA",
         "apply_link": "https://careers.google.com/jobs/results/114314436751041222-staff-research-engineer-genai-reinforcement-learning-deepmind",
@@ -489,9 +475,9 @@
         "job_url": null
       },
       {
-        "title": "Research Scientist, Agents, DeepMind",
-        "location": "Bengaluru, Karnataka, India",
-        "apply_link": "https://careers.google.com/jobs/results/82988974666064582-research-scientist-agents-deepmind",
+        "title": "Research Engineer, Model Lifecycle Engineering, Robotics, DeepMind",
+        "location": "London, UK",
+        "apply_link": "https://careers.google.com/jobs/results/103573589784961734-research-engineer-model-lifecycle-engineering-robotics-deepmind",
         "company": "DeepMind",
         "job_url": null
       },
@@ -1084,6 +1070,6 @@
       }
     ]
   },
-  "last_updated": "2026-11-15T13:00:27.082824",
-  "total_jobs": 153
+  "last_updated": "2026-11-16T13:00:22.216335",
+  "total_jobs": 151
 }
