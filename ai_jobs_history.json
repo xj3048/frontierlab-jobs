@@ -342,6 +342,13 @@
         "job_url": null
       },
       {
+        "title": "Research Engineer, Benchmarking, Robotics, DeepMind",
+        "location": "Mountain View, CA, USA",
+        "apply_link": "https://careers.google.com/jobs/results/79472586961887942-research-engineer-benchmarking-robotics-deepmind",
+        "company": "DeepMind",
+        "job_url": null
+      },
+      {
         "title": "Research Scientist, GenAI BigML, DeepMind",
         "location": "New York, NY, USA | Mountain View, CA, USA",
         "apply_link": "https://careers.google.com/jobs/results/109744201511379654-research-scientist-genai-bigml-deepmind",
@@ -482,78 +489,7 @@
         "job_url": null
       }
     ],
-    "X.ai": [
-      {
-        "title": "Model Engineer, Mid-Training",
-        "location": "Palo Alto, CA",
-        "apply_link": "https://job-boards.greenhouse.io/xai/jobs/4965893007",
-        "company": "X.ai",
-        "job_url": null
-      },
-      {
-        "title": "Model Engineer, Post-Training & RL",
-        "location": "Palo Alto, CA",
-        "apply_link": "https://job-boards.greenhouse.io/xai/jobs/5114737007",
-        "company": "X.ai",
-        "job_url": null
-      },
-      {
-        "title": "Model Engineer, RL Training Framework",
-        "location": "Palo Alto, CA",
-        "apply_link": "https://job-boards.greenhouse.io/xai/jobs/5186992007",
-        "company": "X.ai",
-        "job_url": null
-      },
-      {
-        "title": "Model Engineer, Voice",
-        "location": "Palo Alto, CA",
-        "apply_link": "https://job-boards.greenhouse.io/xai/jobs/5051966007",
-        "company": "X.ai",
-        "job_url": null
-      },
-      {
-        "title": "Sr. Machine Learning Engineer, Ads",
-        "location": "Palo Alto, CA",
-        "apply_link": "https://job-boards.greenhouse.io/xai/jobs/4996796007",
-        "company": "X.ai",
-        "job_url": null
-      },
-      {
-        "title": "Sr. Machine Learning Engineer, Search Ranking",
-        "location": "Palo Alto, CA",
-        "apply_link": "https://job-boards.greenhouse.io/xai/jobs/5125621007",
-        "company": "X.ai",
-        "job_url": null
-      },
-      {
-        "title": "Sr. Model Engineer, Mid-Training",
-        "location": "Palo Alto, CA",
-        "apply_link": "https://job-boards.greenhouse.io/xai/jobs/5280957007",
-        "company": "X.ai",
-        "job_url": null
-      },
-      {
-        "title": "Sr. Model Engineer, Post-Training & RL",
-        "location": "Palo Alto, CA",
-        "apply_link": "https://job-boards.greenhouse.io/xai/jobs/5280958007",
-        "company": "X.ai",
-        "job_url": null
-      },
-      {
-        "title": "Sr. Model Engineer, RL Training Framework",
-        "location": "Palo Alto, CA",
-        "apply_link": "https://job-boards.greenhouse.io/xai/jobs/5280951007",
-        "company": "X.ai",
-        "job_url": null
-      },
-      {
-        "title": "Sr. Model Engineer, Voice",
-        "location": "Palo Alto, CA",
-        "apply_link": "https://job-boards.greenhouse.io/xai/jobs/5286973007",
-        "company": "X.ai",
-        "job_url": null
-      }
-    ],
+    "X.ai": [],
     "ByteDance Seed": [
       {
         "title": "大语言模型Code Agent算法工程师-Seed",
@@ -1083,6 +1019,13 @@
         "job_url": "https://jobs.ashbyhq.com/ThinkingMachines/8db05c24-7751-4923-a6d7-05bbfcebf069"
       },
       {
+        "title": "Technical Recruiter: Security",
+        "location": "San Francisco",
+        "apply_link": "https://jobs.ashbyhq.com/ThinkingMachines/fa72912b-78b7-40ae-8a54-c2a524675f2c",
+        "company": "Thinking Machines",
+        "job_url": "https://jobs.ashbyhq.com/ThinkingMachines/fa72912b-78b7-40ae-8a54-c2a524675f2c"
+      },
+      {
         "title": "Technical Sourcer",
         "location": "San Francisco",
         "apply_link": "https://jobs.ashbyhq.com/ThinkingMachines/0b0b63c8-79b6-4901-9861-4a7f98370d30",
@@ -1091,6 +1034,6 @@
       }
     ]
   },
-  "last_updated": "2026-11-17T13:00:12.527675",
-  "total_jobs": 154
+  "last_updated": "2026-11-18T13:00:37.646568",
+  "total_jobs": 146
 }
