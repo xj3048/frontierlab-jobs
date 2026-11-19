@@ -342,16 +342,16 @@
         "job_url": null
       },
       {
-        "title": "Research Engineer, Benchmarking, Robotics, DeepMind",
-        "location": "Mountain View, CA, USA",
-        "apply_link": "https://careers.google.com/jobs/results/79472586961887942-research-engineer-benchmarking-robotics-deepmind",
+        "title": "Research Scientist, GenAI BigML, DeepMind",
+        "location": "New York, NY, USA | Mountain View, CA, USA",
+        "apply_link": "https://careers.google.com/jobs/results/109744201511379654-research-scientist-genai-bigml-deepmind",
         "company": "DeepMind",
         "job_url": null
       },
       {
-        "title": "Research Scientist, GenAI BigML, DeepMind",
-        "location": "New York, NY, USA | Mountain View, CA, USA",
-        "apply_link": "https://careers.google.com/jobs/results/109744201511379654-research-scientist-genai-bigml-deepmind",
+        "title": "Research Engineer, Benchmarking, Robotics, DeepMind",
+        "location": "Mountain View, CA, USA",
+        "apply_link": "https://careers.google.com/jobs/results/79472586961887942-research-engineer-benchmarking-robotics-deepmind",
         "company": "DeepMind",
         "job_url": null
       },
@@ -489,7 +489,78 @@
         "job_url": null
       }
     ],
-    "X.ai": [],
+    "X.ai": [
+      {
+        "title": "Model Engineer, Mid-Training",
+        "location": "Palo Alto, CA",
+        "apply_link": "https://job-boards.greenhouse.io/xai/jobs/4965893007",
+        "company": "X.ai",
+        "job_url": null
+      },
+      {
+        "title": "Model Engineer, Post-Training & RL",
+        "location": "Palo Alto, CA",
+        "apply_link": "https://job-boards.greenhouse.io/xai/jobs/5114737007",
+        "company": "X.ai",
+        "job_url": null
+      },
+      {
+        "title": "Model Engineer, RL Training Framework",
+        "location": "Palo Alto, CA",
+        "apply_link": "https://job-boards.greenhouse.io/xai/jobs/5186992007",
+        "company": "X.ai",
+        "job_url": null
+      },
+      {
+        "title": "Model Engineer, Voice",
+        "location": "Palo Alto, CA",
+        "apply_link": "https://job-boards.greenhouse.io/xai/jobs/5051966007",
+        "company": "X.ai",
+        "job_url": null
+      },
+      {
+        "title": "Sr. Machine Learning Engineer, Ads",
+        "location": "Palo Alto, CA",
+        "apply_link": "https://job-boards.greenhouse.io/xai/jobs/4996796007",
+        "company": "X.ai",
+        "job_url": null
+      },
+      {
+        "title": "Sr. Machine Learning Engineer, Search Ranking",
+        "location": "Palo Alto, CA",
+        "apply_link": "https://job-boards.greenhouse.io/xai/jobs/5125621007",
+        "company": "X.ai",
+        "job_url": null
+      },
+      {
+        "title": "Sr. Model Engineer, Mid-Training",
+        "location": "Palo Alto, CA",
+        "apply_link": "https://job-boards.greenhouse.io/xai/jobs/5280957007",
+        "company": "X.ai",
+        "job_url": null
+      },
+      {
+        "title": "Sr. Model Engineer, Post-Training & RL",
+        "location": "Palo Alto, CA",
+        "apply_link": "https://job-boards.greenhouse.io/xai/jobs/5280958007",
+        "company": "X.ai",
+        "job_url": null
+      },
+      {
+        "title": "Sr. Model Engineer, RL Training Framework",
+        "location": "Palo Alto, CA",
+        "apply_link": "https://job-boards.greenhouse.io/xai/jobs/5280951007",
+        "company": "X.ai",
+        "job_url": null
+      },
+      {
+        "title": "Sr. Model Engineer, Voice",
+        "location": "Palo Alto, CA",
+        "apply_link": "https://job-boards.greenhouse.io/xai/jobs/5286973007",
+        "company": "X.ai",
+        "job_url": null
+      }
+    ],
     "ByteDance Seed": [
       {
         "title": "大语言模型Code Agent算法工程师-Seed",
@@ -1034,6 +1105,6 @@
       }
     ]
   },
-  "last_updated": "2026-11-18T13:00:37.646568",
-  "total_jobs": 146
+  "last_updated": "2026-11-19T13:00:10.123576",
+  "total_jobs": 156
 }
