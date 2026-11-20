@@ -349,16 +349,16 @@
         "job_url": null
       },
       {
-        "title": "Research Engineer, Benchmarking, Robotics, DeepMind",
-        "location": "Mountain View, CA, USA",
-        "apply_link": "https://careers.google.com/jobs/results/79472586961887942-research-engineer-benchmarking-robotics-deepmind",
+        "title": "Staff Research Engineer, Applied AI, DeepMind",
+        "location": "Singapore",
+        "apply_link": "https://careers.google.com/jobs/results/110885490286043846-staff-research-engineer-applied-ai-deepmind",
         "company": "DeepMind",
         "job_url": null
       },
       {
-        "title": "Staff Research Engineer, Applied AI, DeepMind",
-        "location": "Singapore",
-        "apply_link": "https://careers.google.com/jobs/results/110885490286043846-staff-research-engineer-applied-ai-deepmind",
+        "title": "Research Engineer, Benchmarking, Robotics, DeepMind",
+        "location": "Mountain View, CA, USA",
+        "apply_link": "https://careers.google.com/jobs/results/79472586961887942-research-engineer-benchmarking-robotics-deepmind",
         "company": "DeepMind",
         "job_url": null
       },
@@ -1105,6 +1105,6 @@
       }
     ]
   },
-  "last_updated": "2026-11-19T13:00:10.123576",
+  "last_updated": "2026-11-20T13:00:22.628002",
   "total_jobs": 156
 }
